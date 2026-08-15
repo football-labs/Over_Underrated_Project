@@ -10,27 +10,37 @@ SUPABASE_KEY = os.environ["SUPABASE_KEY"]
 # On crée le client Supabase
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# On définit les tables à exporter
-tables = ["jugadores","tm_achievements","tm_clubs_roster","tm_injuries","tm_profiles","tm_transfers","entity_resolution","fotmob_internationals","silver_analyst",
-"silver_fotmob","silver_sofascore","silver_understat","sofascore_valuations","valuations","capology_payrolls","capology_salaries","salarysport_salaries"]
+# On définit les tables à exporter avec leur schéma
+tables = {
+    "maestros": ["jugadores"],
+    "profiles": ["tm_achievements","tm_clubs_roster","tm_injuries","tm_profiles","tm_transfers"],
+    "stats": ["entity_resolution","fotmob_internationals","silver_analyst","silver_fotmob","silver_sofascore",
+        "silver_understat","sofascore_valuations","valuations"],
+    "wages": ["capology_payrolls","capology_salaries","salarysport_salaries"]
+}
 
+# Dossier de sortie
 output_dir = Path("data")
 output_dir.mkdir(exist_ok=True)
 
-for table in tables:
-    print(f"Export de {table}...")
+# Export de toutes les tables
+for schema, schema_tables in tables.items():
 
-    response = (
-        supabase
-        .table(table)
-        .select("*")
-        .csv()
-        .execute()
-    )
+    for table in schema_tables:
+        print(f"Export de {schema}.{table}...")
 
-    output_file = output_dir / f"{table}.csv"
+        response = (
+            supabase
+            .schema(schema)
+            .table(table)
+            .select("*")
+            .csv()
+            .execute()
+        )
 
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(response.data)
+        output_file = output_dir / f"{table}.csv"
 
-    print(f"{table} exportée vers {output_file}")
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(response.data)
+
+        print(f"{schema}.{table} exportée vers {output_file}")
