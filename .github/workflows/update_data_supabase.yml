@@ -1,0 +1,47 @@
+name: Export Supabase CSV
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Tous les mercredis à 06:00 UTC
+    - cron: "0 6 * * 3"
+
+jobs:
+  export-data-supabase:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Export Supabase tables
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python script/export_data_supabase.py
+
+      - name: Commit and push updated CSV files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/*.csv
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification détectée."
+          else
+            git commit -m "Update Supabase CSV exports"
+            git push
+          fi
