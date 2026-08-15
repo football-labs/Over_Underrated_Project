@@ -1,0 +1,1001 @@
+id,club_id,club_updated_at,player_id,player_name,position,date_of_birth,age,nationality,current_club,height,foot,joined_on,joined,signed_from,contract,market_value,status
+24654,3523,2026-03-29T21:38:32.446648,473096,"Willian Vargas",Right-Back,1997-12-06,28,Ecuador,,,right,2024-11-01,,"Guayaquil City FC",,300000,
+24784,6362,2026-03-29T21:38:34.709946,1284965,"Virgilio Olaya",Centre-Back,2008-03-02,18,Ecuador,,188,right,2025-01-01,,"SD Aucas U20",,1200000,
+24785,6362,2026-03-29T21:38:34.709946,1087320,"Byron Carabalí",Centre-Back,2003-04-22,22,Ecuador,,183,,2024-01-01,,"SD Aucas B",,150000,
+24902,25576,2026-03-29T21:38:36.658716,715926,"Cristopher Angulo",Right-Back,2000-09-10,25,Ecuador,,,right,2026-03-02,,"CD La Union",2026-12-31,,
+24979,19304,2026-03-29T21:38:38.216184,1270939,"Juan José Ortíz",Goalkeeper,1993-02-13,33,Ecuador,,,,2026-01-30,,"LDU de Portoviejo",2026-12-31,,
+12751,16,2026-03-29T21:34:35.647724,257814,"Gregor Kobel",Goalkeeper,1997-06-12,28,Switzerland,,196,right,2021-01-07,,"VfB Stuttgart",2028-06-30,40000000,
+12752,16,2026-03-29T21:34:35.647724,76158,"Alexander Meyer",Goalkeeper,1991-04-13,34,Germany,,195,right,2022-01-07,,"SSV Jahn Regensburg",2027-06-30,800000,
+12753,16,2026-03-29T21:34:35.647724,94192,"Patrick Drewes",Goalkeeper,1993-04-02,33,Germany,,194,right,2025-01-07,,"VfL Bochum",2027-06-30,400000,
+12754,16,2026-03-29T21:34:35.647724,684116,"Silas Ostrzinski",Goalkeeper,2003-11-19,22,Germany,,198,right,2025-04-01,,"Borussia Dortmund II",2027-06-30,200000,
+12755,16,2026-03-29T21:34:35.647724,388198,"Nico Schlotterbeck",Centre-Back,1999-01-12,26,Germany,,191,left,2022-01-07,,"SC Freiburg",2027-06-30,55000000,
+12756,16,2026-03-29T21:34:35.647724,193004,"Waldemar Anton",Centre-Back,1996-07-20,29,Germany,,189,right,2024-08-07,,"VfB Stuttgart",2028-06-30,18000000,
+12757,16,2026-03-29T21:34:35.647724,284732,"Ramy Bensebaini",Centre-Back,1995-04-16,30,Algeria,,187,left,2023-01-07,,"Borussia Mönchengladbach",2027-06-30,7000000,
+12758,16,2026-03-29T21:34:35.647724,1074990,"Luca Reggiani",Centre-Back,2008-09-01,18,Italy,,194,right,2026-03-20,,"Borussia Dortmund U19",,5000000,
+12759,16,2026-03-29T21:34:35.647724,119296,"Emre Can",Centre-Back,1994-12-01,32,"Germany, Türkiye",,186,right,2020-01-07,,"Juventus FC",2027-06-30,4000000,"Team captain; Cruciate ligament tear - Return unknown"
+12760,16,2026-03-29T21:34:35.647724,166601,"Niklas Süle",Centre-Back,1995-03-09,30,Germany,,195,right,2022-01-07,,": Ablöse free transfer",2026-06-30,4000000,
+12761,16,2026-03-29T21:34:35.647724,883007,"Filippo Mane",Centre-Back,2005-08-03,21,"Italy, Senegal",,188,right,2025-06-01,,"Borussia Dortmund II",2028-06-30,2500000,"Muscle injury - Return unknown"
+12762,16,2026-03-29T21:34:35.647724,579287,"Daniel Svensson",Left-Back,2002-12-02,24,Sweden,,183,left,2025-01-07,,"FC Nordsjaelland",2029-06-30,22000000,
+12763,16,2026-03-29T21:34:35.647724,884820,"Almugera Kabar",Left-Back,2006-06-06,19,"Germany, Libya",,186,left,2024-07-08,,"Borussia Dortmund U19",2028-06-30,3000000,
+12764,16,2026-03-29T21:34:35.647724,370789,"Julian Ryerson",Right-Back,1997-11-17,28,"Norway, United States",,183,right,2023-01-17,,"1.FC Union Berlin",2028-06-30,25000000,
+12765,16,2026-03-29T21:34:35.647724,244940,"Salih Özcan","Defensive Midfield",1998-11-01,28,"Türkiye, Germany",,183,right,2022-01-07,,"1.FC Köln",2026-06-30,3500000,
+12766,16,2026-03-29T21:34:35.647724,406640,"Felix Nmecha","Central Midfield",2000-10-10,25,"Germany, England",,190,right,2023-03-07,,"VfL Wolfsburg",2030-06-30,50000000,"Torn lateral knee ligament - Return unknown"
+12767,16,2026-03-29T21:34:35.647724,796297,"Jobe Bellingham","Central Midfield",2005-09-23,20,"England, Ireland",,191,right,2025-10-06,,"Sunderland AFC",2030-06-30,30000000,
+12768,16,2026-03-29T21:34:35.647724,659459,"Carney Chukwuemeka","Central Midfield",2003-10-20,22,"Austria, England",,188,right,2025-08-26,,"Chelsea FC",2030-06-30,20000000,
+12769,16,2026-03-29T21:34:35.647724,106987,"Marcel Sabitzer","Central Midfield",1994-03-17,32,Austria,,178,right,2023-07-24,,": Ablöse €19.00m",2027-06-30,7000000,
+12770,16,2026-03-29T21:34:35.647724,627228,"Yan Couto","Right Midfield",2002-03-06,23,"Brazil, Portugal",,168,right,2025-01-07,,"Manchester City",2030-06-30,20000000,
+12771,16,2026-03-29T21:34:35.647724,187492,"Julian Brandt","Attacking Midfield",1996-02-05,29,Germany,,185,right,2019-01-07,,"Bayer 04 Leverkusen",2026-06-30,20000000,
+12772,16,2026-03-29T21:34:35.647724,496094,"Karim Adeyemi","Right Winger",2002-01-18,24,"Germany, Nigeria",,180,left,2022-01-07,,"Red Bull Salzburg",2027-06-30,50000000,
+12773,16,2026-03-29T21:34:35.647724,1058359,"Samuele Inácio","Second Striker",2008-02-04,17,"Italy, Brazil",,176,right,,,,2027-06-30,3000000,
+12774,16,2026-03-29T21:34:35.647724,270541,"Serhou Guirassy",Centre-Forward,1996-12-03,30,"Guinea, France",,187,right,2024-07-18,,"VfB Stuttgart",2028-06-30,40000000,
+12775,16,2026-03-29T21:34:35.647724,578392,"Maximilian Beier",Centre-Forward,2002-10-17,23,Germany,,185,right,2024-12-08,,"TSG 1899 Hoffenheim",2029-06-30,40000000,
+12776,16,2026-03-29T21:34:35.647724,505653,"Fábio Silva",Centre-Forward,2002-07-19,23,Portugal,,185,right,2025-08-29,,"Wolverhampton Wanderers",2030-06-30,28000000,
+12777,23826,2026-03-29T21:34:35.943801,486046,"Maarten Vandevoordt",Goalkeeper,2002-02-26,24,Belgium,,192,right,2024-01-07,,"KRC Genk",2030-06-30,8000000,
+12778,23826,2026-03-29T21:34:35.943801,57071,"Péter Gulácsi",Goalkeeper,1990-06-05,35,Hungary,,193,right,2015-01-07,,": Ablöse €3.00m",2027-06-30,2000000,"Inner knee ligament tear - Return unknown"
+12779,23826,2026-03-29T21:34:35.943801,160971,"Leopold Zingerle",Goalkeeper,1994-10-04,31,Germany,,182,right,2023-01-07,,"SC Paderborn 07",2028-06-30,400000,
+12780,23826,2026-03-29T21:34:35.943801,618472,"Castello Lukeba",Centre-Back,2002-12-17,23,"France, Angola",,184,left,2023-11-08,,"Olympique Lyon",2029-06-30,45000000,
+12781,23826,2026-03-29T21:34:35.943801,787912,"El Chadaille Bitshiabu",Centre-Back,2005-05-16,20,"France, DR Congo",,196,left,2023-07-18,,": Ablöse €15.00m",2029-06-30,15000000,
+12782,23826,2026-03-29T21:34:35.943801,93740,"Willi Orbán",Centre-Back,1992-03-11,33,"Hungary, Germany",,186,right,2015-01-07,,"1.FC Kaiserslautern",2027-06-30,6000000,
+12783,23826,2026-03-29T21:34:35.943801,215599,"Lukas Klostermann",Centre-Back,1996-03-06,29,Germany,,189,right,2014-08-22,,"VfL Bochum",2028-06-30,3500000,
+12784,23826,2026-03-29T21:34:35.943801,1006916,"Jonathan Norbye",Centre-Back,2007-03-26,19,Norway,,194,left,2025-01-07,,"RB Leipzig U19",2028-06-30,300000,
+12785,23826,2026-03-29T21:34:35.943801,318204,"David Raum",Left-Back,1998-04-22,27,Germany,,181,left,2022-07-31,,"TSG 1899 Hoffenheim",2027-06-30,22000000,"Team captain"
+12786,23826,2026-03-29T21:34:35.943801,810649,"Max Finkgräfe",Left-Back,2004-03-27,22,Germany,,183,left,2025-03-07,,"1.FC Köln",2030-06-30,3000000,
+12787,23826,2026-03-29T21:34:35.943801,327251,"Ridle Baku",Right-Back,1998-08-04,27,"Germany, DR Congo",,176,right,2025-10-01,,"VfL Wolfsburg",2027-06-30,12000000,
+12788,23826,2026-03-29T21:34:35.943801,202591,"Benjamin Henrichs",Right-Back,1997-02-23,29,"Germany, Ghana",,185,right,2021-01-07,,"AS Monaco",2028-06-30,9000000,
+12789,23826,2026-03-29T21:34:35.943801,848682,"Kosta Nedeljkovic",Right-Back,2005-12-16,20,Serbia,,184,right,2025-03-02,,"Aston Villa",2026-06-30,6000000,
+12790,23826,2026-03-29T21:34:35.943801,404950,"Nicolas Seiwald","Defensive Midfield",2001-04-05,24,Austria,,180,right,2023-01-07,,"Red Bull Salzburg",2028-06-30,22000000,
+12791,23826,2026-03-29T21:34:35.943801,1279157,"Benno Kaltefleiter","Defensive Midfield",2008-02-14,18,Germany,,189,right,2026-02-19,,"RB Leipzig U19",2029-06-30,,
+12792,23826,2026-03-29T21:34:35.943801,897424,"Assan Ouédraogo","Central Midfield",2006-09-05,19,"Germany, Burkina Faso",,191,right,2024-01-07,,"FC Schalke 04",2029-06-30,28000000,"Knee injury - Return expected on 31/03/2026"
+12793,23826,2026-03-29T21:34:35.943801,865682,"Ezechiel Banzuzi","Central Midfield",2005-02-16,21,"Netherlands, DR Congo",,191,right,2025-01-07,,"Oud-Heverlee Leuven",2030-06-30,18000000,
+12794,23826,2026-03-29T21:34:35.943801,223979,"Xaver Schlager","Central Midfield",1997-09-28,28,Austria,,174,left,2022-01-07,,"VfL Wolfsburg",2026-06-30,10000000,
+12795,23826,2026-03-29T21:34:35.943801,324278,"Christoph Baumgartner","Attacking Midfield",1999-01-08,26,Austria,,180,right,2023-01-07,,"TSG 1899 Hoffenheim",2028-06-30,30000000,
+12796,23826,2026-03-29T21:34:35.943801,700106,"Brajan Gruda","Attacking Midfield",2004-05-31,21,"Germany, Albania",,178,left,2026-02-02,,"Brighton & Hove Albion",2026-06-30,28000000,
+12797,23826,2026-03-29T21:34:35.943801,952779,"Andrija Maksimovic","Attacking Midfield",2007-05-06,18,Serbia,,182,left,2025-07-16,,"Red Star Belgrade",2030-06-30,12000000,
+12798,23826,2026-03-29T21:34:35.943801,1074526,"Viggo Gebel","Attacking Midfield",2007-11-22,18,Germany,,175,right,,,,2028-06-30,350000,"Cruciate ligament tear - Return unknown"
+12799,23826,2026-03-29T21:34:35.943801,1390649,"Yan Diomande","Left Winger",2006-11-14,19,"Cote d'Ivoire",,180,right,2025-07-16,,"CD Leganés",2030-06-30,75000000,"Capsular injury - Return unknown"
+12800,23826,2026-03-29T21:34:35.943801,894914,"Antonio Nusa","Left Winger",2005-04-17,20,"Norway, Nigeria",,183,right,2024-08-13,,"Club Brugge KV",2029-06-30,32000000,
+12801,23826,2026-03-29T21:34:35.943801,1235583,"Suleman Sani","Left Winger",2006-01-09,19,Nigeria,,175,right,2026-01-13,,"AS Trencin",2031-06-30,5000000,
+12802,23826,2026-03-29T21:34:35.943801,955448,"Tidiam Gomis","Left Winger",2006-08-08,19,"France, Senegal",,183,right,2025-03-02,,"SM Caen",2029-06-30,5000000,
+12803,23826,2026-03-29T21:34:35.943801,763948,"Ayodele Thomas","Left Winger",2007-07-23,18,"Netherlands, Nigeria",,177,right,2026-02-02,,"PSV Eindhoven U21",2031-06-30,1000000,
+12804,23826,2026-03-29T21:34:35.943801,565424,"Johan Bakayoko","Right Winger",2003-04-20,22,"Belgium, Cote d'Ivoire",,179,left,2025-07-16,,"PSV Eindhoven",2030-06-30,22000000,
+12805,23826,2026-03-29T21:34:35.943801,957874,Rômulo,Centre-Forward,2002-08-02,24,Brazil,,193,right,2025-08-15,,Göztepe,2030-06-30,30000000,
+12806,23826,2026-03-29T21:34:35.943801,807386,"Conrad Harder",Centre-Forward,2005-07-04,20,Denmark,,185,left,2025-01-09,,"Sporting CP",2030-06-30,20000000,
+12807,23826,2026-03-29T21:34:35.943801,1380977,"Samba Konaté",Centre-Forward,2009-02-27,17,"France, Senegal",,190,right,,,,2028-06-30,1000000,
+12808,27,2026-03-29T21:34:36.119650,607720,"Jonas Urbig",Goalkeeper,2003-08-08,22,Germany,,189,both,2025-01-27,,"1.FC Köln",2029-06-30,15000000,"Capsular injury - Return unknown"
+12809,27,2026-03-29T21:34:36.119650,17259,"Manuel Neuer",Goalkeeper,1986-03-27,40,Germany,,193,right,2011-01-07,,"FC Schalke 04",2026-06-30,4000000,"Team captain; Muscle fiber tear - Return unknown"
+12810,27,2026-03-29T21:34:36.119650,40680,"Sven Ulreich",Goalkeeper,1988-03-08,37,Germany,,192,right,2021-01-07,,"Hamburger SV",2026-06-30,500000,"Torn muscle bundle - Return expected on 28/04/2026"
+12915,82,2026-03-29T21:34:38.687477,881297,"Adam Daghim","Right Winger",2005-09-28,20,"Denmark, Palestine",,189,left,2025-01-09,,"Red Bull Salzburg",2026-06-30,7500000,
+12811,27,2026-03-29T21:34:36.119650,1009439,"Leon Klanac",Goalkeeper,2007-01-03,19,"Germany, Croatia",,185,right,,,,2027-06-30,150000,"Hamstring injury - Return unknown"
+12812,27,2026-03-29T21:34:36.119650,344695,"Dayot Upamecano",Centre-Back,1998-10-27,27,"France, Guinea-Bissau",,186,right,2021-05-07,,"RB Leipzig",2030-06-30,70000000,
+12813,27,2026-03-29T21:34:36.119650,196357,"Jonathan Tah",Centre-Back,1996-11-02,30,"Germany, Cote d'Ivoire",,195,right,2025-09-06,,"Bayer 04 Leverkusen",2029-06-30,30000000,
+12814,27,2026-03-29T21:34:36.119650,503482,"Min-jae Kim",Centre-Back,1996-11-15,29,"Korea, South",,190,right,2023-07-18,,": Ablöse €50.00m",2028-06-30,25000000,
+12815,27,2026-03-29T21:34:36.119650,353892,"Hiroki Ito",Centre-Back,1999-12-05,26,Japan,,188,left,2024-01-07,,"VfB Stuttgart",2028-06-30,18000000,
+12816,27,2026-03-29T21:34:36.119650,424204,"Alphonso Davies",Left-Back,2000-02-11,25,"Canada, Liberia",,185,left,2019-01-01,,"Vancouver Whitecaps FC",2030-06-30,45000000,"Hamstring strain - Return unknown"
+12817,27,2026-03-29T21:34:36.119650,170986,"Raphaël Guerreiro",Left-Back,1993-12-22,32,"Portugal, France",,170,left,2023-01-07,,"Borussia Dortmund",2026-06-30,6000000,
+12818,27,2026-03-29T21:34:36.119650,483046,"Josip Stanisic",Right-Back,2000-02-04,25,"Croatia, Germany",,187,both,2021-01-08,,": Ablöse -",2029-06-30,35000000,
+12819,27,2026-03-29T21:34:36.119650,223967,"Konrad Laimer",Right-Back,1997-05-27,28,Austria,,180,right,2023-01-07,,"RB Leipzig",2027-06-30,32000000,
+12820,27,2026-03-29T21:34:36.119650,792380,"Aleksandar Pavlovic","Defensive Midfield",2004-03-05,21,"Germany, Serbia",,188,both,2023-01-11,,": Ablöse -",2029-06-30,75000000,"Hip problems - Return unknown"
+12821,27,2026-03-29T21:34:36.119650,161056,"Joshua Kimmich","Defensive Midfield",1995-08-02,31,Germany,,177,right,2015-02-07,,"VfB Stuttgart",2029-06-30,40000000,
+12822,27,2026-03-29T21:34:36.119650,822959,"Tom Bischof","Central Midfield",2005-06-28,20,Germany,,176,left,2025-09-06,,"TSG 1899 Hoffenheim",2029-06-30,40000000,
+12823,27,2026-03-29T21:34:36.119650,153084,"Leon Goretzka","Central Midfield",1995-06-02,31,Germany,,189,right,2018-01-07,,"FC Schalke 04",2026-06-30,15000000,
+12824,27,2026-03-29T21:34:36.119650,1497653,"Bara Sapoko Ndiaye","Central Midfield",2007-12-31,18,Senegal,,180,right,2026-03-01,,"Gambinos Stars",2026-06-30,300000,"No eligibility – UEFA Champions League – until 30/06/2026; Capsular injury - Return unknown"
+12825,27,2026-03-29T21:34:36.119650,580195,"Jamal Musiala","Attacking Midfield",2003-02-26,23,"Germany, England",,184,right,2020-01-07,,": Ablöse -",2030-06-30,120000000,"Ankle problems - Return unknown"
+12826,27,2026-03-29T21:34:36.119650,1075147,"Lennart Karl","Attacking Midfield",2008-02-22,18,Germany,,168,left,2025-01-06,,"FC Bayern Munich U19 ",2029-06-30,60000000,
+12827,27,2026-03-29T21:34:36.119650,480692,"Luis Díaz","Left Winger",1997-01-13,29,Colombia,,180,right,2025-07-30,,"Liverpool FC",2029-06-30,70000000,
+12828,27,2026-03-29T21:34:36.119650,566723,"Michael Olise","Right Winger",2001-12-12,24,"France, England",,184,left,2024-07-07,,"Crystal Palace",2029-06-30,140000000,
+12829,27,2026-03-29T21:34:36.119650,159471,"Serge Gnabry","Second Striker",1995-07-14,30,"Germany, Cote d'Ivoire",,176,right,2017-01-07,,"SV Werder Bremen",2028-06-30,20000000,
+12830,27,2026-03-29T21:34:36.119650,132098,"Harry Kane",Centre-Forward,1993-07-28,32,"England, Ireland",,188,right,2023-12-08,,": Ablöse €95.00m",2027-06-30,65000000,
+12831,27,2026-03-29T21:34:36.119650,776890,"Nicolas Jackson",Centre-Forward,2001-06-20,24,"Senegal, The Gambia",,187,right,2025-01-09,,"Chelsea FC",2026-06-30,40000000,"Red card suspension – Bundesliga – until 05/04/2026"
+12832,15,2026-03-29T21:34:36.635350,125714,"Mark Flekken",Goalkeeper,1993-06-13,32,Netherlands,,195,both,2025-01-07,,"Brentford FC",2028-06-30,8000000,
+12833,15,2026-03-29T21:34:36.635350,247915,"Jonas Omlin",Goalkeeper,1994-10-01,32,Switzerland,,190,right,2026-01-27,,"Borussia Mönchengladbach",2026-06-30,1500000,
+12834,15,2026-03-29T21:34:36.635350,81173,"Janis Blaswich",Goalkeeper,1991-02-05,34,Germany,,193,right,2025-11-08,,"RB Leipzig",2027-06-30,700000,
+12835,15,2026-03-29T21:34:36.635350,85543,"Niklas Lomb",Goalkeeper,1993-07-28,32,Germany,,186,right,2012-01-07,,"Bayer 04 Leverkusen U19",2027-06-30,250000,
+12836,15,2026-03-29T21:34:36.635350,632349,"Jarell Quansah",Centre-Back,2003-01-29,23,"England, Scotland",,190,right,2025-02-07,,"Liverpool FC",2030-06-30,45000000,"Thigh problems - Return unknown"
+12837,15,2026-03-29T21:34:36.635350,564545,"Edmond Tapsoba",Centre-Back,1999-02-02,27,"Burkina Faso",,194,right,2020-01-31,,"Vitória Guimarães SC",2028-06-30,35000000,
+12838,15,2026-03-29T21:34:36.635350,730581,"Loïc Badé",Centre-Back,2000-11-04,25,"France, Cote d'Ivoire",,191,right,2025-08-21,,"Sevilla FC",2030-06-30,25000000,"Hamstring injury - Return unknown"
+12839,15,2026-03-29T21:34:36.635350,1077670,"Axel Tape",Centre-Back,2007-10-08,18,"France, Cote d'Ivoire",,180,right,2025-01-07,,"Paris Saint-Germain Espoirs",2030-06-30,8000000,
+12840,15,2026-03-29T21:34:36.635350,696164,"Tim Oermann",Centre-Back,2003-06-10,22,Germany,,189,right,2025-01-07,,"VfL Bochum",2029-06-30,4000000,
+12841,15,2026-03-29T21:34:36.635350,1133977,"Issa Traoré",Centre-Back,2007-11-14,18,Mali,,194,,2026-01-01,,"Djoliba AC",2029-06-30,800000,
+12842,15,2026-03-29T21:34:36.635350,193082,"Alejandro Grimaldo",Left-Back,1995-09-20,30,Spain,,171,left,2023-01-07,,"SL Benfica",2027-06-30,24000000,
+12843,15,2026-03-29T21:34:36.635350,977464,Arthur,Right-Back,2003-03-17,23,Brazil,,174,right,2023-01-07,,"América Futebol Clube (MG)",2028-06-30,7000000,"Syndesmotic ligament tear - Return unknown"
+12844,15,2026-03-29T21:34:36.635350,221316,"Lucas Vázquez",Right-Back,1991-01-07,34,Spain,,173,right,2025-08-26,,"Real Madrid",2027-06-30,2500000,"Calf injury - Return unknown"
+12845,15,2026-03-29T21:34:36.635350,664708,"Equi Fernández","Defensive Midfield",2002-07-25,23,"Argentina, Paraguay",,178,left,2025-01-09,,"Al-Qadsiah FC",2030-06-30,22000000,
+12846,15,2026-03-29T21:34:36.635350,159088,"Robert Andrich","Defensive Midfield",1994-09-22,31,Germany,,187,right,2021-08-16,,"1.FC Union Berlin",2028-06-30,7000000,"Team captain"
+12847,15,2026-03-29T21:34:36.635350,401578,"Exequiel Palacios","Central Midfield",1998-05-10,27,Argentina,,178,right,2020-01-01,,": Ablöse €17.00m",2030-06-30,30000000,
+12848,15,2026-03-29T21:34:36.635350,261504,"Aleix García","Central Midfield",1997-06-28,28,Spain,,173,right,2024-01-07,,"Girona FC",2029-06-30,20000000,"Yellow card suspension – Bundesliga – until 05/04/2026"
+12849,15,2026-03-29T21:34:36.635350,905011,"Ibrahim Maza","Attacking Midfield",2005-11-24,20,"Algeria, Germany",,180,right,2025-01-07,,"Hertha BSC",2030-06-30,40000000,
+12850,15,2026-03-29T21:34:36.635350,467437,"Malik Tillman","Attacking Midfield",2002-05-28,23,"United States, Germany",,187,right,2025-12-07,,"PSV Eindhoven",2030-06-30,30000000,
+12851,15,2026-03-29T21:34:36.635350,7161,"Jonas Hofmann","Attacking Midfield",1992-07-14,33,Germany,,176,right,2023-05-07,,"Borussia Mönchengladbach",2027-06-30,2000000,
+12852,15,2026-03-29T21:34:36.635350,810895,"Eliesse Ben Seghir","Left Winger",2005-02-16,21,"Morocco, France",,178,right,2025-08-31,,"AS Monaco",2030-06-30,20000000,"Fitness - Return unknown"
+12853,15,2026-03-29T21:34:36.635350,442891,"Martin Terrier","Left Winger",1997-04-03,29,France,,184,right,2024-07-18,,"Stade Rennais FC",2029-06-30,12000000,"Hamstring injury - Return unknown"
+12854,15,2026-03-29T21:34:36.635350,718303,"Ernest Poku","Right Winger",2004-01-28,22,"Netherlands, Ghana",,176,right,2025-12-08,,"AZ Alkmaar",2030-06-30,25000000,
+12855,15,2026-03-29T21:34:36.635350,340322,"Nathan Tella","Right Winger",1999-05-07,26,"Nigeria, England",,173,right,2023-08-27,,"Southampton FC",2028-06-30,15000000,
+12856,15,2026-03-29T21:34:36.635350,1058514,"Montrell Culbreath","Right Winger",2007-08-29,18,"Germany, United States",,172,right,2026-01-01,,"Bayer 04 Leverkusen U19",2030-06-30,5000000,
+12857,15,2026-03-29T21:34:36.635350,1364454,"Christian Kofane",Centre-Forward,2006-07-26,19,Cameroon,,189,right,2025-11-07,,"Albacete Balompié",2029-06-30,40000000,
+12858,15,2026-03-29T21:34:36.635350,242086,"Patrik Schick",Centre-Forward,1996-01-24,30,"Czech Republic",,191,left,2020-08-09,,"AS Roma",2030-06-30,20000000,
+12859,24,2026-03-29T21:34:36.933528,997861,"Kauã Santos",Goalkeeper,2003-11-04,22,"Brazil, Portugal",,196,right,2023-08-29,,"CR Flamengo U20",2030-06-30,7000000,"Inner knee ligament tear - Return unknown"
+12860,24,2026-03-29T21:34:36.933528,196813,"Michael Zetterer",Goalkeeper,1995-12-07,30,Germany,,187,both,2025-08-20,,"SV Werder Bremen",2029-06-30,4500000,
+12861,24,2026-03-29T21:34:36.933528,40034,"Jens Grahl",Goalkeeper,1988-09-22,37,Germany,,192,right,2021-07-19,,"VfB Stuttgart",2027-06-30,200000,
+12862,24,2026-03-29T21:34:36.933528,1079622,"Amil Siljevic",Goalkeeper,2007-01-19,19,"Bosnia-Herzegovina, Germany",,192,right,2025-10-07,,"Eintracht Frankfurt II",,,"Called up to national team – cross-competition – until 03/04/2026"
+12863,24,2026-03-29T21:34:36.933528,368891,"Arthur Theate",Centre-Back,2000-05-25,25,Belgium,,185,left,2025-02-02,,"Stade Rennais FC",2029-06-30,20000000,
+12864,24,2026-03-29T21:34:36.933528,684315,"Nnamdi Collins",Centre-Back,2004-10-01,22,"Germany, Nigeria",,188,right,2023-09-08,,"Borussia Dortmund II",2030-06-30,20000000,"Ankle injury - Return unknown"
+12865,24,2026-03-29T21:34:36.933528,328784,"Robin Koch",Centre-Back,1996-07-17,29,Germany,,192,right,2024-01-07,,"Leeds United",2030-06-30,15000000,"Team captain"
+12866,24,2026-03-29T21:34:36.933528,635645,"Aurèle Amenda",Centre-Back,2003-07-31,22,"Switzerland, Cameroon",,197,right,2024-01-24,,"BSC Young Boys",2029-06-30,8000000,
+12867,24,2026-03-29T21:34:36.933528,691892,"Nathaniel Brown",Left-Back,2003-06-16,22,"Germany, United States",,176,left,2024-03-01,,"1.FC Nuremberg",2030-06-30,35000000,
+12868,24,2026-03-29T21:34:36.933528,1146988,"Keita Kosugi",Left-Back,2006-03-18,20,Japan,,172,left,2026-01-01,,"Djurgårdens IF",2031-06-30,6000000,
+12869,24,2026-03-29T21:34:36.933528,369684,"Rasmus Kristensen",Right-Back,1997-11-07,28,Denmark,,187,right,2025-01-07,,"Leeds United",2029-06-30,12000000,"Ankle injury - Return unknown"
+12870,24,2026-03-29T21:34:36.933528,744857,"Elias Baum",Right-Back,2005-10-26,20,Germany,,180,right,2023-10-26,,"Eintracht Frankfurt II",2028-06-30,4000000,
+12871,24,2026-03-29T21:34:36.933528,49723,"Timothy Chandler",Right-Back,1990-03-29,36,"United States, Germany",,187,right,2014-01-07,,"1.FC Nuremberg",2026-06-30,350000,
+12872,24,2026-03-29T21:34:36.933528,290587,"Ellyes Skhiri","Defensive Midfield",1995-10-05,30,"Tunisia, France",,185,right,2023-05-07,,"1.FC Köln",2027-06-30,6000000,
+12873,24,2026-03-29T21:34:36.933528,931838,"Hugo Larsson","Central Midfield",2004-06-27,21,Sweden,,187,right,2023-01-07,,"Malmö FF",2029-06-30,32000000,
+12874,24,2026-03-29T21:34:36.933528,846310,"Oscar Højlund","Central Midfield",2005-04-01,21,Denmark,,184,right,2024-10-07,,"FC Copenhagen",2029-06-30,10000000,
+12875,24,2026-03-29T21:34:36.933528,191422,"Mahmoud Dahoud","Central Midfield",1996-01-01,30,"Syria, Germany",,178,right,2024-08-30,,"Brighton & Hove Albion",2026-06-30,2000000,
+12876,24,2026-03-29T21:34:36.933528,816585,"Can Uzun","Attacking Midfield",2005-11-11,20,"Türkiye, Germany",,186,right,2024-02-07,,"1.FC Nuremberg",2029-06-30,45000000,
+12877,24,2026-03-29T21:34:36.933528,855015,"Farès Chaïbi","Attacking Midfield",2002-11-28,23,"Algeria, France",,183,right,2023-08-30,,"FC Toulouse",2028-06-30,15000000,
+12878,24,2026-03-29T21:34:36.933528,1184986,"Love Arrhov","Attacking Midfield",2008-05-17,17,Sweden,,178,right,2026-01-01,,"IF Brommapojkarna",2028-06-30,5000000,
+12879,24,2026-03-29T21:34:36.933528,74842,"Mario Götze","Attacking Midfield",1992-03-06,33,Germany,,176,right,2022-01-07,,"PSV Eindhoven",2026-06-30,3500000,
+12916,82,2026-03-29T21:34:38.687477,513245,"Jesper Lindstrøm","Right Winger",2000-02-29,26,Denmark,,182,right,2025-07-23,,"SSC Napoli",2026-06-30,5000000,
+12880,24,2026-03-29T21:34:36.933528,939964,"Jean-Mattéo Bahoya","Left Winger",2005-07-05,20,"France, Cameroon",,180,right,2024-01-25,,"Angers SCO",2029-06-30,25000000,"Hamstring injury - Return unknown"
+12881,24,2026-03-29T21:34:36.933528,358504,"Ritsu Doan","Right Winger",1998-06-16,27,Japan,,172,left,2025-07-08,,"SC Freiburg",2030-06-30,20000000,
+12882,24,2026-03-29T21:34:36.933528,429874,"Ansgar Knauff","Right Winger",2002-10-01,24,"Germany, Ghana",,180,right,2023-01-07,,"Borussia Dortmund",2028-06-30,15000000,
+12883,24,2026-03-29T21:34:36.933528,799993,"Ayoube Amaimouni-Echghouyab","Right Winger",2004-11-30,21,"Morocco, Spain",,179,left,2026-02-01,,"TSG 1899 Hoffenheim II",2031-06-30,7000000,
+12884,24,2026-03-29T21:34:36.933528,333647,"Jonathan Burkardt",Centre-Forward,2000-11-07,25,Germany,,181,right,2025-04-07,,"1.FSV Mainz 05",2030-06-30,35000000,
+12885,24,2026-03-29T21:34:36.933528,585959,"Arnaud Kalimuendo",Centre-Forward,2002-01-20,24,"France, DR Congo",,175,right,2026-07-01,,"Nottingham Forest",2026-06-30,25000000,
+12886,24,2026-03-29T21:34:36.933528,692368,"Younes Ebnoutalib",Centre-Forward,2003-09-13,22,"Germany, Morocco",,191,right,2026-01-01,,"SV 07 Elversberg",2031-06-30,8000000,
+12887,24,2026-03-29T21:34:36.933528,179184,"Michy Batshuayi",Centre-Forward,1993-02-10,32,"Belgium, DR Congo",,185,right,2025-03-02,,Galatasaray,2027-06-30,3000000,"Fitness - Return unknown"
+12888,82,2026-03-29T21:34:38.687477,346551,"Kamil Grabara",Goalkeeper,1999-08-01,27,Poland,,195,right,2024-01-07,,"FC Copenhagen",2028-06-30,12000000,
+12889,82,2026-03-29T21:34:38.687477,118161,"Marius Müller",Goalkeeper,1993-12-07,32,Germany,,192,right,2024-01-07,,"FC Schalke 04",2027-06-30,1000000,
+12890,82,2026-03-29T21:34:38.687477,1068257,"Jakub Zielinski",Goalkeeper,2008-02-21,18,Poland,,194,right,2025-01-07,,"Legia Warszawa",2028-06-30,500000,
+12891,82,2026-03-29T21:34:38.687477,51977,"Pavao Pervan",Goalkeeper,1987-11-13,38,Austria,,194,both,2018-01-07,,": Ablöse €500k",2027-06-30,300000,
+12892,82,2026-03-29T21:34:38.687477,669380,"Konstantinos Koulierakis",Centre-Back,2003-11-28,22,Greece,,188,left,2024-08-30,,"PAOK Thessaloniki",2029-06-30,25000000,
+12893,82,2026-03-29T21:34:38.687477,919515,"Jeanuël Belocian",Centre-Back,2005-02-17,21,"France, Guadeloupe",,186,left,2026-02-02,,"Bayer 04 Leverkusen",2026-06-30,12000000,
+12894,82,2026-03-29T21:34:38.687477,734676,"Jonas Adjetey",Centre-Back,2003-12-13,22,Ghana,,188,right,2026-02-02,,"FC Basel 1893",2030-06-30,7000000,
+12895,82,2026-03-29T21:34:38.687477,239962,"Denis Vavro",Centre-Back,1996-10-04,29,Slovakia,,189,right,2025-01-07,,"FC Copenhagen",2027-06-30,5000000,
+12896,82,2026-03-29T21:34:38.687477,617755,"Jenson Seelt",Centre-Back,2003-05-23,22,Netherlands,,195,right,2025-01-09,,"Sunderland AFC",2026-06-30,5000000,"Indirect card suspension – DFB-Pokal; Knee injury - Return unknown"
+12897,82,2026-03-29T21:34:38.687477,460245,"Moritz Jenz",Centre-Back,1999-04-30,26,"Germany, Nigeria",,190,right,2023-01-07,,"FC Lorient",2027-06-30,5000000,"Indirect card suspension – Bundesliga – until 05/04/2026"
+12898,82,2026-03-29T21:34:38.687477,943237,Cleiton,Centre-Back,2003-04-25,22,Brazil,,194,left,2026-01-01,,"CR Flamengo",2030-06-30,800000,"Ankle injury - Return unknown"
+12899,82,2026-03-29T21:34:38.687477,369674,"Joakim Maehle",Left-Back,1997-05-20,28,Denmark,,185,right,2023-12-08,,"Atalanta BC",2027-06-30,7000000,
+12900,82,2026-03-29T21:34:38.687477,730484,"Aaron Zehnter",Left-Back,2004-10-31,21,Germany,,180,left,2025-01-07,,"SC Paderborn 07",2030-06-30,6000000,
+12901,82,2026-03-29T21:34:38.687477,401527,Rogério,Left-Back,1998-01-13,28,"Brazil, Italy",,178,left,2023-05-08,,"US Sassuolo",2027-06-30,1000000,"Muscle injury - Return unknown"
+12902,82,2026-03-29T21:34:38.687477,951579,"Saël Kumbedi",Right-Back,2005-03-26,21,"France, DR Congo",,175,right,2026-01-01,,"Olympique Lyon",2029-06-30,12000000,
+12903,82,2026-03-29T21:34:38.687477,435796,"Kilian Fischer",Right-Back,2000-12-10,25,Germany,,182,both,2022-01-07,,"1.FC Nuremberg",2027-06-30,5000000,"Hamstring injury - Return unknown"
+12904,82,2026-03-29T21:34:38.687477,1009440,"Jan Bürger",Right-Back,2007-10-03,19,Germany,,180,right,2026-01-30,,"VfL Wolfsburg U19",2026-06-30,3000000,
+12905,82,2026-03-29T21:34:38.687477,663581,"Vini Souza","Defensive Midfield",1999-06-17,26,Brazil,,187,right,2025-05-07,,"Sheffield United",2030-06-30,8000000,
+12906,82,2026-03-29T21:34:38.687477,342405,"Mattias Svanberg","Central Midfield",1999-05-01,27,Sweden,,185,right,2022-07-16,,"Bologna FC 1909",2027-06-30,9000000,
+12907,82,2026-03-29T21:34:38.687477,117674,"Maximilian Arnold","Central Midfield",1994-05-27,31,Germany,,184,left,2012-01-01,,"VfL Wolfsburg U19",2028-06-30,4500000,"Team captain"
+12908,82,2026-03-29T21:34:38.687477,1150105,"Pharell Hensel","Central Midfield",2007-08-06,18,Germany,,188,,2026-01-15,,"VfL Wolfsburg U19",2029-06-30,3000000,
+12909,82,2026-03-29T21:34:38.687477,119277,"Yannick Gerhardt","Central Midfield",1994-03-13,32,Germany,,184,left,2016-01-07,,"1.FC Köln",,2000000,
+12910,82,2026-03-29T21:34:38.687477,711517,"Kevin Paredes","Left Midfield",2003-07-05,22,"United States, Dominican Republic",,175,left,2022-01-28,,"D.C. United",2026-06-30,3000000,"Muscle injury - Return unknown"
+12911,82,2026-03-29T21:34:38.687477,387106,"Lovro Majer","Attacking Midfield",1998-01-17,28,Croatia,,178,left,2023-08-16,,"Stade Rennais FC",2028-06-30,10000000,"Yellow card suspension – Bundesliga – until 05/04/2026"
+12912,82,2026-03-29T21:34:38.687477,789252,"Bence Dárdai","Attacking Midfield",2006-01-24,20,"Hungary, Germany",,189,right,2024-01-07,,"Hertha BSC",2029-06-30,7000000,"Cruciate ligament tear - Return unknown"
+12913,82,2026-03-29T21:34:38.687477,69633,"Christian Eriksen","Attacking Midfield",1992-02-14,34,Denmark,,182,right,2025-10-09,,"Without Club",2027-06-30,3000000,
+12914,82,2026-03-29T21:34:38.687477,533295,"Patrick Wimmer","Right Winger",2001-05-30,24,Austria,,182,right,2022-01-07,,"Arminia Bielefeld",2027-06-30,15000000,
+12917,82,2026-03-29T21:34:38.687477,746910,"Mohamed Amoura",Centre-Forward,2000-09-05,25,Algeria,,170,right,2025-01-07,,"Union Saint-Gilloise",2029-06-30,27000000,
+12918,82,2026-03-29T21:34:38.687477,819636,"Dzenan Pejcinovic",Centre-Forward,2005-02-15,21,"Germany, Montenegro",,190,left,2022-07-14,,"FC Augsburg U19",2029-06-30,10000000,
+12919,82,2026-03-29T21:34:38.687477,1144627,"Kento Shiogai",Centre-Forward,2005-03-26,21,Japan,,180,right,2026-01-20,,"NEC Nijmegen",2030-06-30,8000000,
+12920,82,2026-03-29T21:34:38.687477,391004,"Jonas Wind",Centre-Forward,1999-07-02,27,Denmark,,190,right,2022-01-31,,": Ablöse €12.00m",2026-06-30,5000000,
+12921,86,2026-03-29T21:34:39.979922,620295,"Mio Backhaus",Goalkeeper,2004-04-16,21,"Germany, Japan",,194,right,2022-12-07,,"SV Werder Bremen U19",,12000000,
+12922,86,2026-03-29T21:34:39.979922,493513,"Karl Hein",Goalkeeper,2002-04-13,23,Estonia,,193,right,2025-08-22,,"Arsenal FC",2026-06-30,3000000,"Thumb injury - Return unknown"
+12923,86,2026-03-29T21:34:39.979922,99451,"Markus Kolke",Goalkeeper,1990-08-18,35,Germany,,187,right,2024-01-07,,"FC Hansa Rostock",2027-06-30,300000,
+12924,86,2026-03-29T21:34:39.979922,1025989,"Stefan Smarkalev",Goalkeeper,2007-05-14,18,Bulgaria,,188,right,,,,2027-06-30,150000,
+12925,86,2026-03-29T21:34:39.979922,1084638,"Karim Coulibaly",Centre-Back,2007-05-23,18,"Germany, Cote d'Ivoire",,191,left,2025-07-16,,"SV Werder Bremen U19",2029-06-30,22000000,
+12926,86,2026-03-29T21:34:39.979922,156990,"Marco Friedl",Centre-Back,1998-03-16,28,Austria,,187,left,2019-01-07,,": Ablöse €3.50m",2028-06-30,12000000,"Team captain"
+12927,86,2026-03-29T21:34:39.979922,334221,"Amos Pieper",Centre-Back,1998-01-17,28,Germany,,192,right,2022-01-07,,"Arminia Bielefeld",,4000000,"Knee surgery - Return unknown"
+12928,86,2026-03-29T21:34:39.979922,162434,"Niklas Stark",Centre-Back,1995-04-14,30,Germany,,190,right,2022-01-07,,"Hertha BSC",,3500000,
+12929,86,2026-03-29T21:34:39.979922,263361,"Maximilian Wöber",Centre-Back,1998-04-02,28,Austria,,188,left,2025-04-07,,"Leeds United",2026-06-30,3000000,"muscular problems - Return unknown"
+12930,86,2026-03-29T21:34:39.979922,830108,"Julián Malatini",Centre-Back,2001-05-31,24,Argentina,,191,right,2024-01-16,,"Defensa y Justicia",,2000000,"Syndesmotic ligament tear - Return unknown"
+12931,86,2026-03-29T21:34:39.979922,1045986,"Mick Schmetgens",Centre-Back,2007-09-09,18,Germany,,190,right,2025-10-12,,"SV Werder Bremen II",2029-06-30,700000,
+12932,86,2026-03-29T21:34:39.979922,393512,"Felix Agu",Left-Back,1999-09-27,26,"Nigeria, Germany",,180,right,2020-01-07,,": Ablöse free transfer",2027-06-30,6000000,
+12933,86,2026-03-29T21:34:39.979922,621802,"Olivier Deman",Left-Back,2000-06-04,25,Belgium,,181,left,2023-08-31,,"Cercle Brugge ",2028-06-30,3000000,
+12934,86,2026-03-29T21:34:39.979922,449597,"Isaac Schmidt",Left-Back,1999-07-12,26,"Switzerland, Nigeria",,172,right,2025-08-28,,"Leeds United",2026-06-30,2200000,
+12935,86,2026-03-29T21:34:39.979922,405385,"Yukinari Sugawara",Right-Back,2000-06-28,25,Japan,,179,right,2025-08-26,,"Southampton FC",2026-06-30,7500000,
+12936,86,2026-03-29T21:34:39.979922,119211,"Mitchell Weiser",Right-Back,1994-04-21,31,"Germany, Algeria",,177,right,2022-07-15,,"Bayer 04 Leverkusen",2026-06-30,3500000,"Cruciate ligament tear - Return expected on 31/03/2026"
+12937,86,2026-03-29T21:34:39.979922,338668,"Senne Lynen","Defensive Midfield",1999-02-19,27,Belgium,,185,right,2023-08-08,,"Union Saint-Gilloise",,10000000,"Torn muscle fiber in the adductor area - Return unknown"
+12938,86,2026-03-29T21:34:39.979922,1074523,"Wesley Adeh","Defensive Midfield",2007-08-01,19,"Germany, Nigeria",,187,both,2025-01-07,,"SV Werder Bremen U19",,250000,"Torn ankle ligaments - Return unknown"
+12939,86,2026-03-29T21:34:39.979922,289835,"Jens Stage","Central Midfield",1996-08-11,29,Denmark,,187,right,2022-01-07,,": Ablöse €4.00m",,14000000,
+12940,86,2026-03-29T21:34:39.979922,93844,"Leonardo Bittencourt","Central Midfield",1993-12-19,32,"Germany, Brazil",,171,right,2020-07-15,,"TSG 1899 Hoffenheim",2026-06-30,1200000,"Indirect card suspension – DFB-Pokal"
+12941,86,2026-03-29T21:34:39.979922,346853,"Romano Schmid","Attacking Midfield",2000-01-27,26,Austria,,168,right,2019-03-01,,": Ablöse €1.00m",2027-06-30,15000000,
+12942,86,2026-03-29T21:34:39.979922,449592,"Cameron Puertas","Attacking Midfield",1998-08-18,27,Spain,,178,right,2025-01-09,,"Al-Qadsiah FC",2026-06-30,8000000,
+12943,86,2026-03-29T21:34:39.979922,1114155,"Patrice Covic","Attacking Midfield",2007-06-25,18,"Croatia, Germany",,182,right,2025-08-07,,"SV Werder Bremen U19",,4000000,
+12944,86,2026-03-29T21:34:39.979922,654991,"Samuel Mbangula","Left Winger",2004-01-16,22,"Belgium, DR Congo",,179,right,2025-07-23,,"Juventus FC",2030-06-30,10000000,
+12945,86,2026-03-29T21:34:39.979922,391766,"Marco Grüll","Left Winger",1998-06-07,27,Austria,,181,both,2024-01-07,,"Rapid Vienna",,6000000,
+12946,86,2026-03-29T21:34:39.979922,596153,"Justin Njinmah","Right Winger",2000-11-15,25,"Germany, Nigeria",,185,right,2022-05-01,,"SV Werder Bremen II",2027-06-30,7000000,
+12947,86,2026-03-29T21:34:39.979922,943795,"Jovan Milosevic",Centre-Forward,2005-07-31,20,Serbia,,190,right,2026-11-01,,"VfB Stuttgart",2026-06-30,7000000,"Back problems - Return unknown"
+12948,86,2026-03-29T21:34:39.979922,656681,"Victor Boniface",Centre-Forward,2000-12-23,25,Nigeria,,190,right,2025-01-09,,"Bayer 04 Leverkusen",2026-06-30,5000000,"Cartilage damage - Return expected on 30/06/2026"
+12949,86,2026-03-29T21:34:39.979922,701757,"Keke Topp",Centre-Forward,2004-03-25,22,Germany,,192,right,2024-01-07,,"FC Schalke 04",2028-06-30,3500000,"Cruciate ligament tear - Return unknown"
+12950,86,2026-03-29T21:34:39.979922,1042472,"Salim Musah",Centre-Forward,2006-02-22,20,"Germany, Ghana",,198,right,2025-06-07,,"SV Werder Bremen U19",,500000,
+12951,79,2026-03-29T21:34:39.986059,195778,"Alexander Nübel",Goalkeeper,1996-09-30,29,Germany,,193,right,2023-07-25,,": Ablöse €1.00m",2026-06-30,12000000,
+12952,79,2026-03-29T21:34:39.986059,1009438,"Florian Hellstern",Goalkeeper,2007-10-18,18,Germany,,188,right,2025-01-07,,"VfB Stuttgart U19",2027-06-30,2500000,
+12953,79,2026-03-29T21:34:39.986059,187624,"Fabian Bredlow",Goalkeeper,1995-02-03,31,Germany,,190,both,2019-01-07,,"1.FC Nuremberg",2027-06-30,800000,
+12954,79,2026-03-29T21:34:39.986059,388067,"Stefan Drljaca",Goalkeeper,1999-04-20,26,"Germany, Serbia",,192,right,2024-01-07,,"SG Dynamo Dresden",2027-06-30,300000,
+12955,79,2026-03-29T21:34:39.986059,924117,"Finn Jeltsch",Centre-Back,2006-07-17,19,Germany,,188,right,2025-03-02,,"1.FC Nuremberg",2030-06-30,30000000,
+12956,79,2026-03-29T21:34:39.986059,436064,"Ramon Hendriks",Centre-Back,2001-07-18,24,Netherlands,,189,left,2024-01-07,,"Feyenoord Rotterdam",2028-06-30,20000000,
+12957,79,2026-03-29T21:34:39.986059,303219,"Jeff Chabot",Centre-Back,1998-12-02,28,"Germany, France",,195,left,2024-01-07,,"1.FC Köln",2028-06-30,15000000,
+12958,79,2026-03-29T21:34:39.986059,539798,"Luca Jaquez",Centre-Back,2003-02-06,22,"Switzerland, Dominican Republic",,187,right,2025-03-02,,"FC Luzern",2029-06-30,10000000,
+12959,79,2026-03-29T21:34:39.986059,620598,"Ameen Al-Dakhil",Centre-Back,2002-06-03,24,"Belgium, Iraq",,187,right,2024-08-27,,"Burnley FC",2028-06-30,4000000,
+12960,79,2026-03-29T21:34:39.986059,344598,"Dan-Axel Zagadou",Centre-Back,1999-03-06,26,"France, Cote d'Ivoire",,196,left,2022-09-19,,"Without Club",2026-06-30,2000000,
+12961,79,2026-03-29T21:34:39.986059,282660,"Maximilian Mittelstädt",Left-Back,1997-03-18,29,Germany,,180,left,2023-01-07,,"Hertha BSC",2028-06-30,18000000,
+12962,79,2026-03-29T21:34:39.986059,448258,"Josha Vagnoman",Right-Back,2000-11-12,25,"Germany, Cote d'Ivoire",,190,right,2022-09-07,,"Hamburger SV",2028-06-30,10000000,
+12963,79,2026-03-29T21:34:39.986059,711969,"Lorenz Assignon",Right-Back,2000-06-22,25,"France, Togo",,181,right,2025-01-07,,"Stade Rennais FC",2029-06-30,10000000,
+12964,79,2026-03-29T21:34:39.986059,195246,"Pascal Stenzel",Right-Back,1996-03-20,30,Germany,,183,right,2020-01-07,,"SC Freiburg",2026-06-30,1200000,
+12965,79,2026-03-29T21:34:39.986059,443710,"Angelo Stiller","Defensive Midfield",2001-04-04,24,Germany,,183,left,2023-08-25,,"TSG 1899 Hoffenheim",2028-06-30,45000000,
+12966,79,2026-03-29T21:34:39.986059,948279,"Chema Andrés","Defensive Midfield",2005-04-25,20,Spain,,190,right,2025-07-27,,"Real Madrid Castilla",2030-06-30,15000000,
+12967,79,2026-03-29T21:34:39.986059,232320,"Atakan Karazor","Defensive Midfield",1996-10-13,29,"Türkiye, Germany",,191,right,2019-01-07,,"Holstein Kiel",2028-06-30,9000000,"Team captain"
+12968,79,2026-03-29T21:34:39.986059,1131117,"Mirza Catovic","Defensive Midfield",2007-01-05,18,"Germany, Serbia",,190,left,2025-01-07,,"VfB Stuttgart II",2028-06-30,3000000,
+12969,79,2026-03-29T21:34:39.986059,400546,"Nikolas Nartey","Central Midfield",2000-02-22,26,"Denmark, Ghana",,186,left,2019-08-29,,"1.FC Köln",2026-06-30,7000000,
+12970,79,2026-03-29T21:34:39.986059,654982,"Bilal El Khannouss","Attacking Midfield",2004-10-05,21,"Morocco, Belgium",,180,right,2025-01-09,,"Leicester City",2026-06-30,32000000,
+12971,79,2026-03-29T21:34:39.986059,272278,"Chris Führich","Left Winger",1998-09-01,28,Germany,,181,right,2021-07-19,,"SC Paderborn 07",2028-06-30,10000000,
+12972,79,2026-03-29T21:34:39.986059,720162,"Justin Diehl","Left Winger",2004-11-27,21,"Germany, Ghana",,174,right,2024-01-07,,"1.FC Köln",2029-06-30,1800000,
+12973,79,2026-03-29T21:34:39.986059,518505,"Jamie Leweling","Right Winger",2001-02-26,25,"Germany, Ghana",,185,both,2024-01-07,,"1.FC Union Berlin",2029-06-30,40000000,"muscular problems - Return unknown"
+12974,79,2026-03-29T21:34:39.986059,707242,"Badredine Bouanani","Right Winger",2004-08-12,21,"Algeria, France",,177,left,2025-08-31,,"OGC Nice",2030-06-30,12000000,
+12975,79,2026-03-29T21:34:39.986059,897505,"Lazar Jovanovic","Right Winger",2006-11-30,19,Serbia,,184,left,2025-08-07,,"Red Star Belgrade",2029-06-30,3500000,
+12976,79,2026-03-29T21:34:39.986059,897480,"Noah Darvich","Right Winger",2006-09-25,19,Germany,,184,left,2025-01-07,,"FC Barcelona Atlètic",2029-06-30,3000000,
+12977,79,2026-03-29T21:34:39.986059,335457,"Ermedin Demirovic",Centre-Forward,1998-03-25,28,Bosnia-Herzegovina,,185,right,2024-07-16,,"FC Augsburg",2028-06-30,22000000,
+12978,79,2026-03-29T21:34:39.986059,339314,"Deniz Undav",Centre-Forward,1996-07-19,29,Germany,,179,both,2024-09-08,,"Brighton & Hove Albion",2027-06-30,22000000,
+12979,79,2026-03-29T21:34:39.986059,616344,"Tiago Tomás",Centre-Forward,2002-06-16,23,Portugal,,180,right,2025-08-16,,"VfL Wolfsburg",2029-06-30,15000000,
+12980,79,2026-03-29T21:34:39.986059,971663,"Jeremy Arévalo",Centre-Forward,2005-03-19,21,"Ecuador, Spain",,182,left,2026-02-01,,"Racing Santander",2031-06-30,7000000,"No eligibility – UEFA Europa League – until 21/05/2026"
+12981,533,2026-03-29T21:34:40.648656,55089,"Oliver Baumann",Goalkeeper,1990-02-06,35,Germany,,187,right,2014-01-07,,"SC Freiburg",2028-06-30,3000000,"Team captain"
+12982,533,2026-03-29T21:34:40.648656,432671,"Luca Philipp",Goalkeeper,2000-11-28,25,Germany,,192,right,2020-07-31,,"TSG 1899 Hoffenheim II",2026-06-30,750000,
+12983,533,2026-03-29T21:34:40.648656,718460,"Lúkas Petersson",Goalkeeper,2004-09-02,22,"Iceland, Germany",,195,right,2024-01-07,,"TSG 1899 Hoffenheim II",,600000,
+12984,533,2026-03-29T21:34:40.648656,579459,"Albian Hajdari",Centre-Back,2003-05-18,22,"Kosovo, Switzerland",,189,left,2025-08-25,,"FC Lugano",2029-06-30,20000000,
+12985,533,2026-03-29T21:34:40.648656,620217,"Robin Hranac",Centre-Back,2000-01-29,26,"Czech Republic",,190,right,2024-08-25,,"FC Viktoria Plzen",2028-06-30,10000000,
+12986,533,2026-03-29T21:34:40.648656,361260,"Ozan Kabak",Centre-Back,2000-03-25,26,Türkiye,,187,right,2022-07-23,,"FC Schalke 04",2026-06-30,10000000,
+12987,533,2026-03-29T21:34:40.648656,415035,"Koki Machida",Centre-Back,1997-08-25,28,Japan,,190,left,2025-01-07,,"Union Saint-Gilloise",,7000000,"Cruciate ligament tear - Return unknown"
+12988,533,2026-03-29T21:34:40.648656,160241,"Kevin Akpoguma",Centre-Back,1995-04-19,30,"Nigeria, Germany",,192,right,2013-01-07,,": Ablöse €1.00m",2026-06-30,2000000,
+12989,533,2026-03-29T21:34:40.648656,934529,"Kelven Frees",Centre-Back,2005-03-02,21,"Germany, Nigeria",,202,right,2025-01-07,,"TSG 1899 Hoffenheim II",2029-06-30,300000,
+12990,533,2026-03-29T21:34:40.648656,364258,Bernardo,Left-Back,1995-05-14,30,Brazil,,186,left,2025-01-07,,"VfL Bochum",2027-06-30,5000000,
+12991,533,2026-03-29T21:34:40.648656,569387,"Valentin Gendrey",Right-Back,2000-06-21,25,"France, Guadeloupe",,179,right,2024-08-27,,"US Lecce",2028-06-30,7000000,"Ankle injury - Return unknown"
+12992,533,2026-03-29T21:34:40.648656,157672,"Vladimír Coufal",Right-Back,1992-08-22,33,"Czech Republic",,174,right,2025-05-08,,"West Ham United",2028-06-30,2700000,
+12993,533,2026-03-29T21:34:40.648656,667457,"Leon Avdullahu","Defensive Midfield",2004-02-23,22,"Kosovo, Switzerland",,185,right,2025-01-07,,"FC Basel 1893",2029-06-30,25000000,"Adductor injury - Return unknown"
+12994,533,2026-03-29T21:34:40.648656,412953,"Wouter Burger","Defensive Midfield",2001-02-16,25,Netherlands,,191,left,2025-07-22,,"Stoke City",2030-06-30,20000000,
+12995,533,2026-03-29T21:34:40.648656,1116191,"Luis Engelns","Central Midfield",2007-11-03,19,Germany,,190,right,2026-02-02,,"SC Paderborn 07",,4000000,
+12996,533,2026-03-29T21:34:40.648656,234029,"Grischa Prömel","Central Midfield",1995-09-01,31,Germany,,184,right,2022-01-07,,"1.FC Union Berlin",2026-06-30,3500000,
+12997,533,2026-03-29T21:34:40.648656,685484,"Luka Duric","Central Midfield",2003-06-18,22,"Bosnia-Herzegovina, Germany",,181,,2025-01-07,,"TSG 1899 Hoffenheim II",2026-06-30,450000,
+12998,533,2026-03-29T21:34:40.648656,434116,"Alexander Prass","Left Midfield",2001-05-26,24,Austria,,182,left,2024-05-08,,"SK Sturm Graz",2028-06-30,7000000,
+12999,533,2026-03-29T21:34:40.648656,789898,"Muhammed Damar","Attacking Midfield",2004-09-04,21,"Germany, Türkiye",,185,both,2022-01-07,,"Eintracht Frankfurt U19",2029-06-30,5000000,
+13000,533,2026-03-29T21:34:40.648656,46580,"Andrej Kramaric","Attacking Midfield",1991-06-19,34,Croatia,,177,right,2016-01-07,,"Leicester City",2026-06-30,3000000,
+13001,533,2026-03-29T21:34:40.648656,1067904,"Bazoumana Touré","Left Winger",2006-02-03,20,"Cote d'Ivoire",,175,left,2025-01-02,,"Hammarby IF",2029-06-30,35000000,
+13002,533,2026-03-29T21:34:40.648656,866579,"Cole Campbell","Right Winger",2006-02-20,20,"United States, Iceland",,170,left,2026-05-01,,"Borussia Dortmund",2026-06-30,5000000,
+13003,533,2026-03-29T21:34:40.648656,524290,"Fisnik Asllani",Centre-Forward,2002-08-08,23,"Kosovo, Germany",,191,both,2022-04-01,,"TSG 1899 Hoffenheim II",2029-06-30,30000000,
+13004,533,2026-03-29T21:34:40.648656,553285,"Tim Lemperle",Centre-Forward,2002-05-02,24,Germany,,187,right,2025-01-07,,"1.FC Köln",2029-06-30,15000000,
+13005,533,2026-03-29T21:34:40.648656,552057,"Adam Hlozek",Centre-Forward,2002-07-25,23,"Czech Republic",,188,right,2024-08-17,,"Bayer 04 Leverkusen",2029-06-30,12000000,"Calf injury - Return unknown"
+13006,533,2026-03-29T21:34:40.648656,923595,"Max Moerstedt",Centre-Forward,2006-01-15,20,Germany,,194,right,2024-01-01,,"TSG 1899 Hoffenheim U19",2030-06-30,7000000,
+13007,533,2026-03-29T21:34:40.648656,930998,"Yannick Eduardo",Centre-Forward,2006-01-23,20,"Czech Republic, Netherlands",,193,left,2026-02-02,,"FC Dordrecht",,2500000,
+13008,533,2026-03-29T21:34:40.648656,1108022,"Deniz Zeitler",Centre-Forward,2006-12-13,19,"Germany, Türkiye",,181,both,2025-10-07,,"FC Ingolstadt 04",,2500000,
+13009,533,2026-03-29T21:34:40.648656,237164,"Ihlas Bebou",Centre-Forward,1994-04-23,31,"Togo, Germany",,185,right,2019-01-07,,": Ablöse €9.00m",2026-06-30,800000,
+13010,60,2026-03-29T21:34:40.875119,526845,"Noah Atubolu",Goalkeeper,2002-05-25,23,"Germany, Nigeria",,190,right,2021-01-07,,"SC Freiburg II",2027-06-30,20000000,
+13011,60,2026-03-29T21:34:40.875119,284769,"Florian Müller",Goalkeeper,1997-11-13,28,Germany,,190,left,2023-01-07,,"VfB Stuttgart",,1200000,
+13012,60,2026-03-29T21:34:40.875119,160954,"Jannik Huth",Goalkeeper,1994-04-15,31,Germany,,185,right,2024-01-07,,"SC Paderborn 07",,400000,
+13013,60,2026-03-29T21:34:40.875119,225657,"Philipp Lienhart",Centre-Back,1996-11-07,29,Austria,,189,right,2018-01-07,,"Real Madrid",,12000000,
+13014,60,2026-03-29T21:34:40.875119,863759,"Bruno Ogbus",Centre-Back,2005-12-17,20,"Switzerland, Nigeria",,188,right,2024-01-07,,"SC Freiburg II",,10000000,
+13015,60,2026-03-29T21:34:40.875119,124502,"Matthias Ginter",Centre-Back,1994-01-19,32,Germany,,189,right,2022-01-07,,"Borussia Mönchengladbach",2027-06-30,6000000,
+13016,60,2026-03-29T21:34:40.875119,599419,"Max Rosenfelder",Centre-Back,2003-10-02,23,Germany,,186,right,2023-01-07,,"SC Freiburg II",,6000000,"Hamstring injury - Return unknown"
+13017,60,2026-03-29T21:34:40.875119,58995,"Anthony Jung",Centre-Back,1991-03-11,34,"Germany, Spain",,186,left,2025-01-07,,"SV Werder Bremen",,700000,
+13018,60,2026-03-29T21:34:40.875119,815078,"Jordy Makengo",Left-Back,2001-03-08,24,"France, DR Congo",,191,left,2023-01-07,,"SC Freiburg II",,6000000,
+13019,60,2026-03-29T21:34:40.875119,93707,"Christian Günter",Left-Back,1993-02-28,33,Germany,,184,left,2012-01-07,,"SC Freiburg U19",,2000000,"Team captain"
+13020,60,2026-03-29T21:34:40.875119,335993,"Philipp Treu",Right-Back,2000-03-12,25,Germany,,173,right,2025-01-07,,"FC St. Pauli",,10000000,
+13021,60,2026-03-29T21:34:40.875119,93604,"Lukas Kübler",Right-Back,1992-08-30,33,Germany,,182,right,2015-01-07,,": Ablöse free transfer",,1500000,
+13022,60,2026-03-29T21:34:40.875119,443331,"Patrick Osterhage","Defensive Midfield",2000-01-02,26,Germany,,186,left,2024-01-07,,"VfL Bochum",,12000000,
+13023,60,2026-03-29T21:34:40.875119,55099,"Nicolas Höfler","Defensive Midfield",1990-09-03,36,Germany,,181,right,2010-01-07,,"SC Freiburg II",,500000,
+15422,127,2026-03-29T21:35:34.792234,509650,"Tjark Scheller",Centre-Back,2002-12-01,24,Germany,,192,both,2024-01-07,,"FC St. Pauli II",,1500000,
+13024,60,2026-03-29T21:34:40.875119,927353,"Johan Manzambi","Central Midfield",2005-10-14,20,Switzerland,,182,right,2024-01-07,,"SC Freiburg II",2030-06-30,35000000,
+13025,60,2026-03-29T21:34:40.875119,190284,"Maximilian Eggestein","Central Midfield",1996-08-12,29,Germany,,181,right,2021-08-18,,"SV Werder Bremen",,10000000,
+13026,60,2026-03-29T21:34:40.875119,272587,"Daniel-Kofi Kyereh","Attacking Midfield",1996-08-03,30,"Ghana, Germany",,179,right,2022-01-07,,"FC St. Pauli",2026-06-30,100000,"Fitness - Return unknown"
+13027,60,2026-03-29T21:34:40.875119,820957,"Derry Scherhant","Left Winger",2002-10-11,23,Germany,,185,right,2025-01-07,,"Hertha BSC",,6000000,
+13028,60,2026-03-29T21:34:40.875119,185077,"Vincenzo Grifo","Left Winger",1993-07-04,32,"Italy, Germany",,180,right,2019-02-09,,"TSG 1899 Hoffenheim",2027-06-30,5000000,
+13029,60,2026-03-29T21:34:40.875119,1145064,"Cyriaque Irié","Right Winger",2005-06-20,20,"Burkina Faso, Cote d'Ivoire",,185,left,2025-01-07,,"ESTAC Troyes",,8000000,
+13030,60,2026-03-29T21:34:40.875119,342967,"Niklas Beste","Right Winger",1999-04-01,27,Germany,,175,left,2025-01-31,,"SL Benfica",2030-06-30,7000000,
+13031,60,2026-03-29T21:34:40.875119,668606,"Yuito Suzuki","Second Striker",2001-10-25,24,Japan,,175,right,2025-01-07,,"Bröndby IF",,18000000,
+13032,60,2026-03-29T21:34:40.875119,143891,"Maximilian Philipp","Second Striker",1994-01-03,32,Germany,,183,right,2024-01-07,,"VfL Wolfsburg",,600000,
+13033,60,2026-03-29T21:34:40.875119,605268,"Igor Matanovic",Centre-Forward,2003-03-31,22,"Croatia, Germany",,194,right,2025-09-07,,"Eintracht Frankfurt",,10000000,
+13034,60,2026-03-29T21:34:40.875119,248999,"Lucas Höler",Centre-Forward,1994-10-07,31,Germany,,184,right,2018-01-01,,": Ablöse €2.00m",,3000000,
+13035,41,2026-03-29T21:34:41.262604,549378,"Sander Tangvik",Goalkeeper,2002-11-29,23,Norway,,193,right,2026-01-22,,"Rosenborg BK",2030-06-30,3000000,
+13036,41,2026-03-29T21:34:41.262604,84993,"Daniel Heuer Fernandes",Goalkeeper,1992-11-13,33,"Portugal, Germany",,188,right,2019-01-07,,"SV Darmstadt 98",2026-06-30,1200000,
+13037,41,2026-03-29T21:34:41.262604,894692,"Hannes Hermann",Goalkeeper,2005-03-23,21,Germany,,191,right,2024-01-07,,"Hamburger SV U19",2027-06-30,150000,
+13038,41,2026-03-29T21:34:41.262604,1048715,"Fernando Dickes",Goalkeeper,2007-10-13,18,Germany,,193,left,2025-01-07,,"RB Leipzig U19",2028-06-30,,"Shoulder injury - Return unknown"
+13039,41,2026-03-29T21:34:41.262604,892160,"Luka Vuskovic",Centre-Back,2007-02-24,19,Croatia,,193,right,2025-08-29,,"Tottenham Hotspur",2026-06-30,60000000,
+13040,41,2026-03-29T21:34:41.262604,227110,"Jordan Torunarigha",Centre-Back,1997-07-08,28,"Nigeria, Germany",,191,left,2025-01-07,,"KAA Gent",2028-06-30,4000000,
+13041,41,2026-03-29T21:34:41.262604,529895,"Daniel Elfadli",Centre-Back,1997-06-04,28,"Libya, Germany",,188,right,2024-01-07,,"1.FC Magdeburg",2028-06-30,3500000,
+13042,41,2026-03-29T21:34:41.262604,711996,"Warmed Omari",Centre-Back,2000-04-23,25,"Comoros, France",,188,right,2026-02-02,,"Stade Rennais FC",2030-06-30,3500000,
+13043,41,2026-03-29T21:34:41.262604,1125079,"Shafiq Nandja",Centre-Back,2007-01-15,19,Germany,,,right,,,,2026-06-30,175000,
+13044,41,2026-03-29T21:34:41.262604,298603,"Miro Muheim",Left-Back,1998-03-24,28,Switzerland,,182,left,2022-01-07,,"FC St. Gallen 1879",2027-06-30,5000000,
+13045,41,2026-03-29T21:34:41.262604,469949,"Noah Katterbach",Left-Back,2001-04-13,24,Germany,,180,left,2024-01-31,,"1.FC Köln",2027-06-30,600000,
+13046,41,2026-03-29T21:34:41.262604,743500,"William Mikelbrencis",Right-Back,2004-02-25,22,France,,179,right,2022-08-31,,"FC Metz",2026-06-30,3000000,
+13047,41,2026-03-29T21:34:41.262604,540056,"Giorgi Gocholeishvili",Right-Back,2001-02-14,25,Georgia,,178,right,2025-07-08,,"Shakhtar Donetsk",2026-06-30,2500000,
+13048,41,2026-03-29T21:34:41.262604,592534,"Nicolai Remberg","Defensive Midfield",2000-06-19,25,Germany,,188,right,2025-01-07,,"Holstein Kiel",2028-06-30,7000000,"Yellow card suspension – Bundesliga – until 05/04/2026"
+13049,41,2026-03-29T21:34:41.262604,381967,"Albert Sambi Lokonga","Central Midfield",1999-10-22,26,"Belgium, DR Congo",,183,right,2025-01-09,,"Arsenal FC",2028-06-30,10000000,
+13050,41,2026-03-29T21:34:41.262604,649672,"Nicolás Capaldo","Central Midfield",1998-09-14,27,"Argentina, Italy",,177,right,2025-10-07,,"Red Bull Salzburg",2028-06-30,5000000,"Injury to abdominal muscles - Return unknown"
+13051,41,2026-03-29T21:34:41.262604,537598,"Fábio Vieira","Attacking Midfield",2000-05-30,25,Portugal,,170,left,2025-01-09,,"Arsenal FC",2026-06-30,18000000,
+13052,41,2026-03-29T21:34:41.262604,503866,"Albert Grønbaek","Attacking Midfield",2001-05-23,24,Denmark,,181,right,2026-01-31,,"Stade Rennais FC",2026-06-30,5000000,
+13053,41,2026-03-29T21:34:41.262604,910582,"Omar Megeed","Attacking Midfield",2005-08-19,20,"Egypt, Germany",,193,right,2023-01-07,,"Hamburger SV U19",2026-06-30,150000,
+13054,41,2026-03-29T21:34:41.262604,678655,"Philip Otele","Left Winger",1999-04-15,26,Nigeria,,178,right,2026-02-02,,"FC Basel 1893",2026-06-30,5000000,
+13055,41,2026-03-29T21:34:41.262604,1213681,"Alexander Røssing-Lelesiit","Left Winger",2007-01-20,19,Norway,,184,right,2025-03-02,,"Lillestrøm SK",2030-06-30,5000000,"Syndesmotic ligament tear - Return unknown"
+13056,41,2026-03-29T21:34:41.262604,291222,"Jean-Luc Dompé","Left Winger",1995-12-08,30,"France, Cote d'Ivoire",,170,right,2022-08-18,,"Zulte Waregem",2027-06-30,3500000,
+13057,41,2026-03-29T21:34:41.262604,910541,"Fábio Baldé","Left Winger",2005-07-20,20,"Portugal, Germany",,182,right,2024-01-07,,"Hamburger SV U19",2029-06-30,3000000,
+13058,41,2026-03-29T21:34:41.262604,694507,"Rayan Philippe","Right Winger",2000-10-23,25,France,,182,left,2025-02-07,,"Eintracht Braunschweig",2029-06-30,4000000,
+13059,41,2026-03-29T21:34:41.262604,415194,"Bakery Jatta","Right Winger",1998-06-06,27,"The Gambia",,184,right,2016-01-07,,"Without Club",2029-06-30,1000000,"Torn muscle fiber - Return expected on 07/04/2026"
+13060,41,2026-03-29T21:34:41.262604,820241,"Damion Downs",Centre-Forward,2004-06-07,21,"United States, Germany",,192,right,2026-07-01,,"Southampton FC",2026-06-30,6000000,
+13061,41,2026-03-29T21:34:41.262604,470038,"Ransford Königsdörffer",Centre-Forward,2001-09-13,24,"Ghana, Germany",,182,right,2022-01-07,,"SG Dynamo Dresden",2026-06-30,4000000,
+13062,41,2026-03-29T21:34:41.262604,1058520,"Otto Stange",Centre-Forward,2007-09-02,19,Germany,,187,right,2024-09-11,,"Hamburger SV II",2028-06-30,2500000,
+13063,41,2026-03-29T21:34:41.262604,196139,"Robert Glatzel",Centre-Forward,1994-08-01,32,"Germany, Eritrea",,193,both,2021-01-07,,"Cardiff City",2027-06-30,1500000,
+13064,41,2026-03-29T21:34:41.262604,157635,"Yussuf Poulsen",Centre-Forward,1994-06-15,31,"Denmark, Tanzania",,192,right,2025-07-13,,"RB Leipzig",2027-06-30,1500000,"Team captain; Hamstring injury - Return unknown"
+13065,167,2026-03-29T21:34:43.209783,251299,"Finn Dahmen",Goalkeeper,1998-03-27,28,"Germany, England",,186,right,2023-01-07,,"1.FSV Mainz 05",2027-06-30,12000000,
+13066,167,2026-03-29T21:34:43.209783,610190,"Nediljko Labrovic",Goalkeeper,1999-10-10,26,Croatia,,196,right,2024-01-07,,"HNK Rijeka",2029-06-30,2000000,
+13067,167,2026-03-29T21:34:43.209783,392124,"Daniel Klein",Goalkeeper,2001-03-13,25,Germany,,193,right,2021-02-07,,"TSG 1899 Hoffenheim II",2026-06-30,150000,
+13068,167,2026-03-29T21:34:43.209783,569383,"Chrislain Matsima",Centre-Back,2002-05-15,23,"France, Congo",,193,right,2025-01-07,,"AS Monaco",2030-06-30,22000000,"Tendon tear - Return unknown"
+13069,167,2026-03-29T21:34:43.209783,923945,"Noahkai Banks",Centre-Back,2006-01-12,19,"United States, Germany",,193,right,2024-10-07,,"FC Augsburg II",2029-06-30,22000000,
+13070,167,2026-03-29T21:34:43.209783,413843,"Keven Schlotterbeck",Centre-Back,1997-04-28,28,Germany,,188,left,2024-01-07,,"SC Freiburg",2027-06-30,6000000,
+13071,167,2026-03-29T21:34:43.209783,382478,"Cédric Zesiger",Centre-Back,1998-06-24,27,Switzerland,,194,left,2025-01-07,,"VfL Wolfsburg",2029-06-30,5000000,
+13072,167,2026-03-29T21:34:43.209783,875332,"Arthur Chaves",Centre-Back,2001-01-29,25,Brazil,,188,right,2026-01-22,,"TSG 1899 Hoffenheim",2026-06-30,4000000,
+13073,167,2026-03-29T21:34:43.209783,106405,"Jeffrey Gouweleeuw",Centre-Back,1991-10-07,34,Netherlands,,188,right,2016-09-01,,"AZ Alkmaar",2027-06-30,1000000,"Team captain"
+13074,167,2026-03-29T21:34:43.209783,1069641,"Felix Meiser",Centre-Back,2007-01-16,19,Germany,,189,right,2025-01-07,,"FC Augsburg II",2027-06-30,150000,
+13075,167,2026-03-29T21:34:43.209783,295630,"Dimitrios Giannoulis",Left-Back,1995-10-17,30,Greece,,178,left,2024-07-23,,"Norwich City",2028-06-30,3000000,
+13076,167,2026-03-29T21:34:43.209783,288429,"Mads Pedersen",Left-Back,1996-01-09,29,Denmark,,178,left,2019-01-07,,"FC Nordsjaelland",2027-06-30,1000000,
+13077,167,2026-03-29T21:34:43.209783,960444,"Oliver Sorg",Left-Back,2007-07-31,18,Austria,,176,left,2025-01-07,,"SK Sturm Graz II",2027-06-30,400000,
+13078,167,2026-03-29T21:34:43.209783,193900,"Marius Wolf",Right-Back,1995-05-27,30,Germany,,188,right,2024-08-08,,"Borussia Dortmund",2027-06-30,2500000,
+13079,167,2026-03-29T21:34:43.209783,374954,"Kristijan Jakic","Defensive Midfield",1997-05-14,28,Croatia,,184,right,2024-01-07,,"Eintracht Frankfurt",2028-06-30,6000000,
+13080,167,2026-03-29T21:34:43.209783,264960,"Robin Fellhauer","Defensive Midfield",1998-01-21,28,Germany,,182,right,2025-01-07,,"SV 07 Elversberg",2029-06-30,3000000,
+13081,167,2026-03-29T21:34:43.209783,342039,"Yannik Keitel","Defensive Midfield",2000-02-15,26,Germany,,186,both,2026-03-01,,"VfB Stuttgart",2026-06-30,2000000,"Knee problems - Return unknown"
+13082,167,2026-03-29T21:34:43.209783,730486,"Mahmut Kücüksahin","Defensive Midfield",2004-07-04,21,"Türkiye, Germany",,182,right,2024-07-17,,"FC Augsburg II",2027-06-30,150000,
+13083,167,2026-03-29T21:34:43.209783,536508,"Han-Noah Massengo","Central Midfield",2001-07-07,24,"France, Congo",,178,right,2025-07-15,,"Burnley FC",2030-06-30,6000000,
+13084,167,2026-03-29T21:34:43.209783,280575,"Elvis Rexhbecaj","Central Midfield",1997-01-11,28,"Kosovo, Germany",,182,left,2022-07-27,,"VfL Wolfsburg",2026-06-30,3500000,
+13085,167,2026-03-29T21:34:43.209783,654234,"Anton Kade","Right Midfield",2004-01-17,22,Germany,,185,right,2025-08-25,,"FC Basel 1893",2029-06-30,7500000,
+13086,167,2026-03-29T21:34:43.209783,384593,"Alexis Claude-Maurice","Attacking Midfield",1998-06-06,27,"France, Guadeloupe",,176,right,2024-08-30,,"OGC Nice",2027-06-30,15000000,
+13087,167,2026-03-29T21:34:43.209783,777005,"Mert Kömür","Attacking Midfield",2005-07-17,20,"Germany, Türkiye",,184,both,2023-01-07,,"FC Augsburg U19",2029-06-30,12000000,
+13088,167,2026-03-29T21:34:43.209783,507341,"Fabian Rieder","Attacking Midfield",2002-02-16,24,Switzerland,,179,left,2025-01-09,,"Stade Rennais FC",2030-06-30,8000000,
+13089,167,2026-03-29T21:34:43.209783,810096,"Ismaël Gharbi","Left Winger",2004-10-04,21,"Tunisia, Spain",,173,right,2025-01-09,,"SC Braga",2026-06-30,5000000,
+13090,167,2026-03-29T21:34:43.209783,726701,"Rodrigo Ribeiro",Centre-Forward,2005-04-28,20,Portugal,,186,right,2026-01-15,,"Sporting CP B",2026-06-30,4000000,
+13091,167,2026-03-29T21:34:43.209783,1309324,"Uchenna Ogundu",Centre-Forward,2006-12-05,19,Nigeria,,180,right,2026-02-02,,Alanyaspor,2031-06-30,4000000,
+13092,167,2026-03-29T21:34:43.209783,120205,"Michael Gregoritsch",Centre-Forward,1994-04-18,31,Austria,,193,left,2026-07-01,,"Bröndby IF",2026-06-30,1500000,
+13093,167,2026-03-29T21:34:43.209783,675565,"Thomas Kastanaras",Centre-Forward,2003-09-01,23,"Germany, Greece",,186,,2026-02-02,,"VfB Stuttgart II",2027-06-30,300000,
+13094,18,2026-03-29T21:34:43.284288,284270,"Moritz Nicolas",Goalkeeper,1997-10-21,28,Germany,,193,right,2016-01-07,,"Borussia Mönchengladbach II",2029-06-30,6000000,
+13095,18,2026-03-29T21:34:43.284288,926301,"Tiago Pereira Cardoso",Goalkeeper,2006-07-04,19,"Luxembourg, Portugal",,190,right,2025-01-03,,"Borussia Mönchengladbach U19",,1500000,
+13096,18,2026-03-29T21:34:43.284288,455922,"Jan Olschowsky",Goalkeeper,2001-11-18,24,Germany,,184,right,2020-07-13,,"Borussia Mönchengladbach II",2027-06-30,450000,"Knee injury - Return unknown"
+13097,18,2026-03-29T21:34:43.284288,31653,"Tobias Sippel",Goalkeeper,1988-03-22,38,Germany,,183,right,2015-01-07,,"1.FC Kaiserslautern",2026-06-30,300000,
+13098,18,2026-03-29T21:34:43.284288,192635,"Nico Elvedi",Centre-Back,1996-09-30,29,Switzerland,,189,right,2015-01-07,,": Ablöse €4.00m",2027-06-30,8000000,
+13099,18,2026-03-29T21:34:43.284288,335209,"Kevin Diks",Centre-Back,1996-06-10,29,"Indonesia, Netherlands",,186,right,2025-01-07,,"FC Copenhagen",2030-06-30,5000000,
+13100,18,2026-03-29T21:34:43.284288,671108,"Kota Takai",Centre-Back,2004-04-09,21,Japan,,192,right,2026-02-01,,"Tottenham Hotspur",2026-06-30,5000000,"strain - Return unknown"
+13101,18,2026-03-29T21:34:43.284288,724104,"Fabio Chiarodia",Centre-Back,2005-05-06,20,"Italy, Germany",,186,left,2023-01-07,,"SV Werder Bremen",2027-06-30,3000000,
+13102,18,2026-03-29T21:34:43.284288,196231,"Marvin Friedrich",Centre-Back,1995-12-13,30,Germany,,193,right,2022-11-01,,"1.FC Union Berlin",2026-06-30,1800000,
+13103,18,2026-03-29T21:34:43.284288,787151,"Lukas Ullrich",Left-Back,2004-03-16,22,Germany,,180,left,2023-01-07,,"Hertha BSC II",2029-06-30,7000000,
+13104,18,2026-03-29T21:34:43.284288,504153,"Joe Scally",Right-Back,2002-12-31,23,"United States",,184,right,2021-01-01,,": Ablöse €1.80m",2027-06-30,7000000,
+13105,18,2026-03-29T21:34:43.284288,405670,"Yannik Engelhardt","Defensive Midfield",2001-07-02,25,Germany,,184,right,2025-01-09,,"Como 1907",2026-06-30,6000000,
+13106,18,2026-03-29T21:34:43.284288,388409,"Philipp Sander","Defensive Midfield",1998-02-21,28,Germany,,186,both,2024-01-07,,"Holstein Kiel",2028-06-30,4000000,
+13107,18,2026-03-29T21:34:43.284288,1009463,"Niklas Swider","Defensive Midfield",2007-05-01,19,Germany,,188,right,2024-12-17,,"Borussia Mönchengladbach U19",2027-06-30,250000,
+13108,18,2026-03-29T21:34:43.284288,467434,"Rocco Reitz","Central Midfield",2002-05-29,23,Germany,,176,right,2020-01-07,,"Borussia Mönchengladbach U19",2028-06-30,20000000,
+13109,18,2026-03-29T21:34:43.284288,613192,"Jens Castrop","Central Midfield",2003-07-29,22,"Korea, South, Germany",,178,right,2025-01-07,,"1.FC Nuremberg",2029-06-30,6000000,"unknown injury - Return unknown"
+13110,18,2026-03-29T21:34:43.284288,278332,"Florian Neuhaus","Central Midfield",1997-03-16,29,Germany,,185,right,2017-01-07,,"TSV 1860 Munich",2027-06-30,3500000,
+13111,18,2026-03-29T21:34:43.284288,1070979,"Wael Mohya","Attacking Midfield",2008-12-31,17,"Germany, Morocco",,179,both,2025-06-07,,"Borussia Mönchengladbach U19",,10000000,
+13112,18,2026-03-29T21:34:43.284288,504215,"Giovanni Reyna","Attacking Midfield",2002-11-13,23,"United States, Portugal",,187,right,2025-08-23,,"Borussia Dortmund",2028-06-30,4000000,
+13113,18,2026-03-29T21:34:43.284288,106872,"Kevin Stöger","Attacking Midfield",1993-08-27,32,Austria,,175,left,2024-01-07,,"VfL Bochum",2027-06-30,2000000,
+13114,18,2026-03-29T21:34:43.284288,284010,"Robin Hack","Left Winger",1998-08-27,27,Germany,,178,right,2023-01-07,,"Arminia Bielefeld",2029-06-30,9000000,"Torn muscle fiber in the adductor area - Return unknown"
+13115,18,2026-03-29T21:34:43.284288,667251,"Hugo Bolin","Left Winger",2003-07-24,22,Sweden,,179,right,2026-02-02,,"Malmö FF",2026-06-30,6000000,
+13116,18,2026-03-29T21:34:43.284288,229006,"Franck Honorat","Right Winger",1996-11-08,29,France,,180,right,2023-11-07,,": Ablöse €8.00m",2029-06-30,10000000,
+13117,18,2026-03-29T21:34:43.284288,629588,"Nathan Ngoumou","Right Winger",2000-03-14,26,"Cameroon, France",,185,right,2022-08-30,,"FC Toulouse",2027-06-30,3500000,"Fitness - Return expected on 30/03/2026"
+13118,18,2026-03-29T21:34:43.284288,193033,"Tim Kleindienst",Centre-Forward,1995-08-31,30,Germany,,194,both,2024-01-07,,"1.FC Heidenheim 1846",2029-06-30,10000000,"Team captain; Knee surgery - Return unknown"
+13119,18,2026-03-29T21:34:43.284288,550580,"Shuto Machino",Centre-Forward,1999-09-30,26,Japan,,185,right,2025-07-26,,"Holstein Kiel",2029-06-30,5000000,
+13120,18,2026-03-29T21:34:43.284288,203123,"Haris Tabakovic",Centre-Forward,1994-06-20,31,"Bosnia-Herzegovina, Switzerland",,196,right,2025-07-18,,"TSG 1899 Hoffenheim",2026-06-30,3000000,
+13121,18,2026-03-29T21:34:43.284288,1000675,"Alejo Sarco",Centre-Forward,2006-06-01,20,"Argentina, Italy",,179,left,2026-01-20,,"Bayer 04 Leverkusen",2026-06-30,2000000,
+13122,39,2026-03-29T21:34:43.433319,160963,"Robin Zentner",Goalkeeper,1994-10-28,31,Germany,,194,right,2014-01-07,,": Ablöse -",2028-06-30,3000000,"Adductor injury - Return unknown"
+13123,39,2026-03-29T21:34:43.433319,490609,"Lasse Rieß",Goalkeeper,2001-07-27,24,Germany,,192,right,2021-01-07,,"1.FSV Mainz 05 II",2027-06-30,500000,
+13124,39,2026-03-29T21:34:43.433319,90317,"Daniel Batz",Goalkeeper,1991-12-01,35,Germany,,191,both,2023-01-07,,"1.FC Saarbrücken",2026-06-30,350000,
+13125,39,2026-03-29T21:34:43.433319,1073748,"Kacper Potulski",Centre-Back,2007-10-19,18,Poland,,195,right,2026-01-01,,"1.FSV Mainz 05 II",2028-06-30,12000000,
+13126,39,2026-03-29T21:34:43.433319,223974,"Stefan Posch",Centre-Back,1997-05-14,28,Austria,,190,right,2026-01-22,,"Como 1907",2026-06-30,5500000,
+13127,39,2026-03-29T21:34:43.433319,370683,"Andreas Hanche-Olsen",Centre-Back,1997-01-17,29,Norway,,185,right,2023-01-13,,": Ablöse €2.50m",2028-06-30,4000000,"muscular problems - Return unknown"
+13128,39,2026-03-29T21:34:43.433319,118847,"Dominik Kohr",Centre-Back,1994-01-31,32,Germany,,183,right,2022-01-07,,"Eintracht Frankfurt",2028-06-30,2000000,
+13129,39,2026-03-29T21:34:43.433319,85906,"Danny da Costa",Centre-Back,1993-07-13,32,"Germany, Angola",,187,right,2022-01-07,,"Eintracht Frankfurt",2027-06-30,1200000,
+13130,39,2026-03-29T21:34:43.433319,334207,"Maxim Leitsch",Centre-Back,1998-05-18,27,Germany,,189,left,2022-01-07,,"VfL Bochum",2026-06-30,1000000,
+17507,988,2026-03-29T21:36:15.595651,851972,"Jack Currie",Left-Back,2001-12-16,24,England,,175,left,2024-05-07,,"AFC Wimbledon",,700000,
+13131,39,2026-03-29T21:34:43.433319,82350,"Stefan Bell",Centre-Back,1991-08-24,34,Germany,,192,right,2010-01-07,,": Ablöse -",2026-06-30,600000,"Fitness - Return unknown"
+13132,39,2026-03-29T21:34:43.433319,934317,"Maxim Dal",Centre-Back,2006-01-26,20,"Germany, Türkiye",,188,left,2025-01-07,,"1.FSV Mainz 05 II",2027-06-30,150000,
+13133,39,2026-03-29T21:34:43.433319,127573,"Phillipp Mwene",Left-Back,1994-01-29,32,"Austria, Kenya",,170,right,2023-08-23,,"PSV Eindhoven",,1500000,
+13134,39,2026-03-29T21:34:43.433319,1154876,"Kasey Bos",Left-Back,2004-08-05,21,"Australia, Netherlands",,186,left,2025-01-07,,"Melbourne Victory",2029-06-30,450000,"No eligibility – UEFA Conference League – until 30/06/2026; Shoulder injury - Return expected on 30/06/2026"
+13135,39,2026-03-29T21:34:43.433319,453016,"Anthony Caci",Right-Back,1997-01-07,28,France,,184,both,2022-01-07,,"RC Strasbourg Alsace",2028-06-30,8000000,"No eligibility – UEFA Conference League"
+13136,39,2026-03-29T21:34:43.433319,168989,"Silvan Widmer",Right-Back,1993-05-03,33,Switzerland,,183,right,2021-09-07,,"FC Basel 1893",2026-06-30,800000,"Team captain"
+13137,39,2026-03-29T21:34:43.433319,643574,"Kaishu Sano","Defensive Midfield",2000-12-30,25,Japan,,176,right,2024-03-07,,"Kashima Antlers",2028-06-30,25000000,
+13138,39,2026-03-29T21:34:43.433319,392710,"Lennard Maloney","Defensive Midfield",1999-08-10,26,"United States, Germany",,188,right,2025-01-21,,"1.FC Heidenheim 1846",2028-06-30,2500000,
+13139,39,2026-03-29T21:34:43.433319,733371,"Sota Kawasaki","Defensive Midfield",2001-07-30,24,Japan,,172,both,2025-09-07,,"Kyoto Sanga",2026-06-30,1500000,
+13140,39,2026-03-29T21:34:43.433319,470815,"Niklas Tauer","Defensive Midfield",2001-02-17,25,Germany,,183,right,2019-09-27,,"1.FSV Mainz 05 U19",,350000,
+13141,39,2026-03-29T21:34:43.433319,232454,"Nadiem Amiri","Central Midfield",1996-10-27,29,Germany,,180,right,2024-01-31,,"Bayer 04 Leverkusen",2028-06-30,17000000,"Heel injury - Return unknown"
+13142,39,2026-03-29T21:34:43.433319,906969,"Daniel Gleiber","Central Midfield",2005-01-02,21,Germany,,181,left,2025-01-07,,"1.FSV Mainz 05 II",2028-06-30,300000,
+13143,39,2026-03-29T21:34:43.433319,601143,"Nikolas Veratschnig","Right Midfield",2003-01-24,23,Austria,,180,right,2024-01-07,,"Wolfsberger AC",2028-06-30,1500000,
+13144,39,2026-03-29T21:34:43.433319,503160,"Paul Nebel","Attacking Midfield",2002-10-10,23,"Germany, Ireland",,169,both,2020-01-07,,"1.FSV Mainz 05 U19",2027-06-30,15000000,
+13145,39,2026-03-29T21:34:43.433319,314398,"Jae-sung Lee","Attacking Midfield",1992-10-08,33,"Korea, South",,180,left,2021-08-07,,"Holstein Kiel",,2000000,
+13146,39,2026-03-29T21:34:43.433319,188888,"Sheraldo Becker","Left Winger",1995-09-02,31,"Suriname, Netherlands",,180,right,2026-02-02,,"CA Osasuna",2026-06-30,1500000,"No eligibility – UEFA Conference League – until 28/05/2026"
+13147,39,2026-03-29T21:34:43.433319,612826,Silas,"Right Winger",1998-06-10,27,"DR Congo",,189,right,2026-06-01,,"VfB Stuttgart",,3000000,"Tibia and fibula fracture - Return unknown"
+13148,39,2026-03-29T21:34:43.433319,569033,"Armindo Sieb","Second Striker",2003-02-17,23,"Germany, Mozambique",,175,both,2024-02-07,,"Bayern Munich",2026-06-30,3000000,
+13149,39,2026-03-29T21:34:43.433319,796213,"Nelson Weiper",Centre-Forward,2005-03-17,21,"Germany, Albania",,192,right,2022-01-07,,"1.FSV Mainz 05 U19",2029-06-30,10000000,
+13150,39,2026-03-29T21:34:43.433319,453870,"Benedict Hollerbach",Centre-Forward,2001-05-17,24,Germany,,181,both,2025-01-07,,"1.FC Union Berlin",2029-06-30,8000000,"Achilles tendon rupture - Return unknown"
+13151,39,2026-03-29T21:34:43.433319,610400,"William Bøving",Centre-Forward,2003-01-03,23,Denmark,,176,both,2025-01-09,,"SK Sturm Graz",2029-06-30,3500000,
+13152,39,2026-03-29T21:34:43.433319,288340,"Phillip Tietz",Centre-Forward,1997-09-07,28,Germany,,190,right,2026-02-01,,"FC Augsburg",2028-06-30,3500000,
+13153,3,2026-03-29T21:34:43.985689,160929,"Marvin Schwäbe",Goalkeeper,1995-04-25,30,Germany,,190,right,2021-01-07,,"Bröndby IF",2027-06-30,3000000,"Team captain"
+13154,3,2026-03-29T21:34:43.985689,21327,"Ron-Robert Zieler",Goalkeeper,1989-12-02,37,Germany,,188,right,2025-07-07,,"Hannover 96",2027-06-30,500000,
+13155,3,2026-03-29T21:34:43.985689,227089,"Matthias Köbbing",Goalkeeper,1997-05-28,28,Germany,,196,both,2022-01-01,,"1.FC Köln II",2027-06-30,100000,
+13156,3,2026-03-29T21:34:43.985689,640556,"Rav van den Berg",Centre-Back,2004-07-07,21,Netherlands,,191,right,2025-08-13,,"Middlesbrough FC",2030-06-30,8000000,
+13157,3,2026-03-29T21:34:43.985689,942497,"Jahmai Simpson-Pusey",Centre-Back,2005-04-11,20,England,,187,right,2026-06-01,,"Manchester City U21",2026-06-30,6000000,
+13158,3,2026-03-29T21:34:43.985689,322517,"Joël Schmied",Centre-Back,1998-09-23,27,Switzerland,,188,right,2025-01-13,,"FC Sion",2029-06-30,3500000,"Muscle injury - Return unknown"
+13159,3,2026-03-29T21:34:43.985689,615350,"Cenk Özkacar",Centre-Back,2000-06-10,25,Türkiye,,190,left,2025-09-08,,"Valencia CF",2026-06-30,3000000,
+13160,3,2026-03-29T21:34:43.985689,236981,"Timo Hübers",Centre-Back,1996-07-20,29,Germany,,190,right,2021-01-07,,"Hannover 96",2026-06-30,2500000,"Knee injury - Return unknown"
+13161,3,2026-03-29T21:34:43.985689,110036,"Dominique Heintz",Centre-Back,1993-08-15,32,Germany,,188,left,2023-08-31,,"1.FC Union Berlin",2026-06-30,700000,
+13162,3,2026-03-29T21:34:43.985689,384553,"Luca Kilian",Centre-Back,1999-01-09,26,Germany,,192,right,2022-01-07,,"1.FSV Mainz 05",2026-06-30,100000,"Cruciate ligament tear - Return unknown"
+13163,3,2026-03-29T21:34:43.985689,623773,"Kristoffer Lund",Left-Back,2002-05-14,23,"United States, Denmark",,184,left,2025-05-08,,"Palermo FC",2026-06-30,4000000,
+13164,3,2026-03-29T21:34:43.985689,592387,"Sebastian Sebulonsen",Right-Back,2000-01-27,26,Norway,,187,right,2025-07-18,,"Bröndby IF",2028-06-30,5500000,
+13165,3,2026-03-29T21:34:43.985689,597000,"Eric Martel","Defensive Midfield",2002-04-29,23,Germany,,188,right,2022-01-07,,"RB Leipzig",2026-06-30,8000000,"Indirect card suspension – Bundesliga – until 06/04/2026"
+13166,3,2026-03-29T21:34:43.985689,405687,"Tom Krauß","Defensive Midfield",2001-06-22,24,Germany,,182,right,2025-05-07,,"1.FSV Mainz 05",2026-06-30,4500000,
+13167,3,2026-03-29T21:34:43.985689,890532,"Fayssal Harchaoui","Defensive Midfield",2006-01-15,20,"Germany, Morocco",,175,right,2024-01-07,,"1.FC Köln U19",2028-06-30,200000,
+13168,3,2026-03-29T21:34:43.985689,579565,"Ísak Jóhannesson","Central Midfield",2003-03-23,23,"Iceland, England",,184,left,2025-01-07,,"Fortuna Düsseldorf",2030-06-30,8000000,
+13169,3,2026-03-29T21:34:43.985689,678479,"Denis Huseinbasic","Central Midfield",2001-03-07,24,"Bosnia-Herzegovina, Germany",,184,right,2022-01-07,,"Kickers Offenbach",2027-06-30,3000000,
+13170,3,2026-03-29T21:34:43.985689,1009441,"Felipe Chávez","Central Midfield",2007-10-04,18,"Peru, Germany",,177,both,2026-02-02,,"FC Bayern Munich II",2026-06-30,2000000,
+13171,3,2026-03-29T21:34:43.985689,340166,"Alessio Castro-Montes","Right Midfield",1997-05-17,28,"Belgium, Spain",,175,right,2025-01-09,,"Union Saint-Gilloise",2028-06-30,3000000,"muscular problems - Return unknown"
+13172,3,2026-03-29T21:34:43.985689,106270,"Florian Kainz","Attacking Midfield",1992-10-24,33,Austria,,176,both,2019-01-18,,"SV Werder Bremen",2026-06-30,1000000,
+13173,3,2026-03-29T21:34:43.985689,1168219,"Said El Mala","Left Winger",2006-08-26,19,Germany,,187,both,2024-01-07,,"FC Viktoria Köln",2030-06-30,35000000,
+13174,3,2026-03-29T21:34:43.985689,407098,"Jakub Kaminski","Left Winger",2002-05-06,23,Poland,,179,right,2025-04-07,,"VfL Wolfsburg",2026-06-30,12000000,
+13175,3,2026-03-29T21:34:43.985689,335103,"Linton Maina","Left Winger",1999-06-23,26,"Germany, Kenya",,180,right,2022-01-07,,"Hannover 96",,3000000,
+13176,3,2026-03-29T21:34:43.985689,116088,"Marius Bülter","Left Winger",1993-03-29,33,Germany,,188,right,2025-07-31,,"TSG 1899 Hoffenheim",2027-06-30,2000000,
+13177,3,2026-03-29T21:34:43.985689,472249,"Jan Thielmann","Right Winger",2002-05-26,23,Germany,,178,right,2020-01-17,,"1.FC Köln U19",2028-06-30,5000000,
+13178,3,2026-03-29T21:34:43.985689,944331,"Youssoupha Niang","Right Winger",2006-03-25,20,"Germany, Senegal",,185,right,2026-01-01,,"1.FC Köln II",2027-06-30,2000000,
+13179,3,2026-03-29T21:34:43.985689,416380,"Ragnar Ache",Centre-Forward,1998-07-28,27,"Germany, Ghana",,183,right,2025-01-07,,"1.FC Kaiserslautern",2029-06-30,8000000,
+13180,3,2026-03-29T21:34:43.985689,196095,"Luca Waldschmidt",Centre-Forward,1996-05-19,29,Germany,,181,left,2024-01-07,,"VfL Wolfsburg",2027-06-30,2000000,
+13181,3,2026-03-29T21:34:43.985689,1118293,"Fynn Schenten",Centre-Forward,2007-09-14,18,"Germany, France",,189,both,2026-01-29,,"1.FC Köln U19",2030-06-30,1000000,
+13182,3,2026-03-29T21:34:43.985689,1168222,"Malek El Mala",Centre-Forward,2005-02-04,20,Germany,,194,right,2024-01-07,,"FC Viktoria Köln",2030-06-30,250000,"Muscle tear - Return unknown"
+13183,89,2026-03-29T21:34:44.037544,107775,"Frederik Rönnow",Goalkeeper,1992-04-08,33,Denmark,,188,right,2021-07-20,,"Eintracht Frankfurt",,2500000,
+13184,89,2026-03-29T21:34:44.037544,386685,"Matheo Raab",Goalkeeper,1998-12-18,27,Germany,,186,right,2025-11-07,,"Hamburger SV",,600000,"Hand injury - Return unknown"
+13185,89,2026-03-29T21:34:44.037544,161057,"Carl Klaus",Goalkeeper,1994-01-16,32,Germany,,189,right,2024-07-28,,"1.FC Nuremberg",,350000,
+13186,89,2026-03-29T21:34:44.037544,597432,"Leopold Querfeld",Centre-Back,2003-12-20,22,Austria,,190,right,2024-01-07,,"Rapid Vienna",,18000000,
+13187,89,2026-03-29T21:34:44.037544,387047,"Danilho Doekhi",Centre-Back,1998-06-30,27,"Netherlands, Suriname",,190,right,2022-01-07,,"Vitesse Arnhem",2026-06-30,13000000,
+13188,89,2026-03-29T21:34:44.037544,357156,"Diogo Leite",Centre-Back,1999-01-23,27,Portugal,,190,left,2023-01-07,,"FC Porto",2026-06-30,12000000,
+13189,89,2026-03-29T21:34:44.037544,371141,"Stanley Nsoki",Centre-Back,1999-09-04,26,"France, DR Congo",,184,left,2025-07-24,,"TSG 1899 Hoffenheim",2026-06-30,2000000,
+13190,89,2026-03-29T21:34:44.037544,798043,"Tom Rothe",Left-Back,2004-10-29,21,Germany,,193,left,2024-07-08,,"Borussia Dortmund",,10000000,
+13191,89,2026-03-29T21:34:44.037544,391780,"Derrick Köhn",Left-Back,1999-04-02,27,"Ghana, Germany",,180,left,2025-08-19,,Galatasaray,2029-06-30,4000000,
+13192,89,2026-03-29T21:34:44.037544,1027870,"Andrik Markgraf",Left-Back,2006-07-03,20,Germany,,172,left,2025-01-07,,"1.FC Union Berlin U19",,,
+13193,89,2026-03-29T21:34:44.037544,362977,"Josip Juranovic",Right-Back,1995-08-16,30,Croatia,,173,right,2023-01-22,,": Ablöse €8.55m",,2500000,
+13194,89,2026-03-29T21:34:44.037544,75921,"Christopher Trimmel",Right-Back,1987-02-24,39,Austria,,189,right,2014-01-07,,"Rapid Vienna",2027-06-30,600000,"Team captain"
+13195,89,2026-03-29T21:34:44.037544,692737,"Aljoscha Kemlein","Defensive Midfield",2004-02-08,21,Germany,,187,right,2023-01-07,,"1.FC Union Berlin U19",,12000000,
+13196,89,2026-03-29T21:34:44.037544,124410,"Rani Khedira","Defensive Midfield",1994-01-27,32,"Tunisia, Germany",,189,right,2021-01-07,,"FC Augsburg",2026-06-30,2000000,
+13197,89,2026-03-29T21:34:44.037544,454863,"András Schäfer","Central Midfield",1999-04-13,26,Hungary,,178,right,2022-01-21,,"DAC Dunajska Streda",2027-06-30,4500000,
+13198,89,2026-03-29T21:34:44.037544,177779,"Janik Haberer","Central Midfield",1994-02-04,31,Germany,,187,right,2022-01-07,,"SC Freiburg",2027-06-30,2500000,
+13199,89,2026-03-29T21:34:44.037544,337333,"Alex Král","Central Midfield",1998-05-19,27,"Czech Republic",,186,right,2024-01-07,,"Spartak Moscow",2026-06-30,2500000,
+13200,89,2026-03-29T21:34:44.037544,270393,"Robert Skov","Left Midfield",1996-05-20,29,Denmark,,185,left,2024-04-09,,"Without Club",,2500000,"Fitness - Return unknown"
+13201,89,2026-03-29T21:34:44.037544,297583,"Woo-yeong Jeong","Attacking Midfield",1999-09-20,26,"Korea, South",,179,right,2025-01-07,,"VfB Stuttgart",,3500000,
+13202,89,2026-03-29T21:34:44.037544,519872,"Livan Burcu","Left Winger",2004-09-28,21,"Türkiye, Germany",,180,right,2024-07-20,,"SV Sandhausen",,4000000,
+13203,89,2026-03-29T21:34:44.037544,745075,"David Preu","Left Winger",2004-10-26,21,Germany,,172,right,2023-01-07,,"1.FC Union Berlin U19",,400000,
+13204,89,2026-03-29T21:34:44.037544,1035765,"Ilyas Ansah",Centre-Forward,2004-08-11,21,"Germany, Ghana",,197,right,2025-01-07,,"SC Paderborn 07",,12000000,
+13205,89,2026-03-29T21:34:44.037544,583699,"Andrej Ilic",Centre-Forward,2000-03-04,25,Serbia,,189,right,2025-01-07,,"LOSC Lille",2027-06-30,6000000,
+13206,89,2026-03-29T21:34:44.037544,341317,"Oliver Burke",Centre-Forward,1997-07-04,28,Scotland,,188,right,2025-01-07,,"SV Werder Bremen",2029-06-30,4000000,
+13207,89,2026-03-29T21:34:44.037544,287920,"Tim Skarke",Centre-Forward,1996-07-09,29,Germany,,181,right,2022-01-07,,"SV Darmstadt 98",,1800000,
+13208,89,2026-03-29T21:34:44.037544,1045446,"Dmytro Bogdanov",Centre-Forward,2007-06-03,19,Ukraine,,188,right,2025-08-13,,"SG Dynamo Dresden",2029-06-30,600000,
+13209,35,2026-03-29T21:34:45.808933,248454,"Nikola Vasilj",Goalkeeper,1995-02-12,30,"Bosnia-Herzegovina, Croatia",,193,right,2021-01-07,,": Ablöse free transfer",,4500000,
+13210,35,2026-03-29T21:34:45.808933,453742,"Ben Voll",Goalkeeper,2000-09-12,25,Germany,,195,both,2024-01-07,,"FC Viktoria Köln",,500000,
+13211,35,2026-03-29T21:34:45.808933,527597,"Simon Spari",Goalkeeper,2002-06-16,23,Austria,,196,,2025-01-07,,"SK Austria Klagenfurt",,350000,"Syndesmotic ligament tear - Return unknown"
+13212,35,2026-03-29T21:34:45.808933,790733,"Emil Gazdov",Goalkeeper,2003-11-09,22,"Canada, Bulgaria",,194,right,2026-04-01,,"CF Montréal",2026-06-30,175000,
+13213,35,2026-03-29T21:34:45.808933,292534,"Eric Smith",Centre-Back,1997-08-01,29,Sweden,,192,right,2021-01-07,,": Ablöse €600k",,5000000,
+13214,35,2026-03-29T21:34:45.808933,451906,"David Nemeth",Centre-Back,2001-03-18,25,Austria,,191,both,2022-01-07,,"1.FSV Mainz 05",,3000000,
+13215,35,2026-03-29T21:34:45.808933,610795,"Tomoya Ando",Centre-Back,1999-10-01,27,Japan,,190,right,2026-01-01,,"Avispa Fukuoka",,3000000,"Adductor injury - Return unknown"
+13216,35,2026-03-29T21:34:45.808933,154147,"Hauke Wahl",Centre-Back,1994-04-15,31,Germany,,189,right,2023-01-07,,"Holstein Kiel",,1500000,
+13217,35,2026-03-29T21:34:45.808933,236966,"Adam Dzwigala",Centre-Back,1995-09-25,30,Poland,,185,right,2020-12-17,,"Without Club",,900000,
+13218,35,2026-03-29T21:34:45.808933,139304,"Karol Mets",Centre-Back,1993-05-16,32,Estonia,,191,left,2023-01-07,,"FC Zürich",2026-06-30,800000,"Calf injury - Return unknown"
+13219,35,2026-03-29T21:34:45.808933,909860,"Jannik Robatsch",Centre-Back,2004-12-28,21,Austria,,190,left,2025-01-07,,"SK Austria Klagenfurt",,600000,
+13220,35,2026-03-29T21:34:45.808933,605265,"Louis Oppie",Left-Back,2002-05-17,23,Germany,,184,left,2025-11-07,,"Arminia Bielefeld",,2500000,
+13221,35,2026-03-29T21:34:45.808933,333903,"Lars Ritzka",Left-Back,1998-07-05,27,Germany,,185,left,2021-01-07,,"SC Verl",,1000000,
+13222,35,2026-03-29T21:34:45.808933,599733,"Arkadiusz Pyrka",Right-Back,2002-09-20,23,Poland,,177,right,2025-01-07,,"Piast Gliwice",,3500000,
+13223,35,2026-03-29T21:34:45.808933,242661,"Manolis Saliakas",Right-Back,1996-12-09,29,Greece,,177,right,2022-01-07,,"PAS Giannina",,2500000,"Hamstring injury - Return unknown"
+13224,35,2026-03-29T21:34:45.808933,587019,"Fin Stevens",Right-Back,2003-10-04,22,"Wales, England",,179,right,2024-07-26,,"Brentford FC",,500000,
+13225,35,2026-03-29T21:34:45.808933,393321,"James Sands","Defensive Midfield",2000-06-07,25,"United States",,186,right,2025-01-01,,"New York City FC",2026-06-30,5000000,"Ankle injury - Return unknown"
+13226,35,2026-03-29T21:34:45.808933,1003534,"Marwin Schmitz","Defensive Midfield",2007-07-01,19,Germany,,180,right,2025-01-16,,"FC St. Pauli II",,200000,
+13227,35,2026-03-29T21:34:45.808933,697277,"Joel Chima Fujita","Central Midfield",2002-02-16,24,"Japan, Nigeria",,175,right,2025-01-07,,"Sint-Truidense VV",,10000000,
+13228,35,2026-03-29T21:34:45.808933,268327,"Mathias Rasmussen","Central Midfield",1997-11-25,28,Norway,,180,left,2026-01-24,,"Union Saint-Gilloise",2029-06-30,2500000,
+13229,35,2026-03-29T21:34:45.808933,522223,"Connor Metcalfe","Central Midfield",1999-05-11,26,Australia,,183,left,2022-01-07,,"Melbourne City FC",,2000000,
+13230,35,2026-03-29T21:34:45.808933,192557,"Jackson Irvine","Central Midfield",1993-07-03,33,"Australia, Scotland",,189,right,2021-05-07,,"Hibernian FC",,1500000,"Team captain"
+13231,35,2026-03-29T21:34:45.808933,1152232,"Nick Schmidt","Central Midfield",2007-12-09,18,"Japan, Germany",,180,right,2025-01-07,,"FC St. Pauli U19",,125000,"Called up to national team – cross-competition – until 31/03/2026"
+13232,35,2026-03-29T21:34:45.808933,346499,"Danel Sinani","Attacking Midfield",1997-05-04,28,"Luxembourg, Serbia",,185,left,2023-04-07,,"Norwich City",,3000000,
+13233,35,2026-03-29T21:34:45.808933,424072,"Mathias Pereira Lage","Left Winger",1996-11-30,29,"Portugal, France",,180,right,2025-01-07,,"Stade Brestois 29",2028-06-30,3500000,
+13234,35,2026-03-29T21:34:45.808933,704155,"Andréas Hountondji",Centre-Forward,2002-11-07,23,"Benin, France",,190,right,2025-08-07,,"Burnley FC",2026-06-30,5000000,
+13235,35,2026-03-29T21:34:45.808933,377729,"Martijn Kaars",Centre-Forward,1999-05-03,27,Netherlands,,183,right,2025-08-28,,"1.FC Magdeburg",,3000000,
+13236,35,2026-03-29T21:34:45.808933,495752,"Taichi Hara",Centre-Forward,1999-05-05,26,Japan,,191,right,2026-01-31,,"Kyoto Sanga",,1500000,
+13237,35,2026-03-29T21:34:45.808933,677935,"Ricky-Jade Jones",Centre-Forward,2002-08-11,23,England,,183,right,2025-01-07,,"Peterborough United",,1200000,"Syndesmotic ligament tear - Return unknown"
+13238,35,2026-03-29T21:34:45.808933,1280281,"Abdoulie Ceesay",Centre-Forward,2004-05-01,22,"The Gambia",,185,,2025-03-01,,"Paide Linnameeskond",,800000,
+13239,2036,2026-03-29T21:34:46.093616,448705,"Diant Ramaj",Goalkeeper,2001-09-19,24,"Germany, Kosovo",,189,right,2025-07-28,,"Borussia Dortmund",2026-06-30,7000000,
+13240,2036,2026-03-29T21:34:46.093616,806948,"Frank Feller",Goalkeeper,2004-07-01,22,Germany,,183,right,2023-01-07,,"1.FC Heidenheim 1846 U19",2029-06-30,500000,
+13241,2036,2026-03-29T21:34:46.093616,519035,"Paul Tschernuth",Goalkeeper,2002-01-20,24,Austria,,186,left,2021-01-07,,"1.FC Heidenheim 1846 U19",2027-06-30,100000,
+13242,2036,2026-03-29T21:34:46.093616,337092,"Tim Siersleben",Centre-Back,2000-09-03,26,Germany,,187,left,2023-01-07,,"VfL Wolfsburg",2028-06-30,2500000,"Red card suspension – DFB-Pokal"
+13243,2036,2026-03-29T21:34:46.093616,133731,"Patrick Mainka",Centre-Back,1994-06-11,31,Germany,,194,right,2018-01-07,,"Borussia Dortmund II",2029-06-30,2500000,"Team captain"
+13244,2036,2026-03-29T21:34:46.093616,227084,"Benedikt Gimber",Centre-Back,1997-02-19,29,Germany,,187,left,2023-01-07,,"SSV Jahn Regensburg",2028-06-30,2000000,
+13245,2036,2026-03-29T21:34:46.093616,921431,"Adam Kölle",Centre-Back,2006-04-28,19,Germany,,195,right,2025-01-07,,"1.FC Heidenheim 1846 U19",2029-06-30,1000000,
+13246,2036,2026-03-29T21:34:46.093616,829838,"Hennes Behrens",Left-Back,2005-01-19,21,Germany,,175,right,2026-02-01,,"TSG 1899 Hoffenheim",2026-06-30,2000000,
+13247,2036,2026-03-29T21:34:46.093616,192169,"Jonas Föhrenbach",Left-Back,1996-01-26,30,Germany,,184,left,2019-01-07,,"SC Freiburg",2027-06-30,1200000,
+13248,2036,2026-03-29T21:34:46.093616,107219,"Leart Paçarada",Left-Back,1994-08-10,31,"Kosovo, Germany",,184,left,2025-08-28,,"1.FC Köln",2027-06-30,1000000,"Cruciate ligament tear - Return unknown"
+13249,2036,2026-03-29T21:34:46.093616,507345,"Leonidas Stergiou",Right-Back,2002-03-03,24,"Switzerland, Greece",,181,right,2026-01-15,,"VfB Stuttgart",2026-06-30,3000000,
+13250,2036,2026-03-29T21:34:46.093616,388294,"Omar Traoré",Right-Back,1998-04-02,28,"Germany, Togo",,187,right,2023-01-07,,"VfL Osnabrück",2026-06-30,2500000,
+13251,2036,2026-03-29T21:34:46.093616,117478,"Marnon Busch",Right-Back,1994-08-12,31,Germany,,182,right,2017-01-07,,"SV Werder Bremen",2027-06-30,1200000,
+13252,2036,2026-03-29T21:34:46.093616,251302,"Niklas Dorsch","Defensive Midfield",1998-01-15,28,Germany,,178,right,2024-08-30,,"FC Augsburg",2028-06-30,3000000,
+13253,2036,2026-03-29T21:34:46.093616,530173,"Julian Niehues","Defensive Midfield",2001-04-17,24,Germany,,195,right,2024-01-07,,"1.FC Kaiserslautern",2027-06-30,1500000,
+13254,2036,2026-03-29T21:34:46.093616,581357,"Jan Schöppner","Central Midfield",1999-12-06,26,Germany,,190,right,2020-05-08,,"SC Verl",2028-06-30,3500000,"Yellow card suspension – Bundesliga – until 05/04/2026"
+13255,2036,2026-03-29T21:34:46.093616,809498,"Luca Kerber","Central Midfield",2002-10-03,24,Germany,,184,right,2024-01-07,,"1.FC Saarbrücken",2027-06-30,2000000,
+13256,2036,2026-03-29T21:34:46.093616,1052350,"Nick Rothweiler","Central Midfield",2006-06-16,19,Germany,,190,left,2025-01-07,,"1.FC Heidenheim 1846 U19",2027-06-30,250000,
+13257,2036,2026-03-29T21:34:46.093616,744728,"Arijon Ibrahimovic","Attacking Midfield",2005-11-12,20,"Germany, Kosovo",,178,right,2025-01-07,,"Bayern Munich",2026-06-30,6000000,
+13258,2036,2026-03-29T21:34:46.093616,273669,"Adrian Beck","Attacking Midfield",1997-09-06,28,Germany,,186,right,2022-01-07,,"SSV Ulm 1846",2028-06-30,2000000,
+13259,2036,2026-03-29T21:34:46.093616,283497,"Mathias Honsak","Left Winger",1996-12-20,29,Austria,,188,left,2024-01-07,,"SV Darmstadt 98",2027-06-30,2000000,
+13260,2036,2026-03-29T21:34:46.093616,1153628,"Yannik Wagner","Left Winger",2007-09-05,18,Germany,,182,left,2025-07-30,,"1.FC Heidenheim 1846 U19",2029-06-30,800000,
+13261,2036,2026-03-29T21:34:46.093616,645774,"Eren Dinkçi","Right Winger",2001-12-13,24,"Türkiye, Germany",,188,right,2026-01-30,,"SC Freiburg",2026-06-30,6000000,
+13262,2036,2026-03-29T21:34:46.093616,530298,"Christian Conteh","Right Winger",1999-08-27,26,Germany,,182,right,2026-12-01,,"Eintracht Braunschweig",2029-06-30,1500000,
+13263,2036,2026-03-29T21:34:46.093616,307183,"Sirlord Conteh","Right Winger",1996-09-07,29,"Germany, Ghana",,178,right,2024-01-07,,"SC Paderborn 07",2027-06-30,1500000,
+13264,2036,2026-03-29T21:34:46.093616,471055,"Marvin Pieringer",Centre-Forward,1999-04-10,26,Germany,,191,right,2023-03-07,,"FC Schalke 04",2027-06-30,4000000,
+13265,2036,2026-03-29T21:34:46.093616,545332,"Mikkel Kaufmann",Centre-Forward,2001-03-01,25,Denmark,,189,right,2024-01-07,,"1.FC Union Berlin",2028-06-30,1800000,"muscular problems - Return unknown"
+13266,2036,2026-03-29T21:34:46.093616,187097,"Budu Zivzivadze",Centre-Forward,1994-10-03,32,Georgia,,189,both,2025-03-01,,"Karlsruher SC",2029-06-30,1200000,
+13267,2036,2026-03-29T21:34:46.093616,394033,"Stefan Schimmer",Centre-Forward,1994-04-28,31,Germany,,185,right,2019-06-08,,"SpVgg Unterhaching",2026-06-30,500000,
+13268,583,2026-03-29T21:34:46.099837,463600,"Lucas Chevalier",Goalkeeper,2001-06-11,24,France,,189,right,2025-09-08,,"LOSC Lille",2030-06-30,30000000,
+13269,583,2026-03-29T21:34:46.099837,318470,"Matvey Safonov",Goalkeeper,1999-02-25,27,Russia,,192,right,2024-01-07,,"FC Krasnodar",2029-06-30,22000000,
+13270,583,2026-03-29T21:34:46.099837,1041614,"Renato Marin",Goalkeeper,2006-10-07,19,"Italy, Brazil",,190,right,2025-07-17,,"AS Roma",2030-06-30,500000,
+13271,583,2026-03-29T21:34:46.099837,661171,"Willian Pacho",Centre-Back,2001-10-16,24,Ecuador,,188,left,2024-09-08,,"Eintracht Frankfurt",2029-06-30,70000000,
+13272,583,2026-03-29T21:34:46.099837,659089,"Ilya Zabarnyi",Centre-Back,2002-01-09,23,Ukraine,,189,right,2025-12-08,,"AFC Bournemouth",2030-06-30,45000000,
+13273,583,2026-03-29T21:34:46.099837,181767,Marquinhos,Centre-Back,1994-05-14,31,"Brazil, Portugal",,183,right,2013-07-19,,": Ablöse €31.40m",2028-06-30,30000000,"Team captain"
+13274,583,2026-03-29T21:34:46.099837,872171,"Lucas Beraldo",Centre-Back,2003-11-24,22,Brazil,,186,left,2024-01-01,,"São Paulo Futebol Clube",2028-06-30,20000000,
+13275,583,2026-03-29T21:34:46.099837,616341,"Nuno Mendes",Left-Back,2002-06-19,23,Portugal,,180,left,2022-01-07,,"Sporting CP",2029-06-30,75000000,
+13276,583,2026-03-29T21:34:46.099837,281963,"Lucas Hernández",Left-Back,1996-02-14,30,"France, Spain",,184,left,2023-09-07,,": Ablöse €45.00m",2028-06-30,20000000,
+13277,583,2026-03-29T21:34:46.099837,398073,"Achraf Hakimi",Right-Back,1998-04-11,27,"Morocco, Spain",,181,right,2021-06-07,,"Inter Milan",2029-06-30,80000000,
+13278,583,2026-03-29T21:34:46.099837,487469,Vitinha,"Defensive Midfield",2000-02-13,26,Portugal,,172,right,2022-01-07,,"FC Porto",2029-06-30,110000000,
+13279,583,2026-03-29T21:34:46.099837,670681,"João Neves","Central Midfield",2004-09-27,21,Portugal,,174,right,2024-05-08,,"SL Benfica",2029-06-30,110000000,
+13280,583,2026-03-29T21:34:46.099837,810092,"Warren Zaïre-Emery","Central Midfield",2006-08-03,20,"France, Martinique",,178,right,2022-01-07,,"Paris Saint-Germain U19",2029-06-30,60000000,
+13281,583,2026-03-29T21:34:46.099837,350219,"Fabián Ruiz","Central Midfield",1996-03-04,29,Spain,,189,left,2022-08-30,,": Ablöse €22.50m",2027-06-30,40000000,"Knee injury - Return unknown"
+13282,583,2026-03-29T21:34:46.099837,903693,"Senny Mayulu","Central Midfield",2006-05-17,19,"France, DR Congo",,183,both,2024-01-01,,"Paris Saint-Germain U19",2027-06-30,40000000,
+13283,583,2026-03-29T21:34:46.099837,557149,"Kang-in Lee","Attacking Midfield",2001-02-19,25,"Korea, South",,173,left,2023-08-07,,"RCD Mallorca",2028-06-30,28000000,
+13284,583,2026-03-29T21:34:46.099837,1071596,"Dro Fernández","Attacking Midfield",2008-12-01,18,"Spain, Philippines",,180,right,2026-01-26,,"FC Barcelona",2030-06-30,10000000,
+13285,583,2026-03-29T21:34:46.099837,502670,"Khvicha Kvaratskhelia","Left Winger",2001-12-02,25,Georgia,,183,both,2025-01-17,,"SSC Napoli",2029-06-30,90000000,
+13286,583,2026-03-29T21:34:46.099837,708265,"Bradley Barcola","Left Winger",2002-02-09,23,"France, Togo",,182,right,2023-08-31,,"Olympique Lyon",2028-06-30,70000000,"Ankle sprain - Return unknown"
+13287,583,2026-03-29T21:34:46.099837,1053208,"Quentin Ndjantou","Left Winger",2007-07-23,18,"France, Cameroon",,182,right,2025-01-07,,"Paris Saint-Germain U19",2028-06-30,7000000,"Hamstring injury - Return unknown"
+13288,583,2026-03-29T21:34:46.099837,914562,"Désiré Doué","Right Winger",2005-03-06,20,"France, Cote d'Ivoire",,181,right,2024-08-17,,"Stade Rennais FC",2029-06-30,90000000,
+13289,583,2026-03-29T21:34:46.099837,1185888,"Ibrahim Mbaye","Right Winger",2008-01-24,18,"Senegal, France",,175,right,2025-01-07,,"Paris Saint-Germain Espoirs",2028-06-30,30000000,
+13290,583,2026-03-29T21:34:46.099837,288230,"Ousmane Dembélé",Centre-Forward,1997-05-15,28,France,,178,both,2023-12-08,,"FC Barcelona",2028-06-30,100000000,
+13291,583,2026-03-29T21:34:46.099837,550550,"Gonçalo Ramos",Centre-Forward,2001-06-20,24,Portugal,,185,right,2024-01-01,,"SL Benfica",2028-06-30,35000000,
+13292,162,2026-03-29T21:34:46.676640,251322,"Philipp Köhn",Goalkeeper,1998-02-04,27,"Switzerland, Germany",,190,right,2023-07-15,,"Red Bull Salzburg",2028-06-30,4000000,
+13293,162,2026-03-29T21:34:46.676640,48015,"Lukas Hradecky",Goalkeeper,1989-11-24,36,"Finland, Slovakia",,192,right,2025-08-08,,"Bayer 04 Leverkusen",2027-06-30,1800000,
+13294,162,2026-03-29T21:34:46.676640,1075582,"Jules Stawiecki",Goalkeeper,2007-10-04,18,"France, Poland",,186,left,,,,2029-06-30,150000,
+13295,162,2026-03-29T21:34:46.676640,745341,"Yann Lienard",Goalkeeper,2003-03-16,23,France,,194,right,2023-01-07,,"AS Monaco U21",2027-06-30,100000,
+13296,162,2026-03-29T21:34:46.676640,228948,"Thilo Kehrer",Centre-Back,1996-09-21,29,"Germany, Burundi",,186,both,2024-01-07,,"West Ham United",2028-06-30,15000000,
+13297,162,2026-03-29T21:34:46.676640,1005240,"Christian Mawissa",Centre-Back,2005-04-18,20,"France, DR Congo",,184,left,2024-11-08,,"FC Toulouse",2029-06-30,15000000,
+13298,162,2026-03-29T21:34:46.676640,563963,"Mohammed Salisu",Centre-Back,1999-04-17,26,Ghana,,188,left,2023-01-08,,"Southampton FC",2028-06-30,10000000,"Cruciate ligament tear - Return unknown"
+13299,162,2026-03-29T21:34:46.676640,292808,"Wout Faes",Centre-Back,1998-03-04,27,Belgium,,187,right,2026-01-13,,"Leicester City",2026-06-30,10000000,
+13300,162,2026-03-29T21:34:46.676640,175722,"Eric Dier",Centre-Back,1994-01-15,32,"England, Portugal",,191,right,2025-01-07,,"Bayern Munich",2028-06-30,5000000,"Calf injury - Return unknown"
+13301,162,2026-03-29T21:34:46.676640,420064,"Caio Henrique",Left-Back,1997-07-31,28,"Brazil, Spain",,178,left,2020-08-27,,": Ablöse €8.00m",2027-06-30,15000000,"Hamstring injury - Return unknown"
+13302,162,2026-03-29T21:34:46.676640,947360,"Kassoum Ouattara",Left-Back,2004-10-14,21,"France, Cote d'Ivoire",,184,left,2023-01-11,,"Amiens SC",2028-06-30,12000000,"Calf injury - Return unknown"
+13303,162,2026-03-29T21:34:46.676640,789082,Vanderson,Right-Back,2001-06-21,24,Brazil,,173,right,2022-01-01,,"Grêmio Foot-Ball Porto Alegrense",2028-06-30,20000000,"Hamstring injury - Return expected on 04/05/2026"
+13304,162,2026-03-29T21:34:46.676640,364245,"Jordan Teze",Right-Back,1999-09-30,26,"Netherlands, DR Congo",,183,right,2024-08-20,,"PSV Eindhoven",2029-06-30,15000000,
+13305,162,2026-03-29T21:34:46.676640,334526,"Denis Zakaria","Defensive Midfield",1996-11-20,29,"Switzerland, DR Congo",,190,right,2023-08-14,,"Juventus FC",2028-06-30,25000000,"Team captain"
+13306,162,2026-03-29T21:34:46.676640,975347,"Aladji Bamba","Defensive Midfield",2006-07-14,19,"France, Guinea",,181,right,2025-01-07,,"AS Monaco U19",2030-06-30,10000000,
+13307,162,2026-03-29T21:34:46.676640,918969,"Lamine Camara","Central Midfield",2004-01-01,22,Senegal,,173,right,2024-07-30,,"FC Metz",2029-06-30,35000000,
+13308,162,2026-03-29T21:34:46.676640,745173,"Mamadou Coulibaly","Central Midfield",2004-04-21,21,"France, Mali",,179,left,2025-01-07,,"AS Monaco U21",2028-06-30,15000000,
+13309,162,2026-03-29T21:34:46.676640,122153,"Paul Pogba","Central Midfield",1993-03-15,33,"France, Guinea",,191,both,2025-01-07,,"Without Club",2027-06-30,3000000,"Calf injury - Return unknown"
+13310,162,2026-03-29T21:34:46.676640,490426,"Krépin Diatta","Right Midfield",1999-02-25,27,Senegal,,175,right,2021-01-21,,"Club Brugge KV",2026-06-30,6000000,
+13311,162,2026-03-29T21:34:46.676640,263918,"Aleksandr Golovin","Attacking Midfield",1996-05-30,29,Russia,,178,right,2018-07-27,,"CSKA Moscow",2029-06-30,18000000,
+13312,162,2026-03-29T21:34:46.676640,743387,"Stanis Idumbo","Attacking Midfield",2005-06-29,20,"Belgium, DR Congo",,171,right,2025-08-30,,"Sevilla FC",2030-06-30,5000000,
+13313,162,2026-03-29T21:34:46.676640,658536,"Simon Adingra","Left Winger",2002-01-01,24,"Cote d'Ivoire",,175,right,2026-02-02,,"Sunderland AFC",2026-06-30,25000000,
+13314,162,2026-03-29T21:34:46.676640,466810,"Ansu Fati","Left Winger",2002-10-31,23,"Spain, Guinea-Bissau",,178,right,2025-01-07,,"FC Barcelona",2026-06-30,15000000,
+13315,162,2026-03-29T21:34:46.676640,165793,"Takumi Minamino","Left Winger",1995-01-16,31,Japan,,172,right,2022-01-07,,": Ablöse €15.00m",2027-06-30,12000000,"Torn knee ligaments - Return expected on 01/08/2026"
+13316,162,2026-03-29T21:34:46.676640,745200,"Maghnes Akliouche","Right Winger",2002-02-25,24,"France, Algeria",,183,left,2022-01-07,,"AS Monaco U21",2028-06-30,50000000,
+13317,162,2026-03-29T21:34:46.676640,503770,"Folarin Balogun",Centre-Forward,2001-03-07,24,"United States, England",,178,right,2023-08-30,,"Arsenal FC",2028-06-30,30000000,
+13318,162,2026-03-29T21:34:46.676640,565821,"Mika Biereth",Centre-Forward,2003-08-02,23,"Denmark, England",,187,right,2025-11-01,,"SK Sturm Graz",2030-06-30,18000000,
+13319,162,2026-03-29T21:34:46.676640,918414,"Paris Brunner",Centre-Forward,2006-02-15,20,"Germany, DR Congo",,186,right,2024-08-16,,"Borussia Dortmund U19",2028-06-30,1500000,
+13320,244,2026-03-29T21:34:46.781560,229604,"Gerónimo Rulli",Goalkeeper,1992-05-20,33,"Argentina, Italy",,189,right,2024-11-08,,": Ablöse €4.00m",2027-06-30,8000000,
+13321,244,2026-03-29T21:34:46.781560,315253,"Jeffrey de Lange",Goalkeeper,1998-01-04,27,Netherlands,,190,right,2024-08-08,,"Go Ahead Eagles",2027-06-30,3000000,
+13322,244,2026-03-29T21:34:46.781560,727086,"Jelle Van Neck",Goalkeeper,2004-07-03,22,Belgium,,191,right,,,,2027-06-30,,
+13323,244,2026-03-29T21:34:46.781560,620912,"Théo Vermot",Goalkeeper,1997-01-27,29,France,,190,right,,,,2026-06-30,,
+13324,244,2026-03-29T21:34:46.781560,361914,"Nayef Aguerd",Centre-Back,1996-03-30,29,Morocco,,190,left,2025-01-09,,"West Ham United",2030-06-30,20000000,"Pubalgia - Return unknown"
+13325,244,2026-03-29T21:34:46.781560,575998,"Leonardo Balerdi",Centre-Back,1999-01-26,27,"Argentina, Italy",,187,right,2021-03-07,,"Borussia Dortmund",2028-06-30,18000000,"Team captain; Calf injury - Return unknown"
+13326,244,2026-03-29T21:34:46.781560,474800,"Facundo Medina",Centre-Back,1999-05-28,26,Argentina,,184,left,2025-02-07,,"RC Lens",2026-06-30,18000000,
+13327,244,2026-03-29T21:34:46.781560,353366,"Benjamin Pavard",Centre-Back,1996-03-28,30,France,,186,right,2025-01-09,,"Inter Milan",2026-06-30,15000000,
+13328,244,2026-03-29T21:34:46.781560,581669,"CJ Egan-Riley",Centre-Back,2003-02-01,23,"England, Ireland",,183,right,2025-01-07,,"Burnley FC",2029-06-30,10000000,
+13329,244,2026-03-29T21:34:46.781560,181778,Emerson,Left-Back,1994-03-08,31,"Italy, Brazil",,176,left,2025-01-09,,"West Ham United",2027-06-30,10000000,
+13330,244,2026-03-29T21:34:46.781560,926694,"Arthur Vermeeren","Defensive Midfield",2005-07-02,21,Belgium,,180,right,2025-08-31,,"RB Leipzig",2026-06-30,22000000,
+13331,244,2026-03-29T21:34:46.781560,167799,"Pierre-Emile Højbjerg","Defensive Midfield",1995-05-08,30,"Denmark, France",,185,right,2025-01-07,,"Tottenham Hotspur",2028-06-30,18000000,
+13332,244,2026-03-29T21:34:46.781560,127189,"Geoffrey Kondogbia","Defensive Midfield",1993-02-15,33,"Central African Republic, France",,188,left,2023-01-07,,": Ablöse €8.00m",2027-06-30,4000000,
+13333,244,2026-03-29T21:34:46.781560,920470,"Tochukwu Nnadi","Defensive Midfield",2003-06-30,22,Nigeria,,176,right,2026-02-02,,"Zulte Waregem",2030-06-30,3000000,
+13334,244,2026-03-29T21:34:46.781560,420213,"Quinten Timber","Central Midfield",2001-06-17,24,"Netherlands, Curacao",,179,right,2026-01-23,,"Feyenoord Rotterdam",2030-06-30,25000000,
+13335,244,2026-03-29T21:34:46.781560,659520,"Bilal Nadir","Central Midfield",2003-11-28,22,"Morocco, France",,179,left,2023-01-07,,"Olympique de Marseille B",2026-06-30,9000000,
+13336,244,2026-03-29T21:34:46.781560,370846,"Timothy Weah","Right Midfield",2000-02-22,26,"United States, France",,183,right,2025-06-08,,"Juventus FC",2026-06-30,20000000,
+13337,244,2026-03-29T21:34:46.781560,890719,"Ethan Nwaneri","Attacking Midfield",2007-03-21,19,"England, Nigeria",,176,left,2026-01-23,,"Arsenal FC",2026-06-30,40000000,
+13338,244,2026-03-29T21:34:46.781560,592979,"Himad Abdelli","Attacking Midfield",1999-11-17,26,"Algeria, France",,185,right,2026-02-02,,"Angers SCO",2030-06-30,7000000,
+13339,244,2026-03-29T21:34:46.781560,653610,"Igor Paixão","Left Winger",2000-06-28,25,Brazil,,168,right,2025-01-08,,"Feyenoord Rotterdam",2030-06-30,35000000,
+13340,244,2026-03-29T21:34:46.781560,391065,"Hamed Traoré","Left Winger",2000-02-16,26,"Cote d'Ivoire",,177,right,2025-08-29,,"AFC Bournemouth",2026-06-30,15000000,
+13341,244,2026-03-29T21:34:46.781560,532826,"Mason Greenwood","Right Winger",2001-01-10,24,"England, Jamaica",,181,both,2024-07-18,,"Manchester United",2029-06-30,55000000,"Yellow card suspension – Ligue 1 – until 06/04/2026"
+13342,244,2026-03-29T21:34:46.781560,418659,"Amine Gouiri",Centre-Forward,2000-02-16,26,"Algeria, France",,181,right,2025-01-31,,"Stade Rennais FC",2029-06-30,28000000,
+13343,244,2026-03-29T21:34:46.781560,58864,"Pierre-Emerick Aubameyang",Centre-Forward,1989-06-18,36,"Gabon, France",,187,right,2025-07-31,,"Al-Qadsiah FC",2027-06-30,3000000,
+13344,667,2026-03-29T21:34:48.669790,834397,"Mike Penders",Goalkeeper,2005-07-31,20,Belgium,,200,left,2025-07-28,,"Chelsea FC",2026-06-30,22000000,
+13345,667,2026-03-29T21:34:48.669790,465836,"Stefan Bajic",Goalkeeper,2001-12-23,24,"France, Serbia",,188,right,2025-08-16,,"Bristol City",2026-06-30,500000,
+13346,667,2026-03-29T21:34:48.669790,112822,"Karl-Johan Johnsson",Goalkeeper,1990-01-28,36,Sweden,,188,right,2024-08-16,,"FC Girondins Bordeaux",2026-06-30,250000,
+13347,667,2026-03-29T21:34:48.669790,786436,"Ismaël Doukouré",Centre-Back,2003-07-24,22,"France, Cote d'Ivoire",,183,right,2022-01-29,,"Valenciennes FC",2028-06-30,20000000,
+13348,667,2026-03-29T21:34:48.669790,926978,"Lucas Høgsberg",Centre-Back,2006-06-23,19,Denmark,,187,right,2025-09-08,,"FC Nordsjaelland",2030-06-30,15000000,
+13349,667,2026-03-29T21:34:48.669790,1145504,"Aarón Anselmino",Centre-Back,2005-04-29,20,Argentina,,186,right,2026-02-02,,"Chelsea FC",2026-06-30,12000000,"Hamstring injury - Return unknown"
+13350,667,2026-03-29T21:34:48.669790,621993,"Andrew Omobamidele",Centre-Back,2002-06-23,23,"Ireland, Nigeria",,188,right,2025-01-07,,"Nottingham Forest",2029-06-30,7000000,
+13351,667,2026-03-29T21:34:48.669790,316125,"Ben Chilwell",Left-Back,1996-12-21,29,"England, New Zealand",,180,left,2025-01-09,,"Chelsea FC",2027-06-30,12000000,"Hamstring injury - Return unknown"
+13352,667,2026-03-29T21:34:48.669790,711980,"Guéla Doué",Right-Back,2002-10-17,23,"Cote d'Ivoire, France",,186,right,2024-07-26,,"Stade Rennais FC",2029-06-30,18000000,
+13353,667,2026-03-29T21:34:48.669790,1011200,"Junior Mwanga","Defensive Midfield",2003-11-05,22,"France, DR Congo",,184,both,2023-08-08,,"FC Girondins Bordeaux",2027-06-30,6000000,"Shoulder injury - Return unknown"
+13354,667,2026-03-29T21:34:48.669790,863204,"Maxi Oyedele","Defensive Midfield",2004-07-11,21,"Poland, England",,183,right,2025-07-16,,"Legia Warszawa",2030-06-30,4000000,
+13355,667,2026-03-29T21:34:48.669790,637803,"Rafael Luís","Defensive Midfield",2005-02-18,21,Portugal,,188,left,2025-08-17,,"SL Benfica B",2026-06-30,4000000,
+13356,667,2026-03-29T21:34:48.669790,849410,"Valentín Barco","Central Midfield",2004-07-23,21,Argentina,,170,left,2025-02-07,,"Brighton & Hove Albion",2029-06-30,35000000,
+13357,667,2026-03-29T21:34:48.669790,1130514,"Samir El Mourabet","Central Midfield",2005-06-10,20,"Morocco, France",,186,left,2025-01-07,,"Racing Strasbourg B",2030-06-30,18000000,
+13358,667,2026-03-29T21:34:48.669790,1010854,"Mathis Amougou","Central Midfield",2006-01-18,20,"France, Cameroon",,177,right,2025-12-07,,"Chelsea FC",2030-06-30,10000000,
+13359,667,2026-03-29T21:34:48.669790,655006,"Diego Moreira","Left Midfield",2004-06-08,21,"Belgium, Portugal",,179,left,2024-08-16,,"Chelsea FC",2029-06-30,25000000,"Adductor pain - Return unknown"
+13360,667,2026-03-29T21:34:48.669790,579928,"Sebastian Nanasi","Left Midfield",2002-05-16,23,"Sweden, Hungary",,178,right,2024-08-23,,"Malmö FF",2029-06-30,12000000,
+13361,667,2026-03-29T21:34:48.669790,660867,"Julio Enciso","Attacking Midfield",2004-01-23,22,Paraguay,,173,right,2025-01-09,,"Brighton & Hove Albion",2029-06-30,22000000,
+13362,667,2026-03-29T21:34:48.669790,992686,"Martial Godo","Left Winger",2003-03-14,23,"Cote d'Ivoire, England",,177,right,2025-01-09,,"Fulham FC",2030-06-30,18000000,
+13363,667,2026-03-29T21:34:48.669790,991487,"Abdoul Ouattara","Right Winger",2005-10-22,20,"Cote d'Ivoire, France",,180,,2025-01-01,,"Racing Strasbourg B",2029-06-30,15000000,
+13364,667,2026-03-29T21:34:48.669790,1151929,"Gessime Yassine","Right Winger",2005-11-22,20,"Morocco, France",,172,left,2026-01-17,,"USL Dunkerque",2030-06-30,10000000,
+13365,667,2026-03-29T21:34:48.669790,933900,"Samuel Amo-Ameyaw","Right Winger",2006-07-18,19,"England, Ghana",,174,left,2025-01-07,,"Southampton FC",2029-06-30,8000000,
+13366,667,2026-03-29T21:34:48.669790,1064871,"Joaquín Panichelli",Centre-Forward,2002-07-10,23,Argentina,,190,right,2025-07-27,,"Deportivo Alavés",2030-06-30,35000000,"Cruciate ligament tear - Return expected on 31/12/2026"
+13367,667,2026-03-29T21:34:48.669790,559328,"Emmanuel Emegha",Centre-Forward,2003-03-02,23,"Netherlands, Nigeria",,196,right,2023-07-22,,"SK Sturm Graz",2028-06-30,28000000,"Team captain; Muscle fiber tear - Return unknown"
+13368,667,2026-03-29T21:34:48.669790,787232,"David Datro Fofana",Centre-Forward,2002-12-22,23,"Cote d'Ivoire",,182,right,2026-02-02,,"Chelsea FC",2026-06-30,5000000,
+13369,1041,2026-03-29T21:34:48.749971,316884,"Dominik Greif",Goalkeeper,1997-06-04,28,Slovakia,,197,right,2025-08-18,,"RCD Mallorca",2029-06-30,8000000,
+13370,1041,2026-03-29T21:34:48.749971,282028,"Rémy Descamps",Goalkeeper,1996-06-25,29,France,,196,both,2024-08-23,,"FC Nantes",2029-06-30,2000000,
+13371,1041,2026-03-29T21:34:48.749971,1071430,"Lassine Diarra",Goalkeeper,2002-11-11,23,Mali,,190,right,,,,2028-06-30,50000,
+13372,1041,2026-03-29T21:34:48.749971,291200,"Moussa Niakhaté",Centre-Back,1996-08-03,30,"Senegal, France",,190,left,2024-04-07,,"Nottingham Forest",2028-06-30,18000000,
+13373,1041,2026-03-29T21:34:48.749971,578421,"Ruben Kluivert",Centre-Back,2001-05-21,24,"Netherlands, Suriname",,187,right,2025-07-25,,"Casa Pia AC",2030-06-30,6000000,"Muscle injury - Return unknown"
+13374,1041,2026-03-29T21:34:48.749971,187718,"Clinton Mata",Centre-Back,1992-07-11,33,"Angola, Belgium",,180,right,2023-06-07,,"Club Brugge KV",2028-06-30,3000000,
+13375,1041,2026-03-29T21:34:48.749971,1275040,"Noham Kamara",Centre-Back,2007-01-22,19,"France, Senegal",,185,right,2026-02-02,,"Paris Saint-Germain",2026-06-30,3000000,"Adductor pain - Return unknown"
+13376,1041,2026-03-29T21:34:48.749971,646402,Abner,Left-Back,2000-05-27,25,Brazil,,181,left,2024-05-07,,"Real Betis Balompié",2029-06-30,10000000,
+13377,1041,2026-03-29T21:34:48.749971,131225,"Nicolás Tagliafico",Left-Back,1992-08-31,33,"Argentina, Italy",,171,left,2022-07-23,,": Ablöse €4.20m",2027-06-30,5000000,"Red card suspension – Ligue 1 – until 20/04/2026"
+13378,1041,2026-03-29T21:34:48.749971,902862,"Achraf Laâziri",Left-Back,2003-08-07,22,Morocco,,177,left,2023-01-07,,"Olympique Lyon B",2027-06-30,500000,
+13379,1041,2026-03-29T21:34:48.749971,285845,"Ainsley Maitland-Niles",Right-Back,1997-08-29,28,"England, Jamaica",,180,right,2023-07-08,,"Arsenal FC",2027-06-30,10000000,"Adductor pain - Return unknown"
+13380,1041,2026-03-29T21:34:48.749971,275303,"Hans Hateboer",Right-Back,1994-09-01,32,Netherlands,,187,right,2025-10-17,,"Stade Rennais FC",2026-06-30,2000000,
+13381,1041,2026-03-29T21:34:48.749971,1119391,"Steeve Kango",Right-Back,2006-09-12,19,"France, Algeria",,,right,,,,,800000,
+13382,1041,2026-03-29T21:34:48.749971,618494,"Tyler Morton","Defensive Midfield",2002-10-31,23,England,,185,right,2025-05-08,,"Liverpool FC",2030-06-30,25000000,
+13383,1041,2026-03-29T21:34:48.749971,289592,"Orel Mangala","Defensive Midfield",1998-03-18,28,"Belgium, DR Congo",,178,right,2024-02-07,,"Nottingham Forest",2028-06-30,10000000,
+13384,1041,2026-03-29T21:34:48.749971,670096,"Tanner Tessmann","Defensive Midfield",2001-09-24,24,"United States",,188,right,2024-08-27,,"Venezia FC",2029-06-30,10000000,
+13385,1041,2026-03-29T21:34:48.749971,1004486,"Mathys de Carvalho","Defensive Midfield",2005-01-05,20,"Portugal, France",,183,right,2025-11-07,,"Olympique Lyon B",2028-06-30,4000000,
+13386,1041,2026-03-29T21:34:48.749971,190393,"Corentin Tolisso","Central Midfield",1994-03-08,31,"France, Togo",,181,right,2022-01-07,,": Ablöse free transfer",2027-06-30,12000000,"Team captain"
+13387,1041,2026-03-29T21:34:48.749971,1187942,"Khalis Merah","Central Midfield",2007-02-24,19,"France, Algeria",,178,right,2025-01-07,,"Olympique Lyon U19",2029-06-30,10000000,
+13388,1041,2026-03-29T21:34:48.749971,500053,"Pavel Sulc","Attacking Midfield",2000-12-29,25,"Czech Republic",,177,right,2025-04-08,,"FC Viktoria Plzen",2029-06-30,20000000,
+13389,1041,2026-03-29T21:34:48.749971,802515,"Noah Nartey","Attacking Midfield",2005-05-10,20,"Denmark, Ghana",,180,right,2026-01-19,,"Bröndby IF",2030-06-30,15000000,
+13390,1041,2026-03-29T21:34:48.749971,652061,"Adam Karabec","Attacking Midfield",2003-02-07,22,"Czech Republic",,187,left,2025-12-08,,"AC Sparta Prague",2026-06-30,8000000,
+13391,1041,2026-03-29T21:34:48.749971,743386,"Malick Fofana","Left Winger",2005-03-31,20,"Belgium, Guinea",,169,right,2024-10-01,,"KAA Gent",2028-06-30,30000000,
+13392,1041,2026-03-29T21:34:48.749971,952282,"Afonso Moreira","Left Winger",2005-03-19,21,Portugal,,176,right,2025-07-22,,"Sporting CP B",2029-06-30,10000000,
+13393,1041,2026-03-29T21:34:48.749971,1200423,"Rémi Himbert","Left Winger",2008-02-29,18,France,,178,right,2026-01-01,,"Olympique Lyon B",2028-06-30,10000000,"Ankle injury - Return unknown"
+13394,1041,2026-03-29T21:34:48.749971,955070,"Ernest Nuamah","Right Winger",2003-01-11,22,Ghana,,178,left,2024-07-07,,": Ablöse €28.50m",2028-06-30,12000000,"Cruciate ligament tear - Return unknown"
+13395,1041,2026-03-29T21:34:48.749971,118287,"Rachid Ghezzal","Right Winger",1992-09-05,33,"Algeria, France",,182,left,2025-05-09,,"Without Club",2026-06-30,700000,
+13396,1041,2026-03-29T21:34:48.749971,971570,Endrick,Centre-Forward,2006-07-21,19,Brazil,,173,left,2026-01-01,,"Real Madrid",2026-06-30,35000000,
+13397,1041,2026-03-29T21:34:48.749971,221958,"Roman Yaremchuk",Centre-Forward,1995-11-27,30,Ukraine,,191,right,2026-02-02,,"Olympiacos Piraeus",2026-06-30,2500000,
+13398,273,2026-03-29T21:34:49.305953,191056,"Brice Samba",Goalkeeper,1994-04-25,31,"France, Congo",,187,left,2025-08-01,,"RC Lens",2029-06-30,8000000,
+13399,273,2026-03-29T21:34:49.305953,979761,"Mathys Silistrie",Goalkeeper,2005-09-16,20,"France, Guadeloupe",,,,2025-01-07,,"Stade Rennais FC B",2029-06-30,200000,
+13400,273,2026-03-29T21:34:49.305953,1004301,"Jérémy Jacquet",Centre-Back,2005-07-13,20,"France, Guadeloupe",,190,right,2024-01-01,,"Stade Rennais FC B",2029-06-30,55000000,"Shoulder injury - Return unknown"
+13401,273,2026-03-29T21:34:49.305953,485960,"Lilian Brassier",Centre-Back,1999-02-11,26,"France, Togo",,186,left,2025-01-07,,"Stade Brestois 29",2029-06-30,12000000,
+13402,273,2026-03-29T21:34:49.305953,690799,"Anthony Rouault",Centre-Back,2001-05-29,24,France,,186,right,2025-03-02,,"VfB Stuttgart",2029-06-30,12000000,"Yellow card suspension – Ligue 1 – until 05/04/2026"
+13403,273,2026-03-29T21:34:49.305953,1134251,"Abdelhamid Ait Boudlal",Centre-Back,2006-04-16,19,Morocco,,190,right,2024-02-07,,"Mohammed VI Football Academy",2028-06-30,10000000,
+13404,273,2026-03-29T21:34:49.305953,798404,"Alidu Seidu",Centre-Back,2000-04-06,25,Ghana,,173,right,2024-01-29,,"Clermont Foot 63",2029-06-30,6000000,
+13405,273,2026-03-29T21:34:49.305953,557613,"Quentin Merlin",Left-Back,2002-05-16,23,France,,174,left,2025-07-22,,"Olympique Marseille",2029-06-30,12000000,
+13406,273,2026-03-29T21:34:49.305953,1176345,"Mahamadou Nagida",Left-Back,2005-06-28,20,Cameroon,,176,left,2024-01-07,,"Stade Rennais FC B",2029-06-30,6000000,
+13407,273,2026-03-29T21:34:49.305953,239743,"Przemyslaw Frankowski",Right-Back,1995-12-04,30,Poland,,175,right,2025-05-08,,Galatasaray,2026-06-30,7000000,"Yellow card suspension – Ligue 1 – until 05/04/2026"
+13408,273,2026-03-29T21:34:49.305953,931160,"Djaoui Cissé","Central Midfield",2004-01-31,22,"France, Mali",,188,right,2024-01-07,,"Stade Rennais FC B",2030-06-30,15000000,
+13409,273,2026-03-29T21:34:49.305953,324795,"Mahdi Camara","Central Midfield",1998-06-30,27,"France, The Gambia",,176,right,2025-08-13,,"Stade Brestois 29",2029-06-30,10000000,
+13410,273,2026-03-29T21:34:49.305953,332889,"Valentin Rongier","Central Midfield",1994-07-12,31,France,,173,right,2025-07-21,,"Olympique Marseille",2028-06-30,9000000,"Team captain"
+13411,273,2026-03-29T21:34:49.305953,242632,"Glen Kamara","Central Midfield",1995-10-28,30,"Finland, Sierra Leone",,178,right,2024-07-16,,"Leeds United",2028-06-30,2500000,
+13412,273,2026-03-29T21:34:49.305953,288225,"Ludovic Blas","Right Midfield",1997-12-31,28,"France, Martinique",,180,left,2023-05-07,,"FC Nantes",2027-06-30,10000000,
+13413,273,2026-03-29T21:34:49.305953,320748,"Sebastian Szymański","Attacking Midfield",1999-10-05,26,Poland,,174,left,2026-01-22,,Fenerbahce,2029-06-30,12000000,
+13414,273,2026-03-29T21:34:49.305953,551505,"Mousa Tamari","Right Winger",1997-10-06,28,Jordan,,178,left,2025-03-02,,"Montpellier HSC",2028-06-30,8000000,
+13415,273,2026-03-29T21:34:49.305953,324811,"Arnaud Nordin","Right Winger",1998-06-17,27,"France, Martinique",,170,both,2026-02-02,,"1.FSV Mainz 05",2026-06-30,4000000,
+13416,273,2026-03-29T21:34:49.305953,1227106,"Elías Legendre Quiñónez","Right Winger",2008-04-22,17,"Ecuador, France",,179,,2025-03-12,,"Stade Rennais FC B",2029-06-30,1500000,
+13417,273,2026-03-29T21:34:49.305953,986285,"Nordan Mukiele","Right Winger",2006-12-02,20,"France, DR Congo",,184,right,2025-01-07,,"Stade Rennais FC B",2028-06-30,1000000,
+13418,273,2026-03-29T21:34:49.305953,461607,"Estéban Lepaul",Centre-Forward,2000-04-18,25,France,,181,right,2025-08-28,,"Angers SCO",2029-06-30,20000000,
+13419,273,2026-03-29T21:34:49.305953,237662,"Breel Embolo",Centre-Forward,1997-02-14,29,"Switzerland, Cameroon",,187,right,2025-01-09,,"AS Monaco",2029-06-30,12000000,
+13420,273,2026-03-29T21:34:49.305953,1153105,"Yassir Zabiri",Centre-Forward,2005-02-23,21,Morocco,,182,left,2026-02-02,,"FC Famalicão",2029-06-30,9000000,
+13421,826,2026-03-29T21:34:49.545798,743515,"Robin Risser",Goalkeeper,2004-02-12,21,France,,193,right,2025-04-07,,"RC Strasbourg Alsace",2030-06-30,25000000,
+13422,826,2026-03-29T21:34:49.545798,60543,"Mathieu Gorgelin",Goalkeeper,1990-05-08,35,France,,187,left,2026-01-19,,"Without Club",2026-06-30,250000,
+13423,826,2026-03-29T21:34:49.545798,39918,"Régis Gurtner",Goalkeeper,1986-08-12,39,France,,182,right,2025-07-07,,"Amiens SC",2026-06-30,100000,"Hamstring injury - Return unknown"
+13424,826,2026-03-29T21:34:49.545798,1200424,"Ilan Jourdren",Goalkeeper,2008-07-17,17,France,,188,right,2025-01-07,,"RC Lens B",2029-06-30,,
+13425,826,2026-03-29T21:34:49.545798,655217,"Samson Baidoo",Centre-Back,2004-03-31,21,Austria,,190,right,2025-07-17,,"Red Bull Salzburg",2030-06-30,25000000,"Hamstring injury - Return expected on 30/03/2026"
+13426,826,2026-03-29T21:34:49.545798,344596,"Malang Sarr",Centre-Back,1999-01-23,27,"France, Senegal",,183,left,2024-07-26,,"Chelsea FC",2026-06-30,15000000,
+13427,826,2026-03-29T21:34:49.545798,1020191,"Ismaëlo Ganiou",Centre-Back,2005-03-14,21,"France, Burkina Faso",,182,right,2025-01-07,,"Calcio Padova",2028-06-30,10000000,
+13428,826,2026-03-29T21:34:49.545798,819566,"Nidal Celik",Centre-Back,2006-07-17,19,Bosnia-Herzegovina,,192,right,2025-03-02,,"FK Sarajevo",2029-06-30,4000000,
+13429,826,2026-03-29T21:34:49.545798,126557,"Jonathan Gradit",Centre-Back,1992-11-24,33,France,,180,right,2019-08-20,,"SM Caen",2028-06-30,3000000,"Lower leg fracture - Return unknown"
+13430,826,2026-03-29T21:34:49.545798,1186789,"Kyllian Antonio",Centre-Back,2008-04-01,18,"France, Guadeloupe",,183,right,2025-01-07,,"RC Lens U19",,1500000,"Foot injury - Return unknown"
+13431,826,2026-03-29T21:34:49.545798,344886,"Matthieu Udol",Left-Back,1996-03-20,30,"France, Guadeloupe",,178,left,2025-07-15,,"FC Metz",2028-06-30,6000000,
+13432,826,2026-03-29T21:34:49.545798,181380,"Arthur Masuaku",Left-Back,1993-07-11,32,"DR Congo, France",,179,left,2026-01-27,,"Sunderland AFC",2026-06-30,2500000,
+13433,826,2026-03-29T21:34:49.545798,631927,"Saud Abdulhamid",Right-Back,1999-07-18,26,"Saudi Arabia",,175,right,2025-03-08,,"AS Roma",2026-06-30,5000000,
+13434,826,2026-03-29T21:34:49.545798,203746,"Ruben Aguilar",Right-Back,1993-04-26,32,"France, Spain",,172,right,2023-01-09,,"AS Monaco",2028-06-30,3000000,"Calf injury - Return expected on 30/03/2026"
+13435,826,2026-03-29T21:34:49.545798,955359,"Fodé Sylla","Defensive Midfield",2006-04-16,19,"France, Guinea",,182,right,2025-01-07,,"RC Lens B",2028-06-30,1000000,
+13436,826,2026-03-29T21:34:49.545798,808348,"Mamadou Sangaré","Central Midfield",2002-06-26,23,Mali,,181,left,2025-08-20,,"Rapid Vienna",2030-06-30,30000000,
+13437,826,2026-03-29T21:34:49.545798,402008,"Amadou Haidara","Central Midfield",1998-01-31,28,Mali,,178,right,2026-01-01,,"RB Leipzig",2029-06-30,6000000,"Adductor pain - Return unknown"
+13438,826,2026-03-29T21:34:49.545798,986291,"Andrija Bulatovic","Central Midfield",2006-12-27,19,Montenegro,,180,right,2025-03-02,,"Buducnost Podgorica",2030-06-30,5000000,
+13439,826,2026-03-29T21:34:49.545798,215977,"Adrien Thomasson","Central Midfield",1993-10-12,32,"France, Croatia",,175,right,2023-12-01,,"RC Strasbourg Alsace",2026-06-30,4500000,"Team captain"
+13440,826,2026-03-29T21:34:49.545798,1047099,"Alpha Diallo","Attacking Midfield",2006-02-25,20,"France, Guinea",,179,right,2025-01-07,,"RC Lens B",2027-06-30,,
+13441,826,2026-03-29T21:34:49.545798,272642,"Allan Saint-Maximin","Left Winger",1997-12-03,29,"France, Guadeloupe",,173,right,2026-02-02,,"CF América",2026-06-30,10000000,
+13442,826,2026-03-29T21:34:49.545798,776798,"Abdallah Sima","Left Winger",2001-06-17,24,Senegal,,188,right,2025-08-29,,"Brighton & Hove Albion",2029-06-30,4000000,
+13443,826,2026-03-29T21:34:49.545798,1088110,"Anthony Bermont","Left Winger",2005-10-02,21,France,,187,right,2024-01-07,,"RC Lens B",2029-06-30,1000000,
+13444,826,2026-03-29T21:34:49.545798,184892,"Florian Thauvin","Right Winger",1993-01-26,33,France,,181,left,2025-08-08,,"Udinese Calcio",2028-06-30,5000000,
+13445,826,2026-03-29T21:34:49.545798,1176271,"Erawan Garnier","Right Winger",2006-05-01,20,"Thailand, France",,180,right,2025-10-24,,"Olympique Lyon B",2027-06-30,200000,
+13446,826,2026-03-29T21:34:49.545798,344152,"Odsonne Édouard",Centre-Forward,1998-01-16,28,"France, Haiti",,187,right,2025-01-09,,"Crystal Palace",2028-06-30,12000000,
+13447,826,2026-03-29T21:34:49.545798,1160814,"Rayan Fofana",Centre-Forward,2006-12-02,20,"France, Cote d'Ivoire",,187,right,2025-01-07,,"RC Lens U19",2029-06-30,7000000,
+13448,826,2026-03-29T21:34:49.545798,182916,"Wesley Saïd",Centre-Forward,1995-04-19,30,"France, Comoros",,171,right,2021-01-07,,"FC Toulouse",2026-06-30,6000000,"Hamstring injury - Return expected on 30/03/2026"
+13449,826,2026-03-29T21:34:49.545798,354726,"Florian Sotoca",Centre-Forward,1990-10-25,35,France,,187,right,2019-01-07,,"Grenoble Foot 38",2027-06-30,1500000,
+13450,1082,2026-03-29T21:34:49.551315,361256,"Berke Özer",Goalkeeper,2000-05-25,25,Türkiye,,191,right,2025-08-14,,Eyüpspor,2029-06-30,10000000,
+13451,1082,2026-03-29T21:34:49.551315,417278,"Arnaud Bodart",Goalkeeper,1998-11-03,28,Belgium,,186,right,2025-01-07,,"FC Metz",2027-06-30,2000000,
+13452,1082,2026-03-29T21:34:49.551315,205465,"Marc-Aurèle Caillard",Goalkeeper,1994-12-05,31,France,,192,right,2024-08-30,,"FC Metz",2026-06-30,100000,"Elbow injury - Return unknown"
+13453,1082,2026-03-29T21:34:49.551315,548254,"Nathan Ngoy",Centre-Back,2003-10-06,22,"Belgium, DR Congo",,183,right,2025-07-24,,"Standard Liège",2029-06-30,20000000,
+13454,1082,2026-03-29T21:34:49.551315,648020,Alexsandro,Centre-Back,1999-09-08,26,Brazil,,191,both,2022-01-07,,"GD Chaves",2028-06-30,18000000,
+13455,1082,2026-03-29T21:34:49.551315,203348,"Chancel Mbemba",Centre-Back,1994-08-08,31,"DR Congo",,182,right,2025-01-09,,"Olympique Marseille",2026-06-30,2500000,
+13456,1082,2026-03-29T21:34:49.551315,80293,"Aïssa Mandi",Centre-Back,1991-10-22,34,"Algeria, France",,186,right,2024-01-08,,"Villarreal CF",2026-06-30,1000000,
+13457,1082,2026-03-29T21:34:49.551315,744074,"Rafael Fernandes",Centre-Back,2002-06-28,23,Portugal,,191,right,2024-01-31,,"FC Arouca",2028-06-30,600000,
+13458,1082,2026-03-29T21:34:49.551315,990732,"Ousmane Touré",Centre-Back,2005-02-18,21,"France, Mali",,187,right,2024-01-07,,"LOSC Lille B",2028-06-30,500000,"Cruciate ligament tear - Return unknown"
+13459,1082,2026-03-29T21:34:49.551315,318523,"Romain Perraud",Left-Back,1997-09-22,28,France,,173,left,2025-08-08,,"Real Betis Balompié",2028-06-30,7000000,
+13460,1082,2026-03-29T21:34:49.551315,258364,"Calvin Verdonk",Left-Back,1997-04-26,28,"Indonesia, Netherlands",,174,left,2025-01-09,,"NEC Nijmegen",2028-06-30,3000000,
+13461,1082,2026-03-29T21:34:49.551315,816580,"Tiago Santos",Right-Back,2002-07-23,23,Portugal,,175,right,2023-05-07,,"GD Estoril Praia",2029-06-30,12000000,
+13462,1082,2026-03-29T21:34:49.551315,100986,"Thomas Meunier",Right-Back,1991-12-09,34,Belgium,,191,right,2024-07-19,,Trabzonspor,2026-06-30,1800000,
+13463,1082,2026-03-29T21:34:49.551315,1016015,"Ngal'ayel Mukau","Defensive Midfield",2004-03-11,21,"DR Congo, Belgium",,186,left,2024-11-07,,"KV Mechelen",2028-06-30,12000000,
+13464,1082,2026-03-29T21:34:49.551315,245537,"Nabil Bentaleb","Defensive Midfield",1994-11-24,31,"Algeria, France",,187,left,2023-08-28,,"Angers SCO",2026-06-30,5000000,
+13465,1082,2026-03-29T21:34:49.551315,84301,"Benjamin André","Defensive Midfield",1990-03-08,35,France,,180,right,2019-07-17,,"Stade Rennais FC",2028-06-30,4000000,"Team captain"
+13466,1082,2026-03-29T21:34:49.551315,1097139,"Ayyoub Bouaddi","Central Midfield",2007-02-10,18,"France, Morocco",,186,right,2023-01-07,,"LOSC Lille U19",2029-06-30,50000000,
+13467,1082,2026-03-29T21:34:49.551315,652275,"Hákon Arnar Haraldsson","Attacking Midfield",2003-10-04,22,Iceland,,178,right,2023-07-17,,": Ablöse €15.00m",2030-06-30,22000000,
+13468,1082,2026-03-29T21:34:49.551315,724129,"Matías Fernández-Pardo","Left Winger",2005-03-02,21,"Spain, Belgium",,188,right,2024-08-30,,"KAA Gent",2029-06-30,30000000,
+13469,1082,2026-03-29T21:34:49.551315,580657,"Osame Sahraoui","Left Winger",2001-11-06,24,"Morocco, Norway",,170,right,2024-01-08,,"SC Heerenveen",2029-06-30,10000000,"Pubalgia - Return unknown"
+13470,1082,2026-03-29T21:34:49.551315,479648,"Félix Correia","Left Winger",2001-01-22,25,"Portugal, Sao Tome and Principe",,178,right,2025-07-17,,"Gil Vicente FC",2029-06-30,10000000,
+13471,1082,2026-03-29T21:34:49.551315,1184007,"Soriba Diaoune","Left Winger",2007-08-14,18,"France, Guinea",,174,right,2026-01-01,,"LOSC Lille B",2028-06-30,5000000,
+13472,1082,2026-03-29T21:34:49.551315,903666,"Ethan Mbappé","Right Winger",2006-12-29,19,"France, Cameroon",,180,left,2024-04-07,,"Paris Saint-Germain U19",2027-06-30,9000000,"Dead leg - Return expected on 31/03/2026"
+13473,1082,2026-03-29T21:34:49.551315,903359,"Marius Broholm","Right Winger",2004-12-26,21,Norway,,176,left,2025-01-07,,"Rosenborg BK",2030-06-30,6000000,
+13474,1082,2026-03-29T21:34:49.551315,353404,"Gaëtan Perrin","Right Winger",1996-07-06,29,France,,169,right,2026-02-02,,"FC Krasnodar",2028-06-30,6000000,"Groin injury - Return unknown"
+13475,1082,2026-03-29T21:34:49.551315,1078326,"Noah Edjouma","Right Winger",2005-04-10,20,"France, Cameroon",,182,left,2026-02-02,,"FC Toulouse",2030-06-30,5000000,
+13476,1082,2026-03-29T21:34:49.551315,885445,"Hamza Igamane",Centre-Forward,2002-02-11,23,Morocco,,181,right,2025-08-29,,"Rangers FC",2030-06-30,18000000,"Cruciate ligament tear - Return unknown"
+13477,1082,2026-03-29T21:34:49.551315,82442,"Olivier Giroud",Centre-Forward,1986-09-30,39,France,,192,left,2025-01-07,,"Los Angeles FC",2026-06-30,1000000,
+13478,415,2026-03-29T21:34:51.445297,912902,"Guillaume Restes",Goalkeeper,2005-11-03,21,"France, Cote d'Ivoire",,188,left,2023-01-07,,"Toulouse FC B",2028-06-30,18000000,
+13479,415,2026-03-29T21:34:51.445297,328770,"Kjetil Haug",Goalkeeper,1998-12-06,27,Norway,,191,right,2022-01-07,,"Vålerenga Fotball Elite",2026-06-30,500000,
+13480,415,2026-03-29T21:34:51.445297,524937,"Álex Domínguez",Goalkeeper,1998-07-30,27,Spain,,187,left,2023-07-26,,"UD Las Palmas",2027-06-30,250000,"Injury to the ankle - Return unknown"
+13481,415,2026-03-29T21:34:51.445297,597659,"Charlie Cresswell",Centre-Back,2002-08-17,23,England,,190,right,2024-08-07,,"Leeds United",2028-06-30,25000000,"Hamstring injury - Return unknown"
+13482,415,2026-03-29T21:34:51.445297,429259,"Mark McKenzie",Centre-Back,1999-02-25,27,"United States, Jamaica",,184,right,2024-08-16,,"KRC Genk",2027-06-30,6000000,
+13483,415,2026-03-29T21:34:51.445297,283227,"Rasmus Nicolaisen",Centre-Back,1997-03-16,29,Denmark,,191,left,2021-08-17,,": Ablöse €538k",2027-06-30,5000000,"Team captain"
+13484,415,2026-03-29T21:34:51.445297,1075583,"Seny Koumbassa",Centre-Back,2007-06-20,18,"France, Guinea",,194,right,2025-01-07,,"Toulouse FC U19",2028-06-30,1000000,
+13485,415,2026-03-29T21:34:51.445297,1191444,"Dayann Methalie",Left-Back,2006-02-15,20,"France, Martinique",,188,left,2025-01-07,,"Toulouse FC B",2030-06-30,12000000,
+13486,415,2026-03-29T21:34:51.445297,794758,"Warren Kamanzi",Right-Back,2000-11-11,25,Norway,,177,right,2023-02-01,,"Tromsø IL",2026-06-30,1500000,
+13487,415,2026-03-29T21:34:51.445297,883865,"Rafik Messali",Right-Back,2003-04-28,22,"Algeria, France",,177,right,2024-01-07,,"Toulouse FC B",2028-06-30,1500000,"Injury to the ankle - Return unknown"
+13488,415,2026-03-29T21:34:51.445297,161869,"Djibril Sidibé",Right-Back,1992-07-29,33,"France, Mali",,183,right,2024-02-08,,"AEK Athens",2026-06-30,1000000,
+13489,415,2026-03-29T21:34:51.445297,1200427,"Alexis Vossah","Central Midfield",2008-11-03,18,"France, Togo",,181,both,2025-01-07,,"Toulouse FC U19",2028-06-30,15000000,
+13490,415,2026-03-29T21:34:51.445297,467632,"Cristian Cásseres Jr.","Central Midfield",2000-01-20,26,Venezuela,,176,right,2023-07-07,,"New York Red Bulls",2027-06-30,9000000,
+13491,415,2026-03-29T21:34:51.445297,949113,"Pape Demba Diop","Central Midfield",2003-04-09,22,Senegal,,182,right,2026-07-01,,"RC Strasbourg Alsace",2026-06-30,8000000,
+13492,415,2026-03-29T21:34:51.445297,658533,"Abu Francis","Central Midfield",2001-04-27,24,Ghana,,182,right,2025-06-08,,"Cercle Brugge ",2029-06-30,2000000,"Tibia and fibula fracture - Return unknown"
+13493,415,2026-03-29T21:34:51.445297,710885,"Mario Sauer","Central Midfield",2004-05-15,21,Slovakia,,180,right,2025-01-07,,"MSK Zilina",,1800000,
+13494,415,2026-03-29T21:34:51.445297,476836,"Aron Dønnum","Right Midfield",1998-04-20,27,Norway,,178,left,2023-01-09,,"Standard Liège",2027-06-30,5000000,
+13495,415,2026-03-29T21:34:51.445297,463613,"Yann Gboho","Left Winger",2001-01-14,25,"France, Cote d'Ivoire",,178,right,2024-08-01,,"Cercle Brugge ",2027-06-30,15000000,
+13496,415,2026-03-29T21:34:51.445297,743599,Emersonn,Centre-Forward,2004-07-16,21,Brazil,,193,right,2025-01-09,,Göztepe,,5000000,
+13497,415,2026-03-29T21:34:51.445297,807689,"Frank Magri",Centre-Forward,1999-04-09,26,"Cameroon, France",,178,right,2023-07-21,,": Ablöse €2.00m",2026-06-30,4000000,"Knee injury - Return unknown"
+13498,415,2026-03-29T21:34:51.445297,989574,"Santiago Hidalgo",Centre-Forward,2005-02-17,21,"Argentina, Italy",,174,left,2025-07-31,,"CA Independiente",2029-06-30,4000000,"Yellow card suspension – Ligue 1 – until 04/04/2026"
+13499,415,2026-03-29T21:34:51.445297,683625,"Jacen Russell-Rowe",Centre-Forward,2002-09-13,23,"Canada, Jamaica",,183,right,2026-02-02,,"Columbus Crew",2029-06-30,3500000,
+13500,415,2026-03-29T21:34:51.445297,1234988,"Julián Vignolo",Centre-Forward,2006-07-12,19,Argentina,,185,right,2025-08-20,,"CA Racing (Córdoba)",2029-06-30,2000000,
+13501,415,2026-03-29T21:34:51.445297,1075572,"Enzo Faty",Centre-Forward,2007-09-03,19,"France, Senegal",,189,right,2025-01-07,,"Toulouse FC B",,,
+13502,417,2026-03-29T21:34:51.451905,448632,"Yehvann Diouf",Goalkeeper,1999-11-16,26,"Senegal, France",,188,right,2025-03-07,,"Stade Reims",2030-06-30,7000000,
+13503,417,2026-03-29T21:34:51.451905,127188,"Maxime Dupé",Goalkeeper,1993-04-03,33,France,,188,right,2024-01-28,,"RSC Anderlecht",2026-06-30,800000,
+13504,417,2026-03-29T21:34:51.451905,828889,"Bartosz Zelazowski",Goalkeeper,2005-04-25,20,Poland,,193,right,2025-01-07,,"OGC Nice Espoir",,,
+13505,417,2026-03-29T21:34:51.451905,1121298,"Juma Bah",Centre-Back,2006-11-04,19,"Sierra Leone",,195,right,2025-01-07,,"Manchester City",2026-06-30,10000000,
+13506,417,2026-03-29T21:34:51.451905,1113451,"Kojo Peprah Oppong",Centre-Back,2004-04-06,21,Ghana,,185,right,2025-07-25,,"IFK Norrköping",2029-06-30,10000000,
+13507,417,2026-03-29T21:34:51.451905,674612,"Youssouf Ndayishimiye",Centre-Back,1998-10-27,27,Burundi,,183,right,2023-01-25,,"Basaksehir FK",2027-06-30,8000000,"Red card suspension – Ligue 1 – until 13/04/2026"
+13508,417,2026-03-29T21:34:51.451905,1089202,"Moïse Bombito",Centre-Back,2000-03-30,25,"Canada, DR Congo",,190,right,2024-08-19,,"Colorado Rapids",2028-06-30,8000000,"Lower leg fracture - Return unknown"
+13509,417,2026-03-29T21:34:51.451905,891998,"Antoine Mendy",Centre-Back,2004-05-27,21,"Senegal, France",,187,right,2022-01-07,,"OGC Nice B",2028-06-30,6000000,
+13510,417,2026-03-29T21:34:51.451905,566025,"Mohamed Abdelmonem",Centre-Back,1999-01-02,27,Egypt,,183,right,2024-08-29,,"Al Ahly FC",2028-06-30,3000000,
+13511,417,2026-03-29T21:34:51.451905,16136,Dante,Centre-Back,1983-10-18,42,Brazil,,188,left,2016-08-23,,"VfL Wolfsburg",2026-06-30,500000,"Team captain"
+13512,417,2026-03-29T21:34:51.451905,532775,"Melvin Bard",Left-Back,2000-06-11,25,France,,173,left,2021-07-16,,": Ablöse €3.00m",2028-06-30,10000000,
+13513,417,2026-03-29T21:34:51.451905,211474,"Ali Abdi",Left-Back,1993-12-20,32,Tunisia,,183,left,2024-02-09,,"SM Caen",2027-06-30,2500000,
+13514,417,2026-03-29T21:34:51.451905,175639,"Jonathan Clauss",Right-Back,1992-09-25,33,France,,178,right,2024-07-25,,"Olympique Marseille",2028-06-30,4500000,
+13515,417,2026-03-29T21:34:51.451905,569845,"Charles Vanhoutte","Defensive Midfield",1998-09-16,27,Belgium,,182,right,2025-01-09,,"Union Saint-Gilloise",2029-06-30,7000000,
+13516,417,2026-03-29T21:34:51.451905,688707,"Salis Abdul Samed","Defensive Midfield",2000-03-26,26,"Ghana, Cote d'Ivoire",,179,right,2025-08-14,,"RC Lens",2028-06-30,4500000,
+13517,417,2026-03-29T21:34:51.451905,1191473,Everton,"Defensive Midfield",2007-12-04,18,"France, Brazil",,181,,2026-01-01,,"OGC Nizza U19",2029-06-30,2000000,"Ankle injury - Return expected on 31/05/2026"
+13518,417,2026-03-29T21:34:51.451905,560593,"Hicham Boudaoui","Central Midfield",1999-09-23,26,Algeria,,175,right,2019-02-09,,"Paradou AC",2027-06-30,12000000,
+13519,417,2026-03-29T21:34:51.451905,174094,"Morgan Sanson","Central Midfield",1994-08-18,31,France,,180,right,2024-01-07,,"Aston Villa",2027-06-30,4000000,
+13520,417,2026-03-29T21:34:51.451905,450936,"Tanguy Ndombélé","Central Midfield",1996-12-28,29,"France, DR Congo",,181,right,2024-04-07,,"Tottenham Hotspur",2026-06-30,3000000,
+13521,417,2026-03-29T21:34:51.451905,1208968,"Djibril Coulibaly","Central Midfield",2008-11-18,17,"France, Mali",,178,right,2025-01-07,,"OGC Nizza U19",2028-06-30,800000,
+13522,417,2026-03-29T21:34:51.451905,750904,"Tom Louchet","Right Midfield",2003-04-05,22,France,,178,both,2023-01-07,,"OGC Nice B",2027-06-30,7000000,
+13523,417,2026-03-29T21:34:51.451905,1254786,"Gabin Bernardeau","Attacking Midfield",2006-01-24,20,France,,181,left,2025-01-07,,"Le Mans FC",2029-06-30,1500000,
+13524,417,2026-03-29T21:34:51.451905,569389,"Sofiane Diop","Left Winger",2000-09-06,25,"Morocco, France",,175,right,2022-08-29,,"AS Monaco",2027-06-30,12000000,
+13525,417,2026-03-29T21:34:51.451905,535820,"Isak Jansson","Left Winger",2002-01-31,24,Sweden,,175,right,2025-10-07,,"Rapid Vienna",,5000000,"Knee injury - Return unknown"
+13526,417,2026-03-29T21:34:51.451905,670847,"Mohamed-Ali Cho","Right Winger",2004-01-19,22,"France, England",,182,left,2024-08-01,,"Real Sociedad",2028-06-30,15000000,"Foot injury - Return unknown"
+13527,417,2026-03-29T21:34:51.451905,1097113,"Kaïl Boudache","Right Winger",2006-06-15,19,"France, Algeria",,,left,2026-01-01,,"OGC Nice Espoir",,4000000,
+13528,417,2026-03-29T21:34:51.451905,479638,"Tiago Gouveia","Right Winger",2001-06-18,24,Portugal,,176,right,2025-08-31,,"SL Benfica",2026-06-30,4000000,
+13529,417,2026-03-29T21:34:51.451905,659542,"Elye Wahi",Centre-Forward,2003-02-01,23,"Cote d'Ivoire, France",,184,right,2026-01-01,,"Eintracht Frankfurt",2026-06-30,12000000,
+13530,417,2026-03-29T21:34:51.451905,718201,"Kevin Carlos",Centre-Forward,2001-10-04,24,"Spain, Nigeria",,186,right,2025-08-18,,"FC Basel 1893",2030-06-30,5000000,
+13531,10004,2026-03-29T21:34:52.107759,750878,"Obed Nkambadio",Goalkeeper,2003-07-02,23,"France, DR Congo",,190,right,2023-01-07,,"Paris FC B",2027-06-30,6000000,
+13532,10004,2026-03-29T21:34:52.107759,45672,"Kevin Trapp",Goalkeeper,1990-08-07,35,Germany,,189,right,2025-08-19,,"Eintracht Frankfurt",2028-06-30,2000000,
+13533,10004,2026-03-29T21:34:52.107759,18940,"Rémy Riou",Goalkeeper,1987-06-08,38,France,,191,right,2024-09-01,,"Olympique Lyon",2026-06-30,100000,
+13534,10004,2026-03-29T21:34:52.107759,818495,Otávio,Centre-Back,2002-04-21,23,Brazil,,188,left,2025-07-23,,"FC Porto",2030-06-30,10000000,
+13535,10004,2026-03-29T21:34:52.107759,660860,"Diego Coppola",Centre-Back,2003-12-28,22,"Italy, Netherlands",,193,right,2026-01-29,,"Brighton & Hove Albion",2026-06-30,10000000,
+13536,10004,2026-03-29T21:34:52.107759,649026,"Moustapha Mbow",Centre-Back,2000-08-03,26,Senegal,,192,right,2023-07-20,,"Stade Reims",2028-06-30,6000000,
+13537,10004,2026-03-29T21:34:52.107759,668167,"Samir Chergui",Centre-Back,1999-06-02,27,"Algeria, France",,185,right,2021-01-01,,"Paris FC B",,3000000,
+13538,10004,2026-03-29T21:34:52.107759,84085,"Timothée Kolodziejczak",Centre-Back,1991-01-10,34,"France, Poland",,183,left,2023-06-09,,"Without Club",2026-06-30,200000,"Team captain"
+13539,10004,2026-03-29T21:34:52.107759,955281,"Nhoa Sangui",Left-Back,2006-02-27,20,"France, Congo",,178,left,2025-01-07,,"Stade Reims",2030-06-30,9000000,
+13540,10004,2026-03-29T21:34:52.107759,340177,"Thibault De Smet",Left-Back,1998-05-06,27,Belgium,,183,left,2025-01-07,,"Stade Reims",2027-06-30,2000000,
+13541,10004,2026-03-29T21:34:52.107759,433887,"Tuomas Ollila",Left-Back,2000-04-25,25,Finland,,174,left,2024-01-29,,"HJK Helsinki",2027-06-30,500000,"Calf injury - Return unknown"
+13542,10004,2026-03-29T21:34:52.107759,297070,"Hamari Traoré",Right-Back,1992-01-27,34,Mali,,175,right,2025-01-09,,"Real Sociedad",2027-06-30,1800000,"Knee injury - Return unknown"
+13543,10004,2026-03-29T21:34:52.107759,434358,"Sofiane Alakouch",Right-Back,1998-07-29,27,"Morocco, France",,175,right,2024-01-07,,"FC Metz",2026-06-30,200000,
+13544,10004,2026-03-29T21:34:52.107759,290862,"Maxime Lopez","Defensive Midfield",1997-04-12,28,"France, Algeria",,167,right,2024-08-29,,"US Sassuolo",2027-06-30,5000000,
+13545,10004,2026-03-29T21:34:52.107759,377393,"Pierre Lees-Melou","Defensive Midfield",1993-05-25,32,France,,185,right,2025-08-28,,"Stade Brestois 29",2027-06-30,5000000,
+13546,10004,2026-03-29T21:34:52.107759,973949,"Adama Camara","Defensive Midfield",1996-10-18,29,"France, Mali",,180,right,2023-01-07,,"Racing Club de France",2027-06-30,2500000,
+13547,10004,2026-03-29T21:34:52.107759,1241211,"Rudy Matondo","Central Midfield",2008-03-13,18,"France, Congo",,180,right,2026-02-02,,"AJ Auxerre",,15000000,"Red card suspension – Ligue 1 – until 06/04/2026"
+13548,10004,2026-03-29T21:34:52.107759,414908,"Marshall Munetsi","Central Midfield",1996-06-22,29,Zimbabwe,,188,right,2026-01-16,,"Wolverhampton Wanderers",2026-06-30,12000000,
+13549,10004,2026-03-29T21:34:52.107759,374040,"Vincent Marchetti","Central Midfield",1997-04-07,28,France,,178,left,2024-01-29,,"AC Ajaccio",2026-06-30,2000000,
+13550,10004,2026-03-29T21:34:52.107759,274862,"Moses Simon","Left Winger",1995-12-07,30,Nigeria,,168,right,2025-01-07,,"FC Nantes",2028-06-30,7000000,
+13551,10004,2026-03-29T21:34:52.107759,435492,"Alimami Gory","Left Winger",1996-08-30,29,"France, Mali",,182,right,2022-09-07,,"Cercle Brugge ",2026-06-30,1200000,
+13552,10004,2026-03-29T21:34:52.107759,170506,"Julien Lopez","Left Winger",1992-01-03,34,"Algeria, France",,173,right,2017-01-07,,": Ablöse free transfer",2026-06-30,200000,
+13553,10004,2026-03-29T21:34:52.107759,739769,"Ilan Kebbal","Right Winger",1998-10-07,27,"Algeria, France",,169,left,2023-10-07,,"Stade Reims",2028-06-30,12000000,"Dead leg - Return unknown"
+13554,10004,2026-03-29T21:34:52.107759,745461,"Luca Koleosho","Right Winger",2004-09-15,21,"Italy, United States",,175,right,2026-09-01,,"Burnley FC",2026-06-30,4000000,
+13555,10004,2026-03-29T21:34:52.107759,324690,"Jonathan Ikoné","Right Winger",1998-02-05,27,"France, DR Congo",,175,left,2025-01-09,,"ACF Fiorentina",2027-06-30,4000000,
+13556,10004,2026-03-29T21:34:52.107759,399383,"Mathieu Cafaro","Right Winger",1997-03-25,29,France,,175,right,2025-03-02,,"AS Saint-Étienne",2027-06-30,2000000,
+13557,10004,2026-03-29T21:34:52.107759,568701,"Lamine Gueye","Right Winger",1998-03-13,28,Senegal,,178,right,2023-05-07,,"FC Metz",2026-06-30,250000,
+13558,10004,2026-03-29T21:34:52.107759,463620,"Willem Geubbels",Centre-Forward,2001-08-16,24,"France, Netherlands",,186,right,2025-08-17,,"FC St. Gallen 1879",2030-06-30,5000000,
+13559,10004,2026-03-29T21:34:52.107759,358515,"Jean-Philippe Krasso",Centre-Forward,1997-07-17,28,"Cote d'Ivoire, France",,187,left,2024-06-07,,"Red Star Belgrade",2027-06-30,4000000,
+13560,10004,2026-03-29T21:34:52.107759,105521,"Ciro Immobile",Centre-Forward,1990-02-20,36,Italy,,185,right,2026-01-02,,"Bologna FC 1909",2027-06-30,2000000,
+13561,10004,2026-03-29T21:34:52.107759,203504,"Pierre-Yves Hamel",Centre-Forward,1994-03-02,32,France,,189,right,2022-01-07,,"FC Lorient",2026-06-30,400000,"Calf injury - Return unknown"
+13562,1158,2026-03-29T21:34:52.171160,147051,"Yvon Mvogo",Goalkeeper,1994-06-06,31,"Switzerland, Cameroon",,190,right,2022-07-13,,"RB Leipzig",2027-06-30,3000000,
+13563,1158,2026-03-29T21:34:52.171160,333175,"Bingourou Kamara",Goalkeeper,1996-10-21,29,"Senegal, France",,195,right,2025-07-25,,"Pau FC",2027-06-30,700000,
+13564,1158,2026-03-29T21:34:52.171160,124901,"Benjamin Leroy",Goalkeeper,1989-07-04,36,France,,184,right,2024-05-07,,"Quevilly - Rouen Métropole",2026-06-30,100000,
+13565,1158,2026-03-29T21:34:52.171160,496706,"Montassar Talbi",Centre-Back,1998-05-26,27,"Tunisia, France",,190,right,2022-07-18,,"Rubin Kazan",2027-06-30,7000000,
+13566,1158,2026-03-29T21:34:52.171160,807165,"Bamo Meïté",Centre-Back,2001-03-12,24,"Cote d'Ivoire, France",,184,right,2025-01-09,,"Olympique Marseille",2026-06-30,7000000,
+13567,1158,2026-03-29T21:34:52.171160,1182738,"Abdoulaye Faye",Centre-Back,2004-09-22,21,Senegal,,191,left,2025-07-29,,"Bayer 04 Leverkusen",2026-06-30,3000000,
+13568,1158,2026-03-29T21:34:52.171160,708678,"Isaak Touré",Centre-Back,2003-03-28,23,"France, Cote d'Ivoire",,206,left,2023-01-09,,"Olympique Marseille",2028-06-30,1500000,
+13569,1158,2026-03-29T21:34:52.171160,646829,"Nathaniel Adjei",Centre-Back,2002-08-21,23,Ghana,,191,right,2024-01-07,,"Hammarby IF",2028-06-30,1200000,
+13570,1158,2026-03-29T21:34:52.171160,1088199,"Arsène Kouassi",Left-Back,2004-02-01,22,"Burkina Faso, Cote d'Ivoire",,178,left,2025-07-24,,"AC Ajaccio",2029-06-30,10000000,
+13571,1158,2026-03-29T21:34:52.171160,717118,"Darlin Yongwa",Left-Back,2000-09-22,25,Cameroon,,177,left,2022-01-07,,": Ablöse €1.50m",2026-06-30,6000000,
+13572,1158,2026-03-29T21:34:52.171160,391720,"Igor Silva",Right-Back,1996-08-21,29,Brazil,,173,right,2021-07-23,,"NK Osijek",2026-06-30,1500000,"Adductor pain - Return unknown"
+13573,1158,2026-03-29T21:34:52.171160,238626,"Laurent Abergel","Defensive Midfield",1993-01-02,33,France,,170,right,2019-07-26,,"AS Nancy-Lorraine",2029-06-30,2000000,"Team captain; Injury to the ankle - Return unknown"
+13574,1158,2026-03-29T21:34:52.171160,1074628,"Arthur Avom","Central Midfield",2004-12-15,21,Cameroon,,173,right,2024-01-07,,"FC Lorient B",2026-06-30,15000000,
+13575,1158,2026-03-29T21:34:52.171160,691958,"Noah Cadiou","Central Midfield",1998-10-26,27,"Guadeloupe, France",,191,right,2025-04-07,,"Rodez AF",2029-06-30,2500000,
+13576,1158,2026-03-29T21:34:52.171160,766412,"Théo Le Bris","Right Midfield",2002-01-10,23,France,,170,right,2022-01-07,,"FC Lorient B",2027-06-30,4500000,
+13577,1158,2026-03-29T21:34:52.171160,816308,"Panos Katseris","Right Midfield",2001-05-07,24,Greece,,187,right,2024-01-23,,"US Catanzaro",2028-06-30,2000000,
+13578,1158,2026-03-29T21:34:52.171160,322305,"Jean-Victor Makengo","Attacking Midfield",1998-12-06,27,"France, DR Congo",,177,left,2023-01-30,,"Udinese Calcio",2027-06-30,6000000,
+13579,1158,2026-03-29T21:34:52.171160,969447,"Dermane Karim","Attacking Midfield",2003-12-26,22,Togo,,178,right,2025-09-08,,"Lommel SK",2026-06-30,3000000,
+13580,1158,2026-03-29T21:34:52.171160,590914,"Bandiougou Fadiga","Attacking Midfield",2001-01-15,25,"France, Mali",,178,right,2024-08-14,,"Olympiacos Piraeus B",2028-06-30,250000,
+13581,1158,2026-03-29T21:34:52.171160,810411,"Pablo Pagis","Left Winger",2002-12-29,23,France,,180,both,2022-01-07,,"FC Lorient B",2027-06-30,10000000,"concussion - Return unknown"
+13582,1158,2026-03-29T21:34:52.171160,1011152,"Trevan Sanusi","Left Winger",2007-04-25,18,"England, Nigeria",,178,right,2025-01-09,,"Newcastle United U21",2026-06-30,500000,
+13583,1158,2026-03-29T21:34:52.171160,822458,"Bamba Dieng",Centre-Forward,2000-03-23,26,Senegal,,178,right,2023-01-27,,"Olympique Marseille",2026-06-30,6000000,
+13584,1158,2026-03-29T21:34:52.171160,704270,"Sambou Soumano",Centre-Forward,2001-03-01,25,Senegal,,182,right,2022-01-01,,"FC Lorient B",2026-06-30,4000000,
+13585,1158,2026-03-29T21:34:52.171160,619461,"Mohamed Bamba",Centre-Forward,2001-10-12,24,"Cote d'Ivoire, Guinea",,185,right,2024-01-26,,"Wolfsberger AC",2028-06-30,2500000,"Ill - Return unknown"
+13586,1158,2026-03-29T21:34:52.171160,239647,"Aiyegun Tosin",Centre-Forward,1998-06-26,27,"Benin, Nigeria",,179,right,2023-07-25,,"FC Zürich",2027-06-30,2000000,
+13587,12,2026-03-29T21:34:59.791267,338670,"Mile Svilar",Goalkeeper,1999-08-27,26,"Serbia, Belgium",,189,right,2022-01-07,,"SL Benfica",2030-06-30,35000000,
+13588,12,2026-03-29T21:34:59.791267,244192,"Pierluigi Gollini",Goalkeeper,1995-03-18,31,Italy,,194,right,2025-01-24,,"Atalanta BC",2027-06-30,800000,
+13589,12,2026-03-29T21:34:59.791267,1073023,"Radoslaw Zelezny",Goalkeeper,2006-06-09,19,Poland,,193,left,2025-07-23,,"Juventus Primavera",2029-06-30,200000,
+13590,12,2026-03-29T21:34:59.791267,371149,"Evan Ndicka",Centre-Back,1999-08-20,26,"Cote d'Ivoire, France",,192,left,2023-01-07,,"Eintracht Frankfurt",2028-06-30,35000000,
+13591,12,2026-03-29T21:34:59.791267,256448,"Gianluca Mancini",Centre-Back,1996-04-17,29,Italy,,190,right,2020-01-09,,"Atalanta BC",2027-06-30,15000000,"Red card suspension – UEFA Europa League"
+13592,12,2026-03-29T21:34:59.791267,701819,"Daniele Ghilardi",Centre-Back,2003-06-01,23,Italy,,189,right,2025-02-08,,"Hellas Verona",2026-06-30,15000000,
+13593,12,2026-03-29T21:34:59.791267,1046867,"Jan Ziolkowski",Centre-Back,2005-05-06,20,Poland,,194,right,2025-08-29,,"Legia Warszawa",2030-06-30,12000000,
+13594,12,2026-03-29T21:34:59.791267,281769,"Mario Hermoso",Centre-Back,1995-06-18,30,Spain,,184,left,2024-02-09,,"Without Club",2027-06-30,7000000,
+13595,12,2026-03-29T21:34:59.791267,277179,Angeliño,Left-Back,1997-04-01,29,Spain,,171,left,2024-01-07,,"RB Leipzig",2028-06-30,10000000,
+13596,12,2026-03-29T21:34:59.791267,338070,"Konstantinos Tsimikas",Left-Back,1996-12-05,29,Greece,,179,left,2025-08-31,,"Liverpool FC",2026-06-30,8000000,
+13597,12,2026-03-29T21:34:59.791267,964580,Wesley,Right-Back,2003-06-09,22,Brazil,,178,right,2025-07-28,,"CR Flamengo",2030-06-30,40000000,"Hamstring injury - Return unknown"
+13598,12,2026-03-29T21:34:59.791267,251075,"Zeki Çelik",Right-Back,1997-02-17,29,Türkiye,,180,right,2022-05-07,,"LOSC Lille",2026-06-30,12000000,
+13599,12,2026-03-29T21:34:59.791267,557407,"Devyne Rensch",Right-Back,2003-01-18,23,"Netherlands, Suriname",,181,right,2025-01-23,,": Ablöse €5.00m",2029-06-30,8500000,
+13600,12,2026-03-29T21:34:59.791267,199248,"Bryan Cristante","Defensive Midfield",1995-03-03,31,"Italy, Canada",,186,right,2019-01-07,,"Atalanta BC",2027-06-30,7000000,"Team captain"
+13601,12,2026-03-29T21:34:59.791267,624690,"Manu Koné","Central Midfield",2001-05-17,24,"France, Cote d'Ivoire",,185,right,2024-08-30,,"Borussia Mönchengladbach",2029-06-30,50000000,"Hamstring muscle injury - Return expected on 20/04/2026"
+14067,416,2026-03-29T21:35:07.851656,814446,"Luca Marianucci",Centre-Back,2004-07-23,21,Italy,,186,right,2026-01-31,,"SSC Napoli",2026-06-30,7500000,
+13602,12,2026-03-29T21:34:59.791267,901019,"Neil El Aynaoui","Central Midfield",2001-02-07,24,"Morocco, France",,185,right,2025-07-20,,"RC Lens",2030-06-30,20000000,
+13603,12,2026-03-29T21:34:59.791267,813137,"Niccolò Pisilli","Central Midfield",2004-09-23,21,Italy,,180,right,2024-01-07,,"Roma U20",2029-06-30,20000000,
+13604,12,2026-03-29T21:34:59.791267,286297,"Lorenzo Pellegrini","Attacking Midfield",1996-06-19,29,Italy,,186,right,2017-01-07,,": Ablöse €10.00m",2026-06-30,9000000,
+13605,12,2026-03-29T21:34:59.791267,713644,"Bryan Zaragoza","Left Winger",2001-09-09,24,Spain,,164,right,2026-02-02,,"Bayern Munich",2026-06-30,10000000,
+13606,12,2026-03-29T21:34:59.791267,94529,"Stephan El Shaarawy","Left Winger",1992-10-27,33,"Italy, Egypt",,178,right,2021-01-30,,"Shanghai Shenhua",2026-06-30,2500000,
+13607,12,2026-03-29T21:34:59.791267,668951,"Matías Soulé","Right Winger",2003-04-15,22,"Argentina, Italy",,182,left,2024-07-30,,"Juventus FC",2029-06-30,35000000,"Pubalgia - Return unknown"
+13608,12,2026-03-29T21:34:59.791267,1061820,"Lorenzo Venturino","Right Winger",2006-06-22,19,Italy,,178,right,2026-01-24,,"Genoa CFC",2026-06-30,4500000,
+13609,12,2026-03-29T21:34:59.791267,206050,"Paulo Dybala","Second Striker",1993-11-15,32,"Argentina, Italy",,177,left,2022-07-20,,"Juventus FC",2026-06-30,5000000,"Knee surgery - Return expected on 13/04/2026"
+13610,12,2026-03-29T21:34:59.791267,326029,"Donyell Malen",Centre-Forward,1999-01-19,27,"Netherlands, Suriname",,176,right,2026-01-16,,"Aston Villa",2026-06-30,35000000,
+13611,12,2026-03-29T21:34:59.791267,648046,"Evan Ferguson",Centre-Forward,2004-10-19,21,"Ireland, England",,188,right,2025-07-23,,"Brighton & Hove Albion",2026-06-30,25000000,"Ankle problems - Return expected on 01/06/2026"
+13612,12,2026-03-29T21:34:59.791267,1131161,"Robinio Vaz",Centre-Forward,2007-02-17,19,"France, Guinea-Bissau",,185,right,2026-01-14,,"Olympique Marseille",2030-06-30,18000000,
+13613,12,2026-03-29T21:34:59.791267,343537,"Artem Dovbyk",Centre-Forward,1997-06-21,28,Ukraine,,189,left,2024-02-08,,"Girona FC",2029-06-30,15000000,"Hamstring injury - Return expected on 01/06/2026"
+13614,46,2026-03-29T21:34:59.796155,388516,"Josep Martínez",Goalkeeper,1998-05-27,27,Spain,,191,right,2024-09-07,,"Genoa CFC",2029-06-30,7500000,
+13615,46,2026-03-29T21:34:59.796155,42205,"Yann Sommer",Goalkeeper,1988-12-17,37,Switzerland,,183,right,2023-07-08,,": Ablöse €6.90m",2026-06-30,2500000,
+13616,46,2026-03-29T21:34:59.796155,70580,"Raffaele Di Gennaro",Goalkeeper,1993-03-10,32,Italy,,188,right,2023-07-13,,"AS Gubbio 1910",2026-06-30,300000,
+13617,46,2026-03-29T21:34:59.796155,315853,"Alessandro Bastoni",Centre-Back,1999-04-13,26,Italy,,190,left,2017-08-31,,"Atalanta BC",2028-06-30,70000000,
+13618,46,2026-03-29T21:34:59.796155,441986,"Yann Bisseck",Centre-Back,2000-11-29,25,"Germany, Cameroon",,196,right,2023-12-07,,"Aarhus GF",2029-06-30,40000000,
+13619,46,2026-03-29T21:34:59.796155,284730,"Manuel Akanji",Centre-Back,1995-07-19,30,"Switzerland, Nigeria",,188,right,2025-01-09,,"Manchester City",2026-06-30,18000000,
+13620,46,2026-03-29T21:34:59.796155,111196,"Stefan de Vrij",Centre-Back,1992-05-02,34,Netherlands,,189,right,2018-01-07,,": Ablöse free transfer",2026-06-30,3500000,
+13621,46,2026-03-29T21:34:59.796155,131075,"Francesco Acerbi",Centre-Back,1988-10-02,38,Italy,,192,left,2023-01-07,,"SS Lazio",2026-06-30,2500000,
+13622,46,2026-03-29T21:34:59.796155,198116,"Federico Dimarco",Left-Back,1997-10-11,28,Italy,,175,left,2018-05-07,,": Ablöse €5.00m",2027-06-30,50000000,
+13623,46,2026-03-29T21:34:59.796155,585982,"Carlos Augusto",Left-Back,1999-07-01,27,"Brazil, Italy",,184,left,2024-01-07,,"AC Monza",2028-06-30,26000000,"Yellow card suspension – Serie A – until 06/04/2026"
+13624,46,2026-03-29T21:34:59.796155,321528,"Denzel Dumfries",Right-Back,1996-04-18,29,"Netherlands, Aruba",,188,right,2021-08-14,,"PSV Eindhoven",2028-06-30,25000000,
+13625,46,2026-03-29T21:34:59.796155,54906,"Matteo Darmian",Right-Back,1989-02-12,36,Italy,,183,right,2021-01-07,,"Parma Calcio 1913",2026-06-30,1500000,
+13626,46,2026-03-29T21:34:59.796155,126414,"Hakan Çalhanoğlu","Defensive Midfield",1994-08-02,32,"Türkiye, Germany",,178,right,2021-01-07,,"AC Milan",2027-06-30,18000000,
+13627,46,2026-03-29T21:34:59.796155,255942,"Nicolò Barella","Central Midfield",1997-07-02,29,Italy,,175,right,2020-01-09,,"Cagliari Calcio",2029-06-30,50000000,
+13628,46,2026-03-29T21:34:59.796155,668207,"Petar Sučić","Central Midfield",2003-10-25,22,"Croatia, Bosnia-Herzegovina",,183,right,2025-01-06,,"GNK Dinamo Zagreb",2030-06-30,30000000,
+13629,46,2026-03-29T21:34:59.796155,394300,"Davide Frattesi","Central Midfield",1999-09-22,26,Italy,,178,right,2024-01-07,,"US Sassuolo",2028-06-30,22000000,
+13630,46,2026-03-29T21:34:59.796155,711976,"Andy Diouf","Central Midfield",2003-05-17,22,"France, Senegal",,187,left,2025-08-22,,"RC Lens",2030-06-30,18000000,
+13631,46,2026-03-29T21:34:59.796155,181136,"Piotr Zieliński","Central Midfield",1994-05-20,31,"Poland, Italy",,180,both,2024-01-07,,"SSC Napoli",2028-06-30,10000000,
+13632,46,2026-03-29T21:34:59.796155,55735,"Henrikh Mkhitaryan","Central Midfield",1989-01-21,37,Armenia,,177,both,2022-01-07,,"AS Roma",2026-06-30,3500000,"Muscle injury - Return expected on 04/04/2026"
+13633,46,2026-03-29T21:34:59.796155,691316,"Luis Henrique","Right Midfield",2001-12-14,24,Brazil,,181,right,2025-07-06,,"Olympique Marseille",2030-06-30,23000000,
+13634,46,2026-03-29T21:34:59.796155,406625,"Lautaro Martínez",Centre-Forward,1997-08-22,28,Argentina,,174,right,2018-04-07,,"Racing Club",2029-06-30,85000000,"Team captain; Muscle injury - Return unknown"
+13635,46,2026-03-29T21:34:59.796155,318528,"Marcus Thuram",Centre-Forward,1997-06-08,28,"France, Guadeloupe",,192,right,2023-01-07,,"Borussia Mönchengladbach",2028-06-30,50000000,
+13636,46,2026-03-29T21:34:59.796155,930781,"Pio Esposito",Centre-Forward,2005-06-28,20,Italy,,191,right,2023-01-07,,"Inter Milan Primavera",2030-06-30,45000000,
+13637,46,2026-03-29T21:34:59.796155,827734,"Ange-Yoan Bonny",Centre-Forward,2003-10-25,22,"Cote d'Ivoire, France",,189,right,2025-05-07,,"Parma Calcio 1913",2030-06-30,35000000,
+13638,5,2026-03-29T21:34:59.806832,182906,"Mike Maignan",Goalkeeper,1995-03-07,30,"France, French Guiana",,191,right,2021-01-07,,"LOSC Lille",2031-06-30,25000000,"Team captain"
+13639,5,2026-03-29T21:34:59.806832,96254,"Pietro Terracciano",Goalkeeper,1990-08-03,36,Italy,,193,right,2025-07-18,,"ACF Fiorentina",2026-06-30,1000000,
+13640,5,2026-03-29T21:34:59.806832,939745,"Lorenzo Torriani",Goalkeeper,2005-01-31,21,Italy,,197,right,2024-01-07,,"AC Milan Primavera",2030-06-30,500000,
+13641,5,2026-03-29T21:34:59.806832,574671,"Strahinja Pavlović",Centre-Back,2001-05-24,24,Serbia,,194,left,2024-07-31,,"Red Bull Salzburg",2028-06-30,35000000,
+13642,5,2026-03-29T21:34:59.806832,490384,"Koni De Winter",Centre-Back,2002-12-06,23,"Belgium, DR Congo",,191,right,2025-08-13,,"Genoa CFC",2030-06-30,23000000,
+13643,5,2026-03-29T21:34:59.806832,303254,"Fikayo Tomori",Centre-Back,1997-12-19,28,"England, Canada",,185,right,2021-01-07,,"Chelsea FC",2027-06-30,20000000,
+13644,5,2026-03-29T21:34:59.806832,323167,"Matteo Gabbia",Centre-Back,1999-10-21,26,Italy,,185,right,2017-01-07,,"Milan Primavera",2029-06-30,20000000,"Inguinal hernia - Return expected on 03/04/2026"
+13645,5,2026-03-29T21:34:59.806832,897423,"David Odogu",Centre-Back,2006-03-06,19,"Germany, Nigeria",,191,right,2025-01-09,,"VfL Wolfsburg",2029-06-30,5000000,
+13646,5,2026-03-29T21:34:59.806832,887638,"Davide Bartesaghi",Left-Back,2005-12-29,20,Italy,,193,left,2025-01-07,,"Milan Futuro",2030-06-30,23000000,
+13647,5,2026-03-29T21:34:59.806832,349599,"Pervis Estupiñán",Left-Back,1998-01-21,28,"Ecuador, Spain",,175,left,2025-07-24,,"Brighton & Hove Albion",2030-06-30,14000000,
+13648,5,2026-03-29T21:34:59.806832,990637,"Zachary Athekame",Right-Back,2004-12-13,21,"Switzerland, Nigeria",,181,right,2025-08-15,,"BSC Young Boys",2030-06-30,10000000,
+13649,5,2026-03-29T21:34:59.806832,608172,"Ardon Jashari","Defensive Midfield",2002-07-30,23,"Switzerland, North Macedonia",,181,left,2025-06-08,,"Club Brugge KV",2030-06-30,30000000,
+13650,5,2026-03-29T21:34:59.806832,467992,"Samuele Ricci","Defensive Midfield",2001-08-21,24,Italy,,181,right,2025-03-07,,"Torino FC",2029-06-30,25000000,
+13651,5,2026-03-29T21:34:59.806832,569598,"Youssouf Fofana","Defensive Midfield",1999-10-01,27,"France, Mali",,185,right,2024-08-17,,"AS Monaco",2028-06-30,25000000,
+13652,5,2026-03-29T21:34:59.806832,182913,"Adrien Rabiot","Central Midfield",1995-03-04,30,France,,191,left,2025-01-09,,"Olympique Marseille",2028-06-30,20000000,
+13653,5,2026-03-29T21:34:59.806832,202886,"Ruben Loftus-Cheek","Central Midfield",1996-01-23,30,"England, Guyana",,191,right,2023-01-07,,"Chelsea FC",2027-06-30,10000000,"Broken jaw - Return expected on 25/04/2026"
+13654,5,2026-03-29T21:34:59.806832,27992,"Luka Modrić","Central Midfield",1985-09-09,40,Croatia,,172,right,2025-07-14,,"Real Madrid",2026-06-30,4000000,
+13655,5,2026-03-29T21:34:59.806832,381950,"Alexis Saelemaekers","Right Midfield",1999-06-27,26,Belgium,,180,right,2020-01-09,,": Ablöse €7.65m",2031-06-30,25000000,
+13656,5,2026-03-29T21:34:59.806832,357164,"Rafael Leão","Left Winger",1999-10-06,26,"Portugal, Angola",,188,right,2019-01-08,,"LOSC Lille",2028-06-30,65000000,"Adductor pain - Return unknown"
+13657,5,2026-03-29T21:34:59.806832,315779,"Christian Pulisic","Right Winger",1998-09-18,27,"United States, Croatia",,177,right,2023-07-13,,"Chelsea FC",2027-06-30,50000000,
+13658,5,2026-03-29T21:34:59.806832,344381,"Christopher Nkunku",Centre-Forward,1997-11-14,28,"France, DR Congo",,177,right,2025-08-30,,"Chelsea FC",2030-06-30,28000000,
+13659,5,2026-03-29T21:34:59.806832,552955,"Santiago Gimenez",Centre-Forward,2001-04-18,24,"Mexico, Italy",,183,left,2025-03-02,,"Feyenoord Rotterdam",2029-06-30,20000000,
+13660,5,2026-03-29T21:34:59.806832,75489,"Niclas Füllkrug",Centre-Forward,1993-09-02,33,Germany,,189,right,2026-02-01,,"West Ham United",2026-06-30,5000000,
+13661,506,2026-03-29T21:34:59.812408,301238,"Michele Di Gregorio",Goalkeeper,1997-07-27,28,Italy,,187,right,2025-01-07,,"AC Monza",2029-06-30,14000000,
+13662,506,2026-03-29T21:34:59.812408,110923,"Mattia Perin",Goalkeeper,1992-10-11,33,Italy,,188,right,2018-01-07,,": Ablöse €16.30m",2027-06-30,2000000,
+13663,506,2026-03-29T21:34:59.812408,75411,"Carlo Pinsoglio",Goalkeeper,1990-03-16,36,Italy,,194,left,2014-01-07,,": Ablöse €800k",2027-06-30,200000,
+13664,506,2026-03-29T21:34:59.812408,516716,Bremer,Centre-Back,1997-03-18,29,Brazil,,188,right,2022-07-20,,"Torino FC",2029-06-30,35000000,
+13665,506,2026-03-29T21:34:59.812408,585949,"Pierre Kalulu",Centre-Back,2000-05-06,25,"France, DR Congo",,182,right,2025-01-07,,"AC Milan",2029-06-30,32000000,
+13666,506,2026-03-29T21:34:59.812408,480116,"Lloyd Kelly",Centre-Back,1998-06-10,27,"England, Jamaica",,189,left,2025-01-07,,"Newcastle United",2029-06-30,20000000,
+13667,506,2026-03-29T21:34:59.812408,509022,"Federico Gatti",Centre-Back,1998-06-24,27,Italy,,190,right,2022-01-31,,"Frosinone Calcio",2030-06-30,16000000,
+13668,506,2026-03-29T21:34:59.812408,459658,"Andrea Cambiaso",Left-Back,2000-02-20,26,Italy,,182,both,2022-07-14,,"Genoa CFC",2029-06-30,30000000,
+13669,506,2026-03-29T21:34:59.812408,686965,"Juan Cabal",Left-Back,2001-08-01,25,Colombia,,186,left,2024-07-18,,"Hellas Verona",2029-06-30,9000000,
+13670,506,2026-03-29T21:34:59.812408,496745,"Emil Holm",Right-Back,2000-05-13,25,Sweden,,191,right,2026-02-02,,"Bologna FC 1909",2026-06-30,13000000,
+13671,506,2026-03-29T21:34:59.812408,265088,"Manuel Locatelli","Defensive Midfield",1998-08-01,28,Italy,,185,right,2023-01-07,,"US Sassuolo",2028-06-30,25000000,"Team captain"
+13672,506,2026-03-29T21:34:59.812408,463618,"Khéphren Thuram","Central Midfield",2001-03-26,25,"France, Guadeloupe",,192,right,2024-10-07,,"OGC Nice",2029-06-30,40000000,
+13673,506,2026-03-29T21:34:59.812408,332697,"Weston McKennie","Central Midfield",1998-08-28,27,"United States",,185,right,2021-01-07,,"FC Schalke 04",2030-06-30,30000000,
+13674,506,2026-03-29T21:34:59.812408,571607,"Fabio Miretti","Central Midfield",2003-03-08,22,Italy,,180,right,2022-01-07,,"Juventus Next Gen",2028-06-30,16000000,
+13675,506,2026-03-29T21:34:59.812408,161011,"Filip Kostić","Left Midfield",1992-01-11,33,Serbia,,184,left,2022-12-08,,"Eintracht Frankfurt",2026-06-30,3500000,
+13676,506,2026-03-29T21:34:59.812408,360518,"Teun Koopmeiners","Attacking Midfield",1998-02-28,28,Netherlands,,184,left,2024-08-28,,"Atalanta BC",2029-06-30,20000000,
+13677,506,2026-03-29T21:34:59.812408,944570,"Vasilije Adžić","Attacking Midfield",2006-12-05,19,Montenegro,,185,right,2024-01-07,,"Buducnost Podgorica",2029-06-30,8000000,
+13678,506,2026-03-29T21:34:59.812408,845654,"Kenan Yıldız","Left Winger",2005-04-05,20,"Türkiye, Germany",,187,both,2023-07-11,,"Juventus Next Gen",2030-06-30,75000000,
+13679,506,2026-03-29T21:34:59.812408,216569,"Jérémie Boga","Left Winger",1997-03-01,29,"Cote d'Ivoire, France",,172,right,2026-01-02,,"OGC Nice",2026-06-30,8000000,
+13680,506,2026-03-29T21:34:59.812408,487474,"Francisco Conceição","Right Winger",2002-12-14,23,Portugal,,170,left,2025-07-22,,"FC Porto",2030-06-30,30000000,
+13681,506,2026-03-29T21:34:59.812408,496857,"Edon Zhegrova","Right Winger",1999-03-31,26,"Kosovo, Albania",,180,left,2025-01-09,,"LOSC Lille",2030-06-30,14000000,
+13682,506,2026-03-29T21:34:59.812408,357498,"Dušan Vlahović",Centre-Forward,2000-01-28,26,Serbia,,190,left,2022-01-28,,": Ablöse €85.40m",2026-06-30,35000000,
+13683,506,2026-03-29T21:34:59.812408,533738,"Jonathan David",Centre-Forward,2000-01-14,26,"Canada, United States",,178,both,2025-04-07,,"LOSC Lille",2030-06-30,35000000,
+13684,506,2026-03-29T21:34:59.812408,368887,"Loïs Openda",Centre-Forward,2000-02-16,26,"Belgium, Morocco",,177,right,2025-01-09,,"RB Leipzig",2026-06-30,32000000,
+13685,506,2026-03-29T21:34:59.812408,191891,"Arkadiusz Milik",Centre-Forward,1994-02-28,32,Poland,,186,left,2023-01-07,,"Olympique Marseille",2027-06-30,1500000,
+13686,6195,2026-03-29T21:34:59.869175,257474,"Vanja Milinković-Savić",Goalkeeper,1997-02-20,29,"Serbia, Spain",,202,right,2025-07-26,,"Torino FC",2026-06-30,20000000,
+13687,6195,2026-03-29T21:34:59.869175,240414,"Alex Meret",Goalkeeper,1997-03-22,29,Italy,,190,left,2019-01-07,,"Udinese Calcio",2027-06-30,14000000,
+13688,6195,2026-03-29T21:34:59.869175,250683,"Nikita Contini",Goalkeeper,1996-05-21,29,"Italy, Ukraine",,190,right,2015-01-07,,": Ablöse -",2031-06-30,400000,
+13689,6195,2026-03-29T21:34:59.869175,1195798,"Mathias Ferrante",Goalkeeper,2006-01-09,19,Italy,,202,left,2025-07-16,,"SSD NovaRomentin",2030-06-30,200000,
+13690,6195,2026-03-29T21:34:59.869175,386446,"Alessandro Buongiorno",Centre-Back,1999-06-06,26,Italy,,190,left,2024-07-13,,"Torino FC",2029-06-30,35000000,
+13691,6195,2026-03-29T21:34:59.869175,433984,"Sam Beukema",Centre-Back,1998-11-17,27,Netherlands,,188,right,2025-07-20,,"Bologna FC 1909",2030-06-30,25000000,
+13692,6195,2026-03-29T21:34:59.869175,257732,"Amir Rrahmani",Centre-Back,1994-02-24,32,"Kosovo, Albania",,192,right,2020-01-20,,": Ablöse €15.30m",2027-06-30,12000000,"Hamstring muscle injury - Return expected on 25/05/2026"
+13693,6195,2026-03-29T21:34:59.869175,121985,"Juan Jesus",Centre-Back,1991-10-06,34,"Brazil, Italy",,185,left,2021-08-18,,"AS Roma",2026-06-30,1500000,
+13694,6195,2026-03-29T21:34:59.869175,525299,"Miguel Gutiérrez",Left-Back,2001-07-27,24,Spain,,180,left,2025-08-19,,"Girona FC",2030-06-30,17000000,
+13695,6195,2026-03-29T21:34:59.869175,376514,"Mathías Olivera",Left-Back,1997-10-31,28,"Uruguay, Spain",,185,left,2022-01-07,,"Getafe CF",2030-06-30,15000000,
+13696,6195,2026-03-29T21:34:59.869175,118689,"Leonardo Spinazzola",Left-Back,1993-03-25,33,Italy,,186,right,2024-10-07,,"AS Roma",2026-06-30,3500000,
+13697,6195,2026-03-29T21:34:59.869175,169880,"Giovanni Di Lorenzo",Right-Back,1993-04-08,32,Italy,,183,right,2019-01-07,,": Ablöse €9.80m",2028-06-30,10000000,"Team captain; Knee injury - Return expected on 30/04/2026"
+13698,6195,2026-03-29T21:34:59.869175,250153,"Pasquale Mazzocchi",Right-Back,1995-07-27,30,Italy,,183,right,2024-05-01,,"US Salernitana 1919",2027-06-30,1700000,
+13699,6195,2026-03-29T21:34:59.869175,423744,"Billy Gilmour","Defensive Midfield",2001-11-06,24,Scotland,,170,right,2024-08-30,,"Brighton & Hove Albion",2029-06-30,20000000,
+13700,6195,2026-03-29T21:34:59.869175,192735,"Stanislav Lobotka","Defensive Midfield",1994-11-25,31,Slovakia,,168,right,2020-01-15,,"Celta de Vigo",2027-06-30,15000000,
+13701,6195,2026-03-29T21:34:59.869175,315969,"Scott McTominay","Central Midfield",1996-08-12,29,"Scotland, England",,191,right,2024-08-30,,"Manchester United",2028-06-30,45000000,
+13702,6195,2026-03-29T21:34:59.869175,354361,"Frank Anguissa","Central Midfield",1995-11-16,30,Cameroon,,184,right,2022-01-07,,"Fulham FC",2027-06-30,20000000,
+13703,6195,2026-03-29T21:34:59.869175,703245,"Antonio Vergara","Attacking Midfield",2003-01-16,23,Italy,,182,left,2022-01-07,,": Ablöse -",2030-06-30,15000000,"Partial tear of the plantar fascia - Return expected on 06/04/2026"
+13704,6195,2026-03-29T21:34:59.869175,400489,"Eljif Elmas","Attacking Midfield",1999-09-24,26,"North Macedonia",,184,right,2025-01-09,,"RB Leipzig",2026-06-30,14000000,
+13705,6195,2026-03-29T21:34:59.869175,88755,"Kevin De Bruyne","Attacking Midfield",1991-06-28,34,"Belgium, Burundi",,181,right,2025-01-07,,"Manchester City",2027-06-30,10000000,
+13706,6195,2026-03-29T21:34:59.869175,830365,"Alisson Santos","Left Winger",2002-09-27,23,"Brazil, Tunisia",,177,right,2026-02-02,,"Sporting CP",2026-06-30,13000000,
+13707,6195,2026-03-29T21:34:59.869175,469822,"David Neres","Right Winger",1997-03-03,29,Brazil,,176,left,2024-08-21,,"SL Benfica",2028-06-30,28000000,"Ankle surgery - Return expected on 04/04/2026"
+13708,6195,2026-03-29T21:34:59.869175,165895,"Matteo Politano","Right Winger",1993-03-08,32,Italy,,171,left,2021-01-07,,"Inter Milan",2028-06-30,8000000,
+13709,6195,2026-03-29T21:34:59.869175,610442,"Rasmus Højlund",Centre-Forward,2003-04-02,23,Denmark,,191,left,2025-01-09,,"Manchester United",2026-06-30,50000000,
+13710,6195,2026-03-29T21:34:59.869175,96341,"Romelu Lukaku",Centre-Forward,1993-05-13,32,"Belgium, DR Congo",,191,left,2024-08-29,,"Chelsea FC",2027-06-30,12000000,
+13711,6195,2026-03-29T21:34:59.869175,1005165,Giovane,Centre-Forward,2003-11-24,22,Brazil,,184,left,2026-01-24,,"Hellas Verona",2030-06-30,12000000,
+13712,430,2026-03-29T21:35:02.007503,59377,"David de Gea",Goalkeeper,1990-07-11,35,Spain,,192,right,2024-09-08,,"Without Club",2028-06-30,3500000,"Team captain"
+13713,430,2026-03-29T21:35:02.007503,471936,"Oliver Christensen",Goalkeeper,1999-03-22,27,Denmark,,190,right,2023-10-08,,"Hertha BSC",2028-06-30,1500000,
+14252,31,2026-03-29T21:35:10.904201,1108466,"Rio Ngumoha","Left Winger",2008-08-29,17,"England, Nigeria",,170,right,2025-01-07,,"Liverpool FC U18",2028-06-30,20000000,
+13714,430,2026-03-29T21:35:02.007503,135747,"Luca Lezzerini",Goalkeeper,1995-03-24,31,Italy,,195,right,2025-01-08,,"Brescia Calcio (- 2025)",2026-06-30,350000,"Hamstring injury - Return expected on 30/03/2026"
+13715,430,2026-03-29T21:35:02.007503,746712,"Pietro Comuzzo",Centre-Back,2005-02-20,21,Italy,,188,right,2023-01-07,,"Fiorentina Primavera",2029-06-30,23000000,
+13716,430,2026-03-29T21:35:02.007503,282144,"Marin Pongracic",Centre-Back,1997-11-09,28,"Croatia, Germany",,193,right,2024-07-19,,"US Lecce",2029-06-30,7500000,
+13717,430,2026-03-29T21:35:02.007503,346561,"Luca Ranieri",Centre-Back,1999-04-23,26,Italy,,187,left,2018-01-07,,": Ablöse -",2028-06-30,7000000,
+13718,430,2026-03-29T21:35:02.007503,957822,"Eddy Kouadio",Centre-Back,2006-07-05,19,"Italy, Cote d'Ivoire",,191,right,2025-01-07,,"Fiorentina Primavera",2030-06-30,2500000,
+13719,430,2026-03-29T21:35:02.007503,162959,"Daniele Rugani",Centre-Back,1994-07-29,31,Italy,,190,right,2026-02-02,,"Juventus FC",2026-06-30,2000000,
+13720,430,2026-03-29T21:35:02.007503,1015822,"Eman Košpo",Centre-Back,2007-05-17,18,"Bosnia-Herzegovina, Switzerland",,191,right,2025-07-15,,"FC Barcelona U19",2030-06-30,1500000,
+13721,430,2026-03-29T21:35:02.007503,984964,"Niccolò Fortini",Left-Back,2006-02-13,20,Italy,,185,right,2024-01-07,,"Fiorentina Primavera",2027-06-30,10000000,
+13722,430,2026-03-29T21:35:02.007503,547985,"Fabiano Parisi",Left-Back,2000-09-11,25,Italy,,178,left,2023-07-14,,"FC Empoli",2029-06-30,6000000,
+13723,430,2026-03-29T21:35:02.007503,273132,"Robin Gosens",Left-Back,1994-05-07,31,"Germany, Netherlands",,183,left,2025-01-07,,"1.FC Union Berlin",2028-06-30,4500000,
+13724,430,2026-03-29T21:35:02.007503,1012731,"Luis Balbo",Left-Back,2006-03-28,20,"Venezuela, Portugal",,177,left,2026-01-15,,"Fiorentina Primavera",2028-06-30,500000,
+13725,430,2026-03-29T21:35:02.007503,401529,Dodô,Right-Back,1998-11-17,27,Brazil,,166,right,2022-07-22,,"Shakhtar Donetsk",2027-06-30,18000000,
+13726,430,2026-03-29T21:35:02.007503,504148,"Tariq Lamptey",Right-Back,2000-09-30,25,"Ghana, England",,163,right,2025-01-09,,"Brighton & Hove Albion",2028-06-30,5000000,"Cruciate ligament surgery - Return expected on 31/03/2026"
+13727,430,2026-03-29T21:35:02.007503,308279,"Rolando Mandragora","Defensive Midfield",1997-06-29,28,Italy,,183,left,2022-04-07,,"Juventus FC",2028-06-30,10000000,"Calf problems - Return unknown"
+13728,430,2026-03-29T21:35:02.007503,432090,"Nicolò Fagioli","Central Midfield",2001-12-02,25,Italy,,178,right,2025-01-07,,"Juventus FC",2028-06-30,16000000,
+13729,430,2026-03-29T21:35:02.007503,651005,"Cher Ndour","Central Midfield",2004-07-27,21,"Italy, Senegal",,190,right,2025-03-02,,"Paris Saint-Germain",2029-06-30,10000000,
+13730,430,2026-03-29T21:35:02.007503,459128,"Marco Brescianini","Central Midfield",2000-01-20,26,Italy,,188,left,2026-09-01,,"Atalanta BC",2026-06-30,9000000,
+13731,430,2026-03-29T21:35:02.007503,691482,"Jacopo Fazzini","Central Midfield",2003-03-16,23,Italy,,178,right,2025-01-07,,"FC Empoli",2030-06-30,9000000,
+13732,430,2026-03-29T21:35:02.007503,633668,"Giovanni Fabbian","Attacking Midfield",2003-01-14,23,Italy,,190,right,2026-01-21,,"Bologna FC 1909",2026-06-30,10000000,
+13733,430,2026-03-29T21:35:02.007503,340394,"Abdelhamid Sabiri","Attacking Midfield",1996-11-28,29,"Morocco, Germany",,186,right,2023-01-30,,"UC Sampdoria",2026-06-30,1000000,
+13734,430,2026-03-29T21:35:02.007503,396638,"Manor Solomon","Left Winger",1999-07-24,26,"Israel, Portugal",,170,right,2026-02-01,,"Tottenham Hotspur",2026-06-30,9000000,"Thigh problems - Return expected on 13/04/2026"
+13735,430,2026-03-29T21:35:02.007503,417346,"Jack Harrison","Left Winger",1996-11-20,29,England,,175,left,2026-01-19,,"Leeds United",2026-06-30,8000000,
+13736,430,2026-03-29T21:35:02.007503,305947,"Albert Gudmundsson","Second Striker",1997-06-15,28,Iceland,,177,right,2025-01-07,,"Genoa CFC",2029-06-30,13000000,
+13737,430,2026-03-29T21:35:02.007503,364135,"Moise Kean",Centre-Forward,2000-02-28,26,"Italy, Cote d'Ivoire",,183,right,2024-09-07,,"Juventus FC",2029-06-30,40000000,
+13738,430,2026-03-29T21:35:02.007503,432092,"Roberto Piccoli",Centre-Forward,2001-01-27,25,Italy,,190,right,2025-08-25,,"Cagliari Calcio",2030-06-30,16000000,
+13739,800,2026-03-29T21:35:02.454496,459763,"Marco Carnesecchi",Goalkeeper,2000-01-07,25,Italy,,191,right,2019-01-07,,"Atalanta Primavera",2028-06-30,25000000,
+13740,800,2026-03-29T21:35:02.454496,199976,"Marco Sportiello",Goalkeeper,1992-10-05,33,Italy,,192,right,2025-07-18,,"AC Milan",2028-06-30,1000000,
+13741,800,2026-03-29T21:35:02.454496,126634,"Francesco Rossi",Goalkeeper,1991-04-27,34,Italy,,193,right,2009-01-08,,"Atalanta Primavera",2026-06-30,100000,

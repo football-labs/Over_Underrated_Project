@@ -1,0 +1,1001 @@
+player_id,name,national_team,is_international
+201690,"Lewis Dunk",England,t
+207236,"Granit Xhaka",Switzerland,t
+268375,"Emiliano Mart\\u00ednez",Argentina,t
+488139,"Bernardo Silva",Portugal,t
+503659,"Joachim Andersen",Denmark,t
+540088,"Ollie Watkins",England,t
+540963,"Sander Berge",Norway,t
+717174,"Joe Rodon",Wales,t
+751998,"Omar Alderete",Paraguay,t
+789646,"Jayden Bogle","England U20",f
+796974,"Pascal Struijk",Netherlands,t
+950829,"Chris Richards",USA,t
+955529,"Matheus Nunes",Portugal,t
+1049999,"Enzo Le F\\u00e9e","France U23",f
+1137668,"Mois\\u00e9s Caicedo",Ecuador,t
+1174672,"Jo\\u00e3o Gomes",Brazil,t
+1178602,"Senne Lammens",Belgium,t
+1233655,"Alex Scott",England,t
+1250443,"Maxime Est\\u00e8ve","France U21",f
+1359649,"Noah Sadiki","DR Congo",t
+181069,"Matz Sels",Belgium,t
+494417,"Harry Wilson",Wales,t
+538501,"Guglielmo Vicario",Italy,t
+602304,"Nordi Mukiele",France,t
+612150,"Dominic Calvert-Lewin",England,t
+789630,"Marcus Tavernier","England U20",f
+793907,"Trevoh Chalobah",England,t
+795179,Gabriel,Brazil,t
+806552,"Cody Gakpo",Netherlands,t
+873289,"Marc Cucurella",Spain,t
+919435,"Sepp van den Berg","Netherlands U21",f
+941573,"Pedro Porro",Spain,t
+965764,"Iliman Ndiaye",Senegal,t
+1021382,"Jo\\u00e3o Pedro",Brazil,t
+1083796,"Kevin Schade",Germany,t
+1098096,Evanilson,Brazil,t
+1157236,"Yehor Yarmoliuk",Ukraine,t
+1171140,"Jaidon Anthony",,f
+1174296,"Andr\\u00e9",Brazil,t
+1451265,"Malick Diouf",Senegal,t
+208494,Casemiro,Brazil,t
+290410,"Michael Keane",England,t
+719219,"Konstantinos Mavropanos",Greece,t
+744494,"Gabriel Gudmundsson",Sweden,t
+751550,"Diogo Dalot",Portugal,t
+831489,"Alexis Mac Allister",Argentina,t
+843040,"Pedro Neto",Portugal,t
+848034,"Santiago Bueno",Uruguay,t
+850354,"Bruno Guimar\\u00e3es",Brazil,t
+863098,"Matheus Cunha",Brazil,t
+867414,"Sandro Tonali",Italy,t
+877401,"Calvin Bassey",Nigeria,t
+886016,"Kiernan Dewsbury-Hall",,f
+923312,"Bryan Mbeumo",Cameroon,t
+941213,"Crysencio Summerville",Netherlands,t
+942381,"Jurri\\u00ebn Timber",Netherlands,t
+952322,"Brenden Aaronson",USA,t
+955406,"William Saliba",France,t
+1296650,"Adam Wharton",England,t
+1300526,"Nico O'Reilly",England,t
+113836,"Danny Welbeck",England,t
+280484,"Nick Pope",England,t
+319784,"Alisson Becker",Brazil,t
+604785,"Alex Iwobi",Nigeria,t
+650616,"Mathias Jensen",Denmark,t
+664500,"Viktor Gy\\u00f6keres",Sweden,t
+798029,"Ladislav Krejc\\u00ed",Czechia,t
+821100,"J\\u00f8rgen Strand Larsen",Norway,t
+859282,"Daniel Mu\\u00f1oz",Colombia,t
+881735,"Anton Stach",Germany,t
+1070052,"Amad Diallo","Ivory Coast",t
+1082102,"Igor Jesus",Brazil,t
+1116391,"Hugo Bueno","Spain U21",f
+1152455,"Florian Wirtz",Germany,t
+1195281,"Milos Kerkez",Hungary,t
+1197250,"Malo Gusto",France,t
+1200631,"Lesley Ugochukwu","France U21",f
+1250253,"Dango Ouattara","Burkina Faso",t
+1400227,"Yankuba Minteh",Gambia,t
+1526689,"\\u00c1lex Jim\\u00e9nez","Spain U21",f
+179410,"Idrissa Gana Gueye",Senegal,t
+188058,"Daniel Burn",England,t
+292313,"Raul Jim\\u00e9nez",Mexico,t
+292462,"Mohamed Salah",Egypt,t
+356406,"John McGinn",Scotland,t
+524434,"Jo\\u00e3o Palhinha",Portugal,t
+524437,"Tom\\u00e1s Soucek",Czechia,t
+614006,"R\\u00faben Dias",Portugal,t
+706297,"Jean-Philippe Mateta",France,t
+771294,"Isma\\u00efla Sarr",Senegal,t
+793255,Florentino,"Portugal U20",f
+815006,"Phil Foden",England,t
+959407,"James Hill","England U21",f
+961995,"Bukayo Saka",England,t
+974268,"Daniel Ballard","Northern Ireland",t
+1047676,"Y\\u00e9remi Pino",Spain,t
+1197655,"Lewis Hall",England,t
+1200657,"Yerson Mosquera",Colombia,t
+1354561,"Diego G\\u00f3mez",Paraguay,t
+1458711,Murillo,Brazil,t
+156008,"Jordan Henderson",England,t
+163604,"Karl Darlow",Wales,t
+318615,"Leandro Trossard",Belgium,t
+416175,"Jos\\u00e9 S\\u00e1",Portugal,t
+535936,Joelinton,Brazil,t
+600524,Reinildo,Mozambique,t
+654908,Richarlison,Brazil,t
+760320,"Aaron Wan-Bissaka","DR Congo",t
+760359,"Harvey Barnes",England,t
+795371,"Ibrahim Sangar\\u00e9","Ivory Coast",t
+807729,"Reece James",England,t
+888912,"Mikkel Damsgaard",Denmark,t
+889534,"Emile Smith Rowe",England,t
+894803,"Djed Spence",England,t
+933768,"Curtis Jones",England,t
+940446,"Brian Brobbey",Netherlands,t
+1010426,"Keane Lewis-Potter","England U21",f
+1096353,"Cole Palmer",England,t
+1168311,"Yasin Ayari",Sweden,t
+1398392,"Thierno Barry","France U21",f
+210111,"Lucas Digne",France,t
+465750,"Timothy Castagne",Belgium,t
+465960,"Youri Tielemans",Belgium,t
+552718,"Kristoffer Ajer",Norway,t
+620618,"Rodrigo Bentancur",Uruguay,t
+621515,"Daichi Kamada",Japan,t
+710158,"James Justin",England,t
+773991,"Ryan Sessegnon","England U21",f
+789066,"Cristian Romero",Argentina,t
+818975,"Eberechi Eze",England,t
+846383,"Callum Hudson-Odoi",England,t
+861805,"Jaka Bijol",Slovenia,t
+906937,"Anthony Gordon",England,t
+955214,"Jean-Clair Todibo",France,t
+956682,"Sven Botman",Netherlands,t
+970243,"Mats Wieffer",Netherlands,t
+1106563,"Nick Woltemade",Germany,t
+1197030,"Hugo Ekitik\\u00e9",France,t
+1210943,"Jackson Tchatchoua",Cameroon,t
+1393669,"Quilindschy Hartman",Netherlands,t
+210164,"Alphonse Areola",France,t
+466672,"Jefferson Lerma",Colombia,t
+469804,"Kenny Tete",Netherlands,t
+523193,"Josh Laurent",,f
+556972,"Sasa Lukic",Serbia,t
+610184,"Emiliano Buend\\u00eda",Argentina,t
+729769,"Tyler Adams",USA,t
+862608,"Kaoru Mitoma",Japan,t
+873559,"Zian Flemming",,f
+917802,"Wesley Fofana",France,t
+942368,"J\\u00e9r\\u00e9my Doku",Belgium,t
+956925,"Georginio Rutter","France U21",f
+1076756,"Brennan Johnson",Wales,t
+1104053,"Rayan Cherki",France,t
+1137667,"Piero Hincapi\\u00e9",Ecuador,t
+1173787,"Xavi Simons",Netherlands,t
+1185748,"Amadou Onana",Belgium,t
+1251334,"Jack Hinshelwood","England Under 18",t
+1358581,"Leny Yoro","France U21",f
+1609213,"Mateus Man\\u00e9","England Under 18",t
+167008,"Pascal Gro\\u00df",Germany,t
+191869,"Kieran Trippier",England,t
+255610,"Harry Maguire",England,t
+295067,"Will Hughes","England U21",f
+312765,"Jack Grealish",England,t
+521148,"Jacob Murphy","England U21",f
+682548,"Ola Aina",Nigeria,t
+792645,"Pau Torres",Spain,t
+823825,"Randal Kolo Muani",France,t
+868344,"Tijjani Reijnders",Netherlands,t
+881640,"Lutsharel Geertruida",Netherlands,t
+966026,"Ian Maatsen",Netherlands,t
+967941,"Mads Hermansen",Denmark,t
+1073977,"Benjamin Sesko",Slovenia,t
+1105912,"Riccardo Calafiori",Italy,t
+1215652,"Omari Hutchinson",Jamaica,t
+1238058,"Bashir Humphreys","England Under 16",t
+1292810,"Kobbie Mainoo",England,t
+1352713,"Carlos Baleba",Cameroon,t
+1460534,"Junior Kroupi","France U21",f
+620026,"Hee-Chan Hwang","South Korea",t
+623716,"Josh Cullen",Ireland,t
+637656,"Lucas Perri",Brazil,t
+662428,"Antonee Robinson",USA,t
+675088,Rodri,Spain,t
+688273,"Vitaly Janelt","Germany U21",f
+754126,"Kevin Danso",Austria,t
+766435,"Lucas Paquet\\u00e1",Brazil,t
+831044,"Hjalmar Ekdal",Sweden,t
+865931,"Max Kilman",,f
+891743,"Mohammed Kudus",Ghana,t
+915797,"Noah Okafor",Switzerland,t
+1021929,"Jacob Ramsey","England Under 18",t
+1079485,Beto,Guinea-Bissau,t
+1203512,"Tim Iroegbunam","England U20",f
+1280132,"Nico Gonz\\u00e1lez","Spain U21",f
+1296763,"Lewis Miley","England U21",f
+1323305,"Archie Gray","England Under 16",t
+1368654,"Chemsdine Talbi",Morocco,t
+1526560,"Patrick Dorgu",Denmark,t
+419664,"Tyrone Mings",England,t
+534670,"Martin \\u00d8degaard",Norway,t
+562892,"Rico Henry",Jamaica,t
+734042,"Kyle Walker-Peters",England,t
+816325,"Boubacar Kamara",France,t
+823658,"Valent\\u00edn Castellanos",Argentina,t
+881500,"Lyle Foster","South Africa",t
+1013277,"Toti Gomes",Portugal,t
+1052898,"Destiny Udogie",Italy,t
+1053838,Morato,,f
+1070712,"Josko Gvardiol",Croatia,t
+1072864,"Tolu Arokodare",Nigeria,t
+1107280,"Pape Sarr",Senegal,t
+1107910,"Valentino Livramento",England,t
+1134871,"Maxim De Cuyper",Belgium,t
+1285866,"Habib Diarra",Senegal,t
+1288111,"Mathys Tel","France U21",f
+1291325,"Lucas Pires",,f
+1362998,"Abdukodir Khusanov",Uzbekistan,t
+1664722,"Jaydee Canvot","France U21",f
+184321,"Callum Wilson",England,t
+357880,"Andrew Robertson",Scotland,t
+674014,"David Brooks",Wales,t
+690149,"Axel Tuanzebe","DR Congo",t
+696646,"Axel Disasi",France,t
+769166,"Jean-Ricner Bellegarde",Haiti,t
+827315,"Nicol\\u00e1s Dominguez",Argentina,t
+847983,"Lisandro Mart\\u00ednez",Argentina,t
+935728,"Ao Tanaka",Japan,t
+966027,"Conor Gallagher",England,t
+979752,"Bafod\\u00e9 Diakit\\u00e9","France U23",f
+1022649,"Dan Ndoye",Switzerland,t
+1050166,"Anthony Elanga",Sweden,t
+1080983,"Ilia Gruev",Bulgaria,t
+1084981,"Noni Madueke",England,t
+1113785,"Hannibal Mejbri",Tunisia,t
+1203665,"Alejandro Garnacho",Argentina,t
+1283034,"Loum Tchaouna","France U21",f
+1372921,"Andrey Santos",Brazil,t
+1422593,"Joshua King",England,t
+160447,"Adam Smith","England U21",f
+189982,"Fabian Sch\\u00e4r",Switzerland,t
+279490,"James Ward-Prowse",England,t
+280287,"Sam Johnstone",England,t
+304455,"Jo\\u00ebl Veltman",Netherlands,t
+519835,"Adam Armstrong","England U20",f
+637744,"Marcus Edwards","England U19",f
+688300,"Samuel Chukwueze",Nigeria,t
+769895,"Matthijs de Ligt",Netherlands,t
+861197,"Lukas Nmecha",Germany,t
+887703,"Wilson Isidor",Haiti,t
+939542,"Dwight McNeil","England U21",f
+1021586,"Gabriel Martinelli",Brazil,t
+1023030,"Jhon Arias",Colombia,t
+1079557,"Amine Adli",Morocco,t
+1113903,"Liam Delap","England Under 18",t
+1114979,"Emmanuel Agbadou","Ivory Coast",t
+1206287,"Freddie Potts",,f
+1413846,"Jorrel Hato",Netherlands,t
+1478295,Rayan,Brazil,t
+439369,"Ryan Christie",Scotland,t
+574645,"Mikel Merino",Spain,t
+591734,"Dominic Solanke",England,t
+655575,"Jacob Bruun Larsen",Denmark,t
+746395,"Aaron Ramsdale",England,t
+750032,"Mason Mount",England,t
+775539,"Noussair Mazraoui",Morocco,t
+820024,"Sean Longstaff",,f
+860975,"Joseph Willock","England U20",f
+933845,"Rayan A\\u00eft-Nouri",Algeria,t
+966018,"Jeremie Frimpong",Netherlands,t
+1049679,"David M\\u00f8ller Wolfe",Norway,t
+1113790,"Oscar Bobb",Norway,t
+1128945,"Rodrigo Muniz",,f
+1190033,"Lamare Bogarde","Netherlands Under 18",t
+1298907,"Cristhian Mosquera",Spain,t
+1318400,Kevin,"Brazil U20",f
+1341387,"Wilson Odobert","France U21",f
+1385894,"Soungoutou Magassa","France U23",f
+1622290,"Nicol\\u00f2 Savona",Italy,t
+169719,"Chris Wood","New Zealand",t
+215384,"Ross Barkley",England,t
+258269,"Victor Nilsson Lindel\\u00f6f",Sweden,t
+562724,"Lewis Cook",England,t
+786580,"Marshall Munetsi",Zimbabwe,t
+787350,"Douglas Luiz",Brazil,t
+794253,"Justin Kluivert",Netherlands,t
+821728,"Jorge Cuenca",Spain,t
+846381,"Jadon Sancho",England,t
+948800,"Giorgi Mamardashvili",Georgia,t
+1035614,"Manuel Ugarte",Uruguay,t
+1077975,"Armando Broja",Albania,t
+1087966,"Evann Guessand","Ivory Coast",t
+1113690,"Conor Bradley","Northern Ireland",t
+1174337,Savinho,Brazil,t
+1192166,"Rodrigo Gomes","Portugal Under 16",t
+1227326,Pablo,,f
+1386775,"Lucas Bergvall",Sweden,t
+1559639,"Ayden Heaven","England Under 18",t
+1580774,"Est\\u00eav\\u00e3o",Brazil,t
+38807,"James Milner",England,t
+182962,"Tom Cairney",Scotland,t
+239920,"Matt Doherty",Ireland,t
+417068,"Nathan Ak\\u00e9",Netherlands,t
+613715,"Olivier Boscagli","France U21",f
+683402,"Tosin Adarabioyo",,f
+690107,"Alexander Isak",Sweden,t
+696443,"Issa Diop",Morocco,t
+776151,"Ben White",England,t
+839204,"Omar Marmoush",Egypt,t
+1002039,"Aaron Hickey",Scotland,t
+1030829,"Jarrad Branthwaite",England,t
+1128965,"Charly Alcaraz",Argentina,t
+1210384,"Merlin R\\u00f6hl","Germany U21",f
+1258092,"William Osula",Denmark,t
+1327319,"Chris Rigg","England Under 18",t
+1336751,"Justin Devenny","Northern Ireland",t
+1391052,"Eliezer Mayenda","Spain U21",f
+1406436,"Myles Lewis-Skelly",England,t
+1430151,"Brajan Gruda",Germany,t
+157838,"Nathaniel Clyne",England,t
+195782,"Marco Bizot",Netherlands,t
+303059,"Bertrand Traor\\u00e9","Burkina Faso",t
+480253,"Luke O'Nien",,f
+568571,"Joseph Gomez",England,t
+660301,"Donyell Malen",Netherlands,t
+717176,"Daniel James",Wales,t
+724306,"Yves Bissouma",Mali,t
+749736,"Kai Havertz",Germany,t
+775614,"Ryan Yates",,f
+866967,"Altay Bayindir",Turkiye,t
+950830,"Joshua Zirkzee",Netherlands,t
+1079539,"Dilane Bakwa","France U21",f
+1187506,"Chadi Riad",Morocco,t
+1227012,"Simon Adingra","Ivory Coast",t
+1315319,"Ollie Scarles","England Under 18",t
+1341475,"Anton\\u00edn Kinsky",Czechia,t
+1400216,"Josh Acheampong","England Under 18",t
+1559637,"Harrison Armstrong","England Under 18",t
+1597668,"Rio Ngumoha",England,t
+263653,"John Stones",England,t
+276791,"Niclas F\\u00fcllkrug",Germany,t
+576165,"Gabriel Jesus",Brazil,t
+643717,"Taiwo Awoniyi",Nigeria,t
+666857,"Yoane Wissa","DR Congo",t
+671331,"Leon Bailey",Jamaica,t
+716687,"Joe Worrall","England Under 18",t
+749834,"John Victor",Brazil,t
+848667,"Angel Gomes",England,t
+860920,"Edward Nketiah",England,t
+922892,"Sebastiaan Bornauw",Belgium,t
+955376,"Beno\\u00eet Badiashile",France,t
+1010733,"Ki-Jana Hoever","Netherlands U21",f
+1107286,"Wilfried Gnonto",Italy,t
+1113692,"Jamie Gittens","England Under 18",t
+1123947,"Romaine Mundle",,f
+1203661,"Radu Dragusin",Romania,t
+1287010,"Nilson Angulo",Ecuador,t
+1288450,"Rico Lewis",England,t
+1391209,"Jair Cunha","Brazil U20",f
+189103,"Daniel Bentley",,f
+276729,"Stefan Ortega",Germany,t
+493647,"Adama Traor\\u00e9",Spain,t
+623621,"Oleksandr Zinchenko",Ukraine,t
+711357,"Ethan Pinnock",Jamaica,t
+749661,"Tammy Abraham",England,t
+784510,"Federico Chiesa",Italy,t
+1107648,"James McAtee","England Under 18",t
+1118480,"Dennis Cirkin",Latvia,t
+1155130,"Luca Netz","Germany U21",f
+1186615,"Melker Ellborg",Sweden,t
+1187213,"James Trafford",England,t
+1190867,"Rom\\u00e9o Lavia",Belgium,t
+1200984,"Filip J\\u00f6rgensen",Denmark,t
+1292833,"Tyler Dibling","England Under 18",t
+1307639,"Max Weiss","Germany U21",f
+1412137,"Marc Guiu","Spain U21",f
+1424875,"Tyrique George","England Under 18",t
+1561249,"Charalampos Kostoulas",Greece,t
+1666977,"Veljko Milosavljevic",Serbia,t
+202643,"Wataru Endo",Japan,t
+464486,"Enes \\u00dcnal",Turkiye,t
+582276,"Freddie Woodman","England U21",f
+586768,"Guido Rodr\\u00edguez",Argentina,t
+617310,"Nayef Aguerd",Morocco,t
+751649,"Jack Harrison","England U21",f
+792540,"Jo\\u00ebl Piroe",Suriname,t
+863359,"Andy Irving",Scotland,t
+866686,"Matthew O'Riley",Denmark,t
+1060617,"Oliver Sonne",Peru,t
+1096400,"Levi Colwill",England,t
+1112684,"Nathan Patterson",Scotland,t
+1254234,"Ethan Nwaneri",England,t
+1296769,"Zach Abbott","England Under 18",t
+1321562,"Diego Coppola",Italy,t
+1573122,"Fer L\\u00f3pez","Spain U21",f
+1580704,"Christantus Uche",Nigeria,t
+1610952,"Pedro Lima","Brazil U17",f
+1635773,"Max Dowman","England Under 16",t
+1636513,Souza,"Brazil U17",f
+239219,"Mateo Kovacic",Croatia,t
+266520,"Christian N\\u00f8rgaard",Denmark,t
+276121,"Ben Davies",Wales,t
+418137,"Arthur Masuaku","DR Congo",t
+622091,"Borna Sosa",Croatia,t
+748382,"Reiss Nelson","England U21",f
+768331,"Igor Julio",,f
+963964,"Harvey Elliott","England U21",f
+963965,"F\\u00e1bio Carvalho","England Under 18",t
+1203192,"Jenson Seelt","Netherlands U19",f
+1212630,"Lorenzo Lucca",Italy,t
+1324871,"Ben Gannon-Doak",Scotland,t
+1414691,"Max Alleyne","England Under 18",t
+1423616,"Stefanos Tzimas","Greece U21",f
+1426170,"Mamadou Sarr",Senegal,t
+1446616,"Harry Howell","England Under 18",t
+1449690,"Alex T\\u00f3th",Hungary,t
+1458757,"Luis Guilherme","Brazil Under 16",t
+1575707,"Jack Fletcher","England Under 18",t
+1624950,"Ezra Mayers","England U19",f
+107280,"Ashley Barnes",,f
+259306,"Emil Krafth",Sweden,t
+317564,"Kepa Arrizabalaga",Spain,t
+448897,"Walter Ben\\u00edtez",Argentina,t
+502420,"Harrison Reed","England Under 22",t
+760746,"Angus Gunn",Scotland,t
+850962,"H\\u00e1kon Rafn Valdimarsson",Iceland,t
+856685,"Frank Onyeka",Nigeria,t
+1067168,"Zeki Amdouni",Switzerland,t
+1095445,"Arnaud Kalimuendo-Muinga","France U23",f
+1276312,"Antoni Milambo","Netherlands Under 18",t
+1310131,"Tom Watson","England Under 18",t
+1327325,"Callum Marshall","Northern Ireland",t
+1336566,"Facundo Buonanotte",Argentina,t
+1422586,"Rio Cardines","Trinidad and Tobago",t
+1430406,"Andr\\u00e9s Garc\\u00eda","Spain U21",f
+1526704,"Jesse Derry","England Under 18",t
+1529203,"Mohamadou Kant\\u00e9",,f
+1532672,"Jonah Kusi-Asare","Sweden Under 18",t
+1656860,"Alysson Edward",,f
+77690,"S\\u00e9amus Coleman",Ireland,t
+279489,"Jamaal Lascelles","England U20",f
+416850,"Solly March","England U21",f
+493165,"James Maddison",England,t
+527549,"Patrick Roberts","England U20",f
+875672,"Hamed Traor\\u00e8","Ivory Coast",t
+963983,"Mike Tr\\u00e9sor",Belgium,t
+1111392,"Tawanda Chirewa",Zimbabwe,t
+1239595,"D\\u00e1rio Essugo","Portugal Under 15",t
+1358655,"Julio Soler",Argentina,t
+1428401,"Romain Esse","England Under 18",t
+1433230,"Romelle Donovan","England Under 18",t
+1436258,"Trey Nyoni","England Under 18",t
+1436260,"Shea Lacey","England Under 16",t
+1463282,"Divine Mukasa","England Under 18",t
+1607333,"George Hemmings","England Under 18",t
+1639163,"Bradley Burrowes","England Under 18",t
+1676985,"Tyler Fletcher",Scotland,t
+1690655,"Jocelin Ta Bi","Ivory Coast U23",f
+1838455,"Jerome Abbey","England U17",f
+363318,"Sam Byram",,f
+637746,"Odsonne \\u00c9douard","France U21",f
+759566,"Joshua Dasilva","England U21",f
+858198,"Sasa Kalajdzic",Austria,t
+865118,"Tyrell Malacia",Netherlands,t
+982246,"Daniel Neil","England U20",f
+1113753,"Dane Scarlett","England Under 16",t
+1114798,"Jota Silva",Portugal,t
+1211806,"George Earthy","England Under 16",t
+1244376,"Kaden Rodney","England Under 18",t
+1327789,"Jaydon Banel","Netherlands U19",f
+1362341,"Alex Murphy",Ireland,t
+1403351,"Tyler Fredricson","England Under 18",t
+1431275,"Callum Olusesi","England Under 18",t
+1443841,"Sean Neave","England Under 18",t
+1469210,"Tom Edozie",,f
+1557236,"Jamaldeen Jimoh-Aloba","England Under 18",t
+1607328,"Bendito Mantato","England Under 18",t
+1697214,"Ben Winterburn",,f
+1700817,"Jo\\u00e9l Drakes-Thomas","England Under 16",t
+169586,"Leandro Cabrera",Uruguay,t
+185644,"Mathew Ryan",Australia,t
+280818,"Marko Dmitrovic",Serbia,t
+521846,"Martin Valjent",Slovakia,t
+530468,"Antonio Sivera","Spain U21",f
+534955,"Aar\\u00f3n Escandell",,f
+581919,"David Soria",,f
+616539,"Alex Remiro",Spain,t
+625340,"Mauro Arambarri",Uruguay,t
+638090,"Luis Milla",,f
+660625,"Unai Sim\\u00f3n",Spain,t
+681213,"Ionut Radu",Romania,t
+683762,"Sergio Herrera",,f
+1113813,"Myles Peart-Harris","England U19",f
+1346113,"Shumaira Mheuka","England Under 18",t
+1413853,"Kaye Furo","Belgium Under 16",t
+1416710,"Joe Knight",,f
+1526697,"Nehemiah Oriola",,f
+1531854,"James Rowswell","England Under 16",t
+1693398,"Junai Byfield","England Under 18",t
+170323,"Thibaut Courtois",Belgium,t
+184521,"Florian Lejeune","France U20",f
+251269,"Ante Budimir",Croatia,t
+278285,"Paulo Gazzaniga",Argentina,t
+304355,"Odysseas Vlachodimos",Greece,t
+360918,"Jonny Otto",Spain,t
+443966,"Jeremy Toljan","Germany U23",f
+517052,"Vedat Muriqi",Kosovo,t
+566425,"Domingos Duarte",Portugal,t
+621415,"Augusto Batalla","Argentina U20",f
+671686,"Aleix Febas","Spain U17",f
+814663,"Alejandro Catena",,f
+845998,"Antonio Blanco",Spain,t
+860314,"Nahuel Tenaglia",,f
+921825,"Jon Moncayola","Spain U23",f
+1073980,"David Affengruber",Austria,t
+1102289,"Juan Iglesias",,f
+1187702,"Leo Rom\\u00e1n",Spain,t
+1395964,"Carlos Romero",,f
+1580952,"Vitor Reis",Brazil,t
+80295,"Yuri Berchiche",,f
+196169,"Marcos Alonso",Spain,t
+474673,"Johan Mojica",Colombia,t
+640123,"Toni Mart\\u00ednez","Spain U17",f
+678234,"Mikel Oyarzabal",Spain,t
+683450,"Pablo Fornals",Spain,t
+743533,"Federico Valverde",Uruguay,t
+844477,"Sergio G\\u00f3mez",Spain,t
+846033,"Vin\\u00edcius J\\u00fanior",Brazil,t
+940573,"Eric Garc\\u00eda",Spain,t
+952528,"Adri\\u00e1n De La Fuente","Spain U19",f
+970578,"Andrei Ratiu",Romania,t
+1052330,"Manuel S\\u00e1nchez","Spain U21",f
+1102708,"Germ\\u00e1n Valera","Spain U17",f
+1130583,"Sam\\u00fa",Portugal,t
+1188375,Natan,Brazil,t
+1208708,"Omar El Hilali",Morocco,t
+1249284,"Jon Aramburu",Venezuela,t
+1532137,"Pau Cubars\\u00ed",Spain,t
+1553099,"Mikel Jauregizar","Spain U21",f
+161012,"Daley Blind",Netherlands,t
+177126,"Jan Oblak",Slovenia,t
+282472,"Sergi Darder","Spain U21",f
+421365,"Djen\\u00e9",Togo,t
+564847,"Viktor Tsigankov",Ukraine,t
+638070,"Luis Rioja",,f
+673356,"Pablo Maffeo",Argentina,t
+701154,"Kylian Mbapp\\u00e9",France,t
+852071,"Juan Hern\\u00e1ndez",Colombia,t
+914458,"Aur\\u00e9lien Tchouam\\u00e9ni",France,t
+940743,"Daniel Vivian",Spain,t
+971790,"Lucien Agoum\\u00e9","France U21",f
+988805,"Pep Chavarr\\u00eda",,f
+1106742,"Sergio Carreira","Spain U21",f
+1167220,"Joan Garc\\u00eda",Spain,t
+1187767,"Urko Gonz\\u00e1lez","Spain U21",f
+1194892,"Arnau Mart\\u00ednez","Spain U21",f
+1281461,"Jos\\u00e9 \\u00c1ngel Carmona","Spain U21",f
+1311985,"C\\u00e9sar T\\u00e1rrega","Spain U21",f
+1553105,"V\\u00edctor Mu\\u00f1oz",Spain,t
+39591,"Axel Witsel",Belgium,t
+391058,"Jos\\u00e9 Gay\\u00e0",Spain,t
+477588,"\\u00c1lex Moreno",,f
+727897,"D\\u00e1vid Hancko",Slovakia,t
+763970,"Valentin Rosier","France U21",f
+797901,"Jorge de Frutos",Spain,t
+837089,"Edu Exp\\u00f3sito",,f
+967622,Antony,Brazil,t
+967871,"Iv\\u00e1n Martin","Spain U17",f
+999171,"\\u00c1lvaro Vall\\u00e9s",,f
+1032811,"Federico Vi\\u00f1as",Uruguay,t
+1109046,"Ilaix Moriba",Guinea,t
+1169595,"Ilyas Chaira","Morocco U20",f
+1184694,"Alberto Moleiro","Spain U21",f
+1187044,"Luiz J\\u00fanior",,f
+1187734,"Flavien Boyomo",Cameroon,t
+1323510,"Alberto Reina",,f
+1343750,"Renato Veiga",Portugal,t
+1392232,"Marc Aguado",,f
+1435439,"Javi Rodr\\u00edguez",Spain,t
+178753,"Nemanja Gudelj",Serbia,t
+303879,"Lucas Torr\\u00f3","Spain U19",f
+384413,"Rub\\u00e9n Garcia","Spain U20",f
+575735,"Nicolas P\\u00e9p\\u00e9","Ivory Coast",t
+638010,"Isi Palaz\\u00f3n",,f
+640238,"Nacho Vidal",,f
+671865,"Santi Comesa\\u00f1a",,f
+705450,"Jules Kound\\u00e9",France,t
+708890,"Carlos Soler",Spain,t
+711231,"Gorka Guruzeta",,f
+1181101,"Tyrhys Dolan","England U20",f
+1190025,"Alvaro Carreras","Spain U21",f
+1209399,"Abdessamad Ezzalzouli",Morocco,t
+1209441,"Iv\\u00e1n Romero",,f
+1238154,"Pablo Ib\\u00e1nez",,f
+1252373,"Roberto Fern\\u00e1ndez","Spain U21",f
+1407468,"Santiago Mouri\\u00f1o",Uruguay,t
+1467236,"Lamine Yamal",Spain,t
+1523234,"Jon Mart\\u00edn",Spain,t
+1605748,"Mat\\u00edas Moreno",,f
+184533,Koke,Spain,t
+282462,"\\u00cd\\u00f1igo Ru\\u00edz de Galarreta",,f
+359191,"Omar Mascarell","Equatorial Guinea",t
+557799,"Duje Caleta-Car",Croatia,t
+574629,"Alex Berenguer",,f
+602563,"Marcos Llorente",Spain,t
+604105,"I\\u00f1aki Williams",Ghana,t
+673689,Pepelu,Spain,t
+707970,"Djibril Sow",Switzerland,t
+750031,"Pol Lozano","Spain U21",f
+839232,"Fernando Calero",,f
+844544,"Pape Gueye",Senegal,t
+1054786,"Aimar Oroz","Spain U23",f
+1056071,"Victor Parada",,f
+1192393,"Victor Chust","Spain U21",f
+1321605,"Mario Mart\\u00edn","Spain U21",f
+1323827,"Jon Gorrotxategi",,f
+1327406,"\\u00c1lvaro Rodriguez","Uruguay U20",f
+1327489,"Kike Salas","Spain U21",f
+1598982,"Gerard Mart\\u00edn","Spain U21",f
+175311,Kiko,"Spain U20",f
+291635,"Pedro Bigas",,f
+411617,"Aymeric Laporte",Spain,t
+474658,"\\u00c1lvaro Garcia",,f
+479217,"David Costas","Spain U19",f
+614834,"Dani Olmo",Spain,t
+637756,"Carles Ale\\u00f1\\u00e1","Spain U21",f
+640220,"Marc Roca","Spain U21",f
+640231,"Antonio Ra\\u00edllo",,f
+659490,"Gabriel Suazo",Chile,t
+686460,"Santiago Colombatto","Argentina Under 22",t
+698653,"Igor Zubeldia","Spain U21",f
+956622,"\\u00d3scar Valent\\u00edn",,f
+958640,"Akor Adams",Nigeria,t
+1083323,Pedri,Spain,t
+1117069,"Georges Mikautadze",Georgia,t
+1226147,"Giuliano Simeone",Argentina,t
+1253890,"Arda G\\u00fcler",Turkiye,t
+1284429,"Javier Guerra",Spain,t
+1367619,"Dean Huijsen",Spain,t
+195305,"Marc Bartra",Spain,t
+440330,"Alexander S\\u00f8rloth",Norway,t
+561164,"Lucas Boy\\u00e9",Argentina,t
+592412,"Mat\\u00edas Dituro",,f
+593129,"Pere Milla",,f
+609505,"Borja Iglesias",Spain,t
+872396,"Path\\u00e9 Ciss",Senegal,t
+881771,"Ferran Torres",Spain,t
+929838,"Hugo Duro","Spain U21",f
+952095,"\\u00d3scar Mingueza",Spain,t
+971787,"Haissem Hassan",Egypt,t
+974753,"Juli\\u00e1n \\u00c1lvarez",Argentina,t
+1059657,"Sergi Cardona",,f
+1077894,"Jude Bellingham",England,t
+1132355,"\\u00c1lvaro N\\u00fa\\u00f1ez",,f
+1158512,"Juanlu S\\u00e1nchez","Spain U23",f
+1209980,"Carlos \\u00c1lvarez","Spain U19",f
+1231648,"Vladyslav Vanat",Ukraine,t
+1313884,"Rafa Mar\\u00edn","Spain U21",f
+1531887,"Pau Navarro","Spain U20",f
+254241,"Stole Dimitrievski","North Macedonia",t
+388523,"Andr\\u00e9 Silva",Portugal,t
+427438,"H\\u00e9ctor Beller\\u00edn",Spain,t
+536455,"Gon\\u00e7alo Guedes",Portugal,t
+609516,"Robin Le Normand",Spain,t
+640492,"Rafa Mir","Spain U23",f
+676533,"Aitor Ruibal",,f
+695062,"Javi Gal\\u00e1n",,f
+715069,"Pedro D\\u00edaz",,f
+784241,"Manu Morlanes","Spain U21",f
+923298,"Pablo Mart\\u00ednez",,f
+950545,"Oihan Sancet",Spain,t
+954962,"David Carmo",Angola,t
+1026135,"Tajon Buchanan",Canada,t
+1051097,"Matteo Ruggeri",Italy,t
+1254166,"Alejandro Balde",Spain,t
+1338016,"Valent\\u00edn G\\u00f3mez","Argentina U20",f
+1404415,"Ferm\\u00edn L\\u00f3pez",Spain,t
+1428427,"Nobel Mendy",Senegal,t
+1690093,"Jan Virgili","Spain U21",f
+183353,"Kike Garc\\u00eda","Spain U21",f
+488718,"Diego Rico",,f
+629594,"Alfonso Pedraza",Spain,t
+640122,"Brais M\\u00e9ndez",Spain,t
+696365,"Marcus Rashford",England,t
+896402,"Jos\\u00e9 Copete",,f
+948745,"Kwasi Sibo",Ghana,t
+1002618,"Ander Barrenetxea",Spain,t
+1073143,"Azzedine Ounahi",Morocco,t
+1112072,"Jon Pacheco","Spain Under 18",t
+1131957,"Jon Olasagasti","Spain U21",f
+1159181,"Javi L\\u00f3pez","Spain U21",f
+1202110,"Nico Williams",Spain,t
+1284434,"Diego L\\u00f3pez","Spain U23",f
+1333066,"Rahim Alhassane",Niger,t
+1344677,"Mateo Joseph","Spain U21",f
+1392779,"Etta Eyong",Cameroon,t
+1427819,"Hugo Rinc\\u00f3n",,f
+1541825,"Adri\\u00e1n Liso","Spain U20",f
+1580528,"Ra\\u00fal Asencio",Spain,t
+93447,"Robert Lewandowski",Poland,t
+115591,"Ricardo Rodr\\u00edguez",Switzerland,t
+545905,"Dani Calvo",,f
+571615,"Unai L\\u00f3pez","Spain U19",f
+638622,"Frenkie de Jong",Netherlands,t
+704151,"Arnaut Danjuma",Netherlands,t
+708457,"L\\u00e9o P\\u00e9trot",,f
+785511,"Fran Beltr\\u00e1n",Spain,t
+860752,"Rub\\u00e9n Vargas",Switzerland,t
+942372,"\\u00c1lex Baena",Spain,t
+970692,"Bryan Gil",Spain,t
+1078729,"Batista Mendy","France U19",f
+1098365,"Jorge Herrando",,f
+1102732,"Ferr\\u00e1n Jutgl\\u00e0",,f
+1191407,"Aitor Paredes",Spain,t
+1197039,"Mart\\u00edn Satriano",Uruguay,t
+1233404,"Pablo Torre","Spain U21",f
+1280020,"Julen Agirrezabala","Spain U21",f
+1323398,"Abel Bretones",,f
+1338192,"Pablo Barrios",Spain,t
+184138,"Antoine Griezmann",France,t
+276738,"Antonio R\\u00fcdiger",Germany,t
+282281,"Denis Su\\u00e1rez",Spain,t
+497662,"Carl Starfelt",Sweden,t
+526968,"Pacha Espino",Uruguay,t
+800615,"Filip Ugrinic",Switzerland,t
+839750,"Kervin Arriaga",Honduras,t
+841672,"Nicol\\u00e1s Gonz\\u00e1lez",Argentina,t
+848289,"Takefusa Kubo",Japan,t
+956921,"Abdelkabir Abqar",Morocco,t
+990996,"I\\u00f1aki Pe\\u00f1a",Spain,t
+1015185,"Eduardo Camavinga",France,t
+1037537,"Jes\\u00fas Areso",,f
+1130991,"Isaac Romero",,f
+1200941,"Abderrahman Rebbach",,f
+1293912,"Pablo Mar\\u00edn","Spain U21",f
+1310440,"Javi Rueda",,f
+1322858,"Pablo Dur\\u00e1n",,f
+1326043,"Joel Roca","Spain U21",f
+1575945,Oso,,f
+75307,"Dani Parejo",Spain,t
+246438,"Gerard Moreno",Spain,t
+424129,"Leander Dendoncker",Belgium,t
+488412,"Cl\\u00e9ment Lenglet",France,t
+604126,"Giovani Lo Celso",Argentina,t
+696679,Raphinha,Brazil,t
+705484,"Eray C\\u00f6mert",Switzerland,t
+726345,"Nahuel Molina",Argentina,t
+839893,"Andoni Gorosabel",,f
+974755,"Lucas Beltr\\u00e1n",Argentina,t
+992052,"Thierry Correia","Portugal Under 18",t
+1118199,"Zaid Abner Romero",Argentina,t
+1210647,"Be\\u00f1at Turrientes",Spain,t
+1226189,"Martim Neto","Portugal Under 16",t
+1254218,"Hugo Sotelo","Spain U21",f
+1279557,"Clemens Riedel","Germany U21",f
+1308414,"Hugo \\u00c1lvarez","Spain U21",f
+1323897,"Marc Pubill",Spain,t
+1403692,"Youssef Enr\\u00edquez",Morocco,t
+1610744,"Carlos Esp\\u00ed",,f
+50047,"Alexis S\\u00e1nchez",Chile,t
+72541,"C\\u00e9sar Azpilicueta",Spain,t
+420568,"Diego Llorente",Spain,t
+468931,"Thomas Lemar",France,t
+574200,"Eric Bailly","Ivory Coast",t
+593116,"Sofyan Amrabat",Morocco,t
+678192,"Jon Guridi",,f
+750027,"Brahim D\\u00edaz",Morocco,t
+914401,"Oriol Rey",,f
+955271,"Thiago Almada",Argentina,t
+1011117,"Robert Navarro","Spain U21",f
+1077915,"Largie Ramazani","Belgium Under 18",t
+1229177,"Carlos Vicente",,f
+1272740,"Williot Swedberg",Sweden,t
+1284430,"Fran P\\u00e9rez","Spain U21",f
+1334767,"Andr\\u00e9s Lopez",,f
+1359911,"Miguel Rom\\u00e1n",,f
+1419969,"Rodrigo Mendoza","Spain U20",f
+1425769,"Alejandro Rego",,f
+1563022,"\\u00c1ngel P\\u00e9rez",,f
+174472,"Iago Aspas",Spain,t
+261609,"Dimitri Foulquier",Guadeloupe,t
+262592,"Moi G\\u00f3mez","Spain U19",f
+474589,"Jos\\u00e9 Gim\\u00e9nez",Uruguay,t
+479020,"Ayoze P\\u00e9rez",Spain,t
+522234,"Gerard Gumbau",,f
+590494,"Umar Sadiq","Nigeria B",t
+635772,"Borja Mayoral","Spain U21",f
+687568,"Lucas Ahijado",,f
+760712,"Trent Alexander-Arnold",England,t
+844415,"\\u00c9der Militao",Brazil,t
+921253,"Ronald Araujo",Uruguay,t
+924300,"Alem\\u00e3o",,f
+927646,"Adri\\u00e0 Pedrosa","Spain U21",f
+1055327,"Antonio S\\u00e1nchez",,f
+1112511,"Alejandro Franc\\u00e9s","Spain U21",f
+1202525,"Bryan Zaragoza",Spain,t
+1215735,"Luis V\\u00e1zquez",,f
+1310480,"Sergi Altimira",,f
+1875615,"Kareem Tunde",,f
+51545,"Salom\\u00f3n Rond\\u00f3n",Venezuela,t
+282674,"Daniel Carvajal",Spain,t
+361757,"Jo\\u00e3o Cancelo",Portugal,t
+693736,"Unai Elgezabal",,f
+753593,"Marc\\u00e3o",,f
+777028,"Andr\\u00e9 Almeida","Portugal U21",f
+950599,"Nicol\\u00e1s Fonseca",Uruguay,t
+959597,"Luka Sucic",Croatia,t
+977618,"V\\u00edctor Garc\\u00eda",,f
+1094778,"Ra\\u00fal Garc\\u00eda",,f
+1132607,"Peque Fern\\u00e1ndez","Spain U21",f
+1202587,"Ramon Terrats",,f
+1220187,"Jesus V\\u00e1zquez","Spain U19",f
+1286471,"Roger Brugu\\u00e9",,f
+1323863,"Iker Mu\\u00f1oz","Spain U21",f
+1384883,"Marc Casad\\u00f3",Spain,t
+1412942,"Alan Matturro",Uruguay,t
+1413847,"Gonzalo Garc\\u00eda",Spain,t
+1578176,"Yoel Lago",,f
+1607566,"Franco Mastantuono",Argentina,t
+37436,"Santi Cazorla",Spain,t
+391064,"Neal Maupay","France U19",f
+434325,"Thomas Partey",Ghana,t
+654091,"Grady Diangana","DR Congo",t
+743192,"Junior Firpo","Dominican Republic",t
+750028,"Fran Garc\\u00eda",Spain,t
+801213,"Tete Morente",,f
+805352,"Unai N\\u00fa\\u00f1ez",Spain,t
+833219,"Juan Foyth",Argentina,t
+837270,"Chidera Ejuke",Nigeria,t
+942375,"Arnau Tenas",Spain,t
+999159,"Aihen Mu\\u00f1oz",,f
+1082930,"Iker Losada","Spain Under 18",t
+1097229,"Orri \\u00d3skarsson",Iceland,t
+1173678,"Johnny Cardoso",USA,t
+1184777,"Jofre Carreras",,f
+1311915,"Ilias Akhomach",Morocco,t
+1338740,"Tani Oluwaseyi",Canada,t
+1436270,"Unai G\\u00f3mez","Spain U21",f
+1552991,"David L\\u00f3pez",,f
+169718,"Wojciech Szczesny",Poland,t
+389050,"Juan Musso",Argentina,t
+478105,"Baptiste Santamar\\u00eda","France Under 22",t
+532942,"Pau L\\u00f3pez",Spain,t
+607148,"Aritz Elustondo","Spain U21",f
+845067,"Facundo Garc\\u00e9s",Malaysia,t
+859764,"Luka Ilic",Serbia,t
+881773,"Gonzalo Villar",Spain,t
+980422,"Sergio Camello","Spain U23",f
+1007717,"Unai Vencedor","Spain U21",f
+1072200,"Rodrigo Riquelme",Spain,t
+1174300,Calebe,,f
+1254394,"Obed Vargas",Mexico,t
+1315711,"Nelson Deossa",Colombia,t
+1323207,"Alex Sancris",,f
+1330035,"Rub\\u00e9n S\\u00e1nchez",,f
+1331249,"Adama Boiro",,f
+1460063,"Thiago Fern\\u00e1ndez","Argentina U23",f
+1573126,"Marc Bernal",Spain,t
+1675505,"Manu Fern\\u00e1ndez",,f
+243419,"Juan Cruz",,f
+430856,"Takuma Asano",Japan,t
+643998,"Joseph Aidoo",Ghana,t
+690516,"Ademola Lookman",Nigeria,t
+730901,"Yangel Herrera",Venezuela,t
+743720,"Charles Pickel","DR Congo",t
+844478,"Mateu Morey","Spain U21",f
+846966,"Javi Puado",Spain,t
+873827,"Ander Guevara",,f
+895362,Rodrygo,Brazil,t
+926643,"Alfon Gonz\\u00e1lez",,f
+1070617,"Tanguy Nianzou","France U21",f
+1169596,"Ra\\u00fal Moro","Spain U21",f
+1217644,"John Donald",,f
+1254217,"Carlos Dom\\u00ednguez",,f
+1315475,"Roony Bardghji",Sweden,t
+1335102,"Ugo Raghouber",,f
+1379196,"Jones El-Abdellaoui","Norway Under 18",t
+1486264,"Claudio Echeverri",Argentina,t
+1676086,Davinchi,"Spain U19",f
+201939,"C\\u00e9dric Bakambu","DR Congo",t
+213809,"Allan Nyom",Cameroon,t
+264885,"Iv\\u00e1n Balliu",Albania,t
+561198,"Mouctar Diakhaby",Guinea,t
+616531,"Javi Mu\\u00f1oz",,f
+616544,"\\u00cd\\u00f1igo Lekue",Spain,t
+623982,Josan,,f
+639450,"Yeray \\u00c1lvarez",Spain,t
+674518,"Toni Lato","Spain U21",f
+688668,"Josip Brekalo",Croatia,t
+800882,"Andriy Lunin",Ukraine,t
+881124,"Diego Pamp\\u00edn","Spain U17",f
+895954,"\\u00c1lvaro Fidalgo",Mexico,t
+1089744,"Zito Luvumbo",Angola,t
+1104401,"Ibrahim Diabate","Ivory Coast U23",f
+1277380,"Y\\u00e1ser Asprilla",Colombia,t
+1279040,Gavi,Spain,t
+1580522,"\\u00c1ngel Ortiz","Spain U21",f
+1583872,"Buba Sangar\\u00e9","Spain U19",f
+1796908,"Thiago Pitarch","Spain U19",f
+58294,"Cristhian Stuani",Uruguay,t
+73409,"\\u00d8rjan H\\u00e5skjold Nyland",Norway,t
+121633,"David Alaba",Austria,t
+282692,Portu,,f
+449232,"Andreas Christensen",Denmark,t
+531629,"Dani Ceballos",Spain,t
+574624,"Enrique Barja",,f
+616545,"Mikel Vesga",,f
+672840,"Luiz Felipe",Italy,t
+872362,"Marash Kumbulla",Albania,t
+994403,"Cyril Ngonge",Belgium,t
+1096396,"Lucas Bergstr\\u00f6m",Finland,t
+1175610,"Arsen Zakharyan",Russia,t
+1255090,"Jozhua Vertrouwd","Netherlands U21",f
+1280756,"Lucas Cepeda",Chile,t
+1282015,"Carlos Mart\\u00edn","Spain U21",f
+1433032,"Jhon Sol\\u00eds",Colombia,t
+1490110,"H\\u00e9ctor Fort","Spain U19",f
+1649293,"Paco Cort\\u00e9s","Spain U19",f
+1662379,"Pablo Garc\\u00eda","Spain U20",f
+215584,"David L\\u00f3pez",,f
+361724,"Ezequiel \\u00c1vila",,f
+361751,"F\\u00e1bio Cardoso","Portugal U21",f
+433819,"Renzo Saravia",Argentina,t
+449241,"Adnan Januzaj",Belgium,t
+477472,"Jos\\u00e9 Luis Morales",,f
+518525,"Mariano D\\u00edaz","Dominican Republic",t
+799914,"Carlos Protesoni","Uruguay U23",f
+915264,"Randy Nteka",Angola,t
+1041445,"Dani C\\u00e1rdenas",,f
+1203614,"Nico Serrano","Spain U19",f
+1304120,"Alex For\\u00e9s",,f
+1338696,"Alex Freeman",USA,t
+1367926,"Javier Bo\\u00f1ar","Spain U19",f
+1414777,"Sebasti\\u00e1n Boselli",Uruguay,t
+1425206,"Maroan Sannadi",Morocco,t
+1431121,"Asier Osambela",,f
+1447089,"Julio D\\u00edaz","Spain U20",f
+1617146,"Jorge Cabello",,f
+1676905,"Coba da Costa",,f
+191315,Isco,Spain,t
+588562,"Mihailo Ristic",Serbia,t
+623537,"Ferland Mendy",France,t
+636570,"\\u00c1lvaro Odriozola",Spain,t
+760715,"Ovie Ejaria","England U20",f
+784246,"Dani Raba",,f
+864154,"Goduine Koyalipou","Central African Republic",t
+884262,"Oier Luengo",,f
+938564,"Miguel Rubio",,f
+951743,"Giacomo Raspadori",Italy,t
+1054522,"Moussa Diarra",Mali,t
+1056461,"Ville Koski",Finland,t
+1136450,"Abu Kamara","England U20",f
+1137497,"Yago Santiago",,f
+1187478,"Jos\\u00e9 Salinas",,f
+1323403,"Antoniu Roca",,f
+1428849,"Manu Bueno",,f
+1614872,"I\\u00f1igo Arguibide",,f
+1675933,"Marc Domenech",,f
+1820601,"Selton S\\u00e1nchez","Spain U19",f
+21414,"\\u00d3scar Trejo",,f
+184554,"Marc-Andr\\u00e9 ter Stegen",Germany,t
+191873,Juanmi,Spain,t
+495222,"Sheraldo Becker",Suriname,t
+688876,"Dodi Luk\\u00e9bakio",Belgium,t
+748380,"Abel Ruiz",Spain,t
+822237,"Manor Solomon",Israel,t
+940735,"Veljko Birmancevic",Serbia,t
+988197,"Urko Izeta",,f
+1017745,"Horatiu Moldovan",Romania,t
+1132940,"Thiago Borbas",Uruguay,t
+1217911,"Dami\\u00e1n C\\u00e1ceres",,f
+1237455,"Pablo Campos","Spain U21",f
+1277343,"Federico Redondo","Argentina U20",f
+1315828,"Javi Llabr\\u00e9s",,f
+1323022,"Iker Benito",,f
+1367987,"Dami\\u00e1n Rodr\\u00edguez","Spain U21",f
+1732412,"Javi Morcillo",,f
+1800611,"Nacho P\\u00e9rez","Spain Under 18",t
+1815149,"Xavi Espart","Spain U19",f
+169756,"Adri\\u00e1n",Spain,t
+206322,"Mat\\u00edas Vecino",Uruguay,t
+213471,"Aitor Fern\\u00e1ndez","Spain U20",f
+245311,"Abd\\u00f3n Prats",,f
+884383,"Bambo Diaby",,f
+1184772,"\\u00c1ngel Fortuno",,f
+1242132,"Jon Karrikaburu","Spain U21",f
+1401997,"\\u00c1lex Padilla",Mexico,t
+1508427,"Manuel \\u00c1ngel","Spain Under 16",t
+1526728,"Vladyslav Krapyvtsov","Ukraine U20",f
+1553404,"Rayane Belaid","Spain U20",f
+1553663,"Aitor Ma\\u00f1as",,f
+1577912,"Adam Boayar","Morocco Under 19",t
+1592621,"Ram\\u00f3n Mart\\u00ednez",,f
+1670281,"Ali Houary","Morocco U20",f
+1682313,"Dro Fern\\u00e1ndez","Spain Under 18",t
+1695867,"\\u00c1lvaro Cort\\u00e9s","Spain U20",f
+1697334,"Luken Beitia",,f
+1705340,"Ismael Bekhoucha",,f
+1724551,"Job Ochieng",Kenya,t
