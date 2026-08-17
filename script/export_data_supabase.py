@@ -53,8 +53,6 @@ for schema, schema_tables in tables.items():
 
             all_rows.extend(rows)
 
-            print(f"{len(all_rows)} lignes récupérées...")
-
             # Si moins de 1000 lignes sont retournées, on sait qu'on a atteint la fin
             if len(rows) < batch_size:
                 break
