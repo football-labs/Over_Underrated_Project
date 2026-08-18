@@ -16,7 +16,7 @@ tables = {
     "maestros": ["jugadores"],
     "profiles": ["tm_achievements","tm_clubs_roster","tm_injuries","tm_profiles","tm_transfers"],
     "stats": ["entity_resolution","fotmob_internationals","silver_analyst","silver_fotmob","silver_sofascore","silver_understat","sofascore_valuations",
-        "valuations"],
+        "valuations","fotmob_v2", "sofascore_v2"],
     "wages": ["capology_payrolls","capology_salaries","salarysport_salaries"]
 }
 
