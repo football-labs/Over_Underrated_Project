@@ -22,7 +22,7 @@ tables = {
 
 # Colonnes spécifiques à récupérer pour certaines tables
 selected_columns = {
-    "fotmob_v2": ["player_id","name","team","league","position", "positions_all","birth_date","is_international","national_team","clean_sheets_val","clean_sheets_pct90",
+    "fotmob_v2": ["player_id","name","team_name","league","position", "positions_all","birth_date","is_international","national_team","clean_sheets_val","clean_sheets_pct90",
     "error_led_to_goal_val","error_led_to_goal_per90", "xa_val","xa_per90","yellow_cards_val","yellow_cards_per90","red_cards_val","red_cards_per90",
     "penalty_saves_val", "penalty_saves_pct","penalties_conceded_val","high_claims_val","high_claims_per90","high_claims_pct","xg_excl_penalty_val",
     "xg_excl_penalty_per90","assists_val","assists_per90","big_chances_created_val", "big_chances_created_per90","touches_in_opposition_box_val",
