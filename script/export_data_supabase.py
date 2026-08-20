@@ -29,7 +29,7 @@ selected_columns = {
     "touches_in_opposition_box_per90","dispossessed_val", "dispossessed_per90","fouls_won_val","fouls_won_per90","fouls_committed_val","fouls_committed_per90",
     "minutes_played","successful_crosses_val","successful_crosses_per90","cross_accuracy_val","dribbles_val","dribbles_per90","dribbles_success_rate_val",
     "possession_won_final_3rd_val","possession_won_final_3rd_per90","dribbled_past_val", "dribbled_past_per90","penalties_awarded_val", "penalties_awarded_per90",
-    "top_speed_val","running_per90","sprinting_per90","penalty_goals_val","season"]
+    "penalty_goals_val","season"]
 }
 
 # Dossier de sortie
