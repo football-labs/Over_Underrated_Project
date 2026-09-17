@@ -1,205 +1,205 @@
 id,league,club,currency,total_payroll_eur
-817,Bundesliga,Bayern Munich,EUR,248940000
-818,Bundesliga,Borussia Dortmund,EUR,115360000
-819,Bundesliga,Bayer Leverkusen,EUR,92450000
-820,Bundesliga,Leipzig,EUR,77620000
-821,Bundesliga,Wolfsburg,EUR,67360000
-822,Bundesliga,Eintracht Frankfurt,EUR,64660000
-823,Bundesliga,Stuttgart,EUR,59870000
-824,Bundesliga,Freiburg,EUR,54960000
-825,Bundesliga,Monchengladbach,EUR,53910000
-826,Bundesliga,Hoffenheim,EUR,49470000
-827,Bundesliga,Werder Bremen,EUR,44050000
-828,Bundesliga,Mainz,EUR,41060000
-829,Bundesliga,Union Berlin,EUR,35520000
-830,Bundesliga,Hamburg,EUR,35410000
-831,Bundesliga,Augsburg,EUR,35010000
-832,Bundesliga,Koln,EUR,34310000
-833,Bundesliga,Heidenheim,EUR,26490000
-834,Bundesliga,St Pauli,EUR,26010000
-835,Championship,Leicester,EUR,50896300
-836,Championship,Sheffield United,EUR,37545690
-837,Championship,Southampton,EUR,37530220
-838,Championship,Ipswich Town,EUR,35240660
-839,Championship,Norwich,EUR,29628620
-840,Championship,Birmingham,EUR,27289080
-841,Championship,Hull City,EUR,25243946
-842,Championship,Middlesbrough,EUR,25109000
-843,Championship,West Bromwich,EUR,23143120
-844,Championship,Stoke City,EUR,22802780
-845,Championship,Watford,EUR,22496950
-846,Championship,Wrexham,EUR,21258874
-847,Championship,Coventry,EUR,20296640
-848,Championship,Derby County,EUR,18935280
-849,Championship,Millwall,EUR,18765110
-850,Championship,Preston,EUR,18254600
-851,Championship,Blackburn,EUR,17916640
-852,Championship,Bristol,EUR,17653412
-853,Championship,Swansea,EUR,16955120
-854,Championship,Oxford,EUR,16670472
-855,Championship,QPR,EUR,15644692
-856,Championship,Portsmouth,EUR,14882140
-857,Championship,Charlton,EUR,14114828
-858,Championship,Sheffield Wednesday,EUR,14018914
-859,Eredivisie,PSV,EUR,34820000
-860,Eredivisie,Ajax,EUR,33070000
-861,Eredivisie,Feyenoord,EUR,25830000
-862,Eredivisie,Utrecht,EUR,13250000
-863,Eredivisie,AZ Alkmaar,EUR,13200000
-864,Eredivisie,NEC Nijmegen,EUR,11730000
-865,Eredivisie,Twente,EUR,11360000
-866,Eredivisie,Fortuna Sittard,EUR,9580000
-867,Eredivisie,Heracles,EUR,7090000
-868,Eredivisie,Sparta Rotterdam,EUR,7060000
-869,Eredivisie,NAC Breda,EUR,6990000
-870,Eredivisie,PEC Zwolle,EUR,6990000
-871,Eredivisie,Heerenveen,EUR,6890000
-872,Eredivisie,Go Ahead Eagles,EUR,5270000
-873,Eredivisie,Groningen,EUR,5010000
-874,Eredivisie,Excelsior,EUR,4900000
-875,Eredivisie,Volendam,EUR,4020000
-876,Eredivisie,Telstar,EUR,2790000
-877,La Liga,Real Madrid,EUR,307930000
-878,La Liga,Barcelona,EUR,234640000
-879,La Liga,Atletico Madrid,EUR,153920000
-880,La Liga,Athletic Club,EUR,85110000
-881,La Liga,Real Betis,EUR,78580000
-882,La Liga,Real Sociedad,EUR,68260000
-883,La Liga,Villarreal,EUR,66900000
-884,La Liga,Sevilla,EUR,64800000
-885,La Liga,Valencia,EUR,52230000
-886,La Liga,Girona,EUR,47480000
-887,La Liga,Celta Vigo,EUR,37090000
-888,La Liga,Getafe,EUR,36160000
-889,La Liga,Mallorca,EUR,34980000
-890,La Liga,Rayo Vallecano,EUR,33530000
-891,La Liga,Osasuna,EUR,32710000
-892,La Liga,Elche,EUR,28450000
-893,La Liga,Espanyol,EUR,26580000
-894,La Liga,Real Oviedo,EUR,26470000
-895,La Liga,Levante,EUR,25270000
-896,La Liga,Alaves,EUR,25130000
-897,Ligue 1,PSG,EUR,178610000
-898,Ligue 1,Marseille,EUR,90520000
-899,Ligue 1,Monaco,EUR,63710000
-900,Ligue 1,Lyon,EUR,57680000
-901,Ligue 1,Nice,EUR,56430000
-902,Ligue 1,Rennes,EUR,54450000
-903,Ligue 1,Lille,EUR,50450000
-904,Ligue 1,Paris FC,EUR,42390000
-905,Ligue 1,Lens,EUR,40950000
-906,Ligue 1,Nantes,EUR,32770000
-907,Ligue 1,Strasbourg,EUR,30360000
-908,Ligue 1,Brest,EUR,26690000
-909,Ligue 1,Lorient,EUR,23330000
-910,Ligue 1,Metz,EUR,23020000
-911,Ligue 1,Auxerre,EUR,22830000
-912,Ligue 1,Toulouse,EUR,20490000
-913,Ligue 1,Angers,EUR,18700000
-914,Ligue 1,Le Havre,EUR,17840000
-915,MLS,LA FC,EUR,20488042
-916,MLS,Atlanta United,EUR,18242010
-917,MLS,Inter Miami,EUR,17055072
-918,MLS,Chicago Fire,EUR,14789266
-919,MLS,LA Galaxy,EUR,14168796
-920,MLS,FC Cincinnati,EUR,14031833
-921,MLS,Seattle Sounders,EUR,13678645
-922,MLS,San Diego FC,EUR,13482947
-923,MLS,NE Revolution,EUR,13300211
-924,MLS,Vancouver Whitecaps,EUR,13237256
-925,MLS,NYC FC,EUR,12615705
-926,MLS,Columbus Crew,EUR,12454836
-927,MLS,NY Red Bulls,EUR,11841984
-928,MLS,Portland Timbers,EUR,11031948
-929,MLS,Nashville SC,EUR,10994796
-930,MLS,Charlotte FC,EUR,10622586
-931,MLS,Austin,EUR,10017532
-932,MLS,St. Louis City,EUR,9584068
-933,MLS,Colorado Rapids,EUR,8813660
-934,MLS,Minnesota United,EUR,8130994
-935,MLS,FC Dallas,EUR,7509712
-936,MLS,Houston Dynamo,EUR,7449812
-937,MLS,CF Montreal,EUR,7425029
-938,MLS,Real Salt Lake,EUR,7239456
-939,MLS,Orlando City,EUR,6658712
-940,MLS,Sporting KC,EUR,6588220
-941,MLS,Toronto FC,EUR,6454219
-942,MLS,San Jose Earthquakes,EUR,5794024
-943,MLS,Philadelphia Union,EUR,5451448
-944,MLS,DC United,EUR,4421744
-945,Premier League,Manchester City,EUR,280025564
-946,Premier League,Arsenal,EUR,220973480
-947,Premier League,Liverpool,EUR,206456432
-948,Premier League,Manchester United,EUR,193173890
-949,Premier League,Chelsea,EUR,171964520
-950,Premier League,Aston Villa,EUR,170646476
-951,Premier League,Tottenham,EUR,162806280
-952,Premier League,Newcastle,EUR,138982480
-953,Premier League,Nottingham Forest,EUR,104159510
-954,Premier League,Everton,EUR,93240784
-955,Premier League,Fulham,EUR,91628810
-956,Premier League,Crystal Palace,EUR,90926472
-957,Premier League,West Ham,EUR,88401768
-958,Premier League,Wolverhampton,EUR,82795440
-959,Premier League,Brighton,EUR,82223050
-960,Premier League,Sunderland,EUR,75246080
-961,Premier League,Bournemouth,EUR,73884720
-962,Premier League,Leeds,EUR,68129880
-963,Premier League,Brentford,EUR,67928770
-964,Premier League,Burnley,EUR,66109260
-965,Primeira Liga,Benfica,EUR,47260000
-966,Primeira Liga,Porto,EUR,42530000
-967,Primeira Liga,Sporting Lisbon,EUR,33680000
-968,Primeira Liga,Braga,EUR,16680000
-969,Primeira Liga,Rio Ave,EUR,8920000
-970,Primeira Liga,Estoril,EUR,8440000
-971,Primeira Liga,Casa Pia,EUR,8260000
-972,Primeira Liga,Famalicao,EUR,7430000
-973,Primeira Liga,Arouca,EUR,7240000
-974,Primeira Liga,Santa Clara,EUR,7020000
-975,Primeira Liga,Nacional,EUR,6835000
-976,Primeira Liga,Estrela Amadora,EUR,6270000
-977,Primeira Liga,Gil Vicente,EUR,6150000
-978,Primeira Liga,AVS,EUR,5920000
-979,Primeira Liga,Vitoria SC,EUR,5830000
-980,Primeira Liga,Moreirense,EUR,5460000
-981,Primeira Liga,Tondela,EUR,4200000
-982,Primeira Liga,Alverca,EUR,3550000
-983,Serie A,Inter Milan,EUR,135650000
-984,Serie A,Juventus,EUR,124760000
-985,Serie A,Roma,EUR,109490000
-986,Serie A,Napoli,EUR,109070000
-987,Serie A,AC Milan,EUR,99930000
-988,Serie A,Lazio,EUR,72380000
-989,Serie A,Fiorentina,EUR,64070000
-990,Serie A,Atalanta,EUR,62680000
-991,Serie A,Torino,EUR,49150000
-992,Serie A,Bologna,EUR,43920000
-993,Serie A,Como,EUR,42160000
-994,Serie A,Sassuolo,EUR,39960000
-995,Serie A,Cremonese,EUR,32670000
-996,Serie A,Genoa,EUR,29450000
-997,Serie A,Hellas Verona,EUR,28950000
-998,Serie A,Cagliari,EUR,25880000
-999,Serie A,Udinese,EUR,24320000
-1000,Serie A,Parma,EUR,22290000
-1001,Serie A,Pisa,EUR,21240000
-1002,Serie A,Lecce,EUR,17160000
-1003,Super Lig,Fenerbahce,EUR,99680000
-1004,Super Lig,Galatasaray,EUR,97280000
-1005,Super Lig,Besiktas,EUR,42770000
-1006,Super Lig,Trabzonspor,EUR,31170000
-1007,Super Lig,Basaksehir,EUR,21440000
-1008,Super Lig,Konyaspor,EUR,16250000
-1009,Super Lig,Kayserispor,EUR,14670000
-1010,Super Lig,Kasimpasa,EUR,13560000
-1011,Super Lig,Samsunspor,EUR,13415000
-1012,Super Lig,Caykur Rizespor,EUR,13350000
-1013,Super Lig,Alanyaspor,EUR,13120000
-1014,Super Lig,Karagumrukspor,EUR,12440000
-1015,Super Lig,Gaziantep BB,EUR,10940000
-1016,Super Lig,Antalyaspor,EUR,10750000
-1017,Super Lig,Kocaelispor,EUR,10220000
-1018,Super Lig,Genclerbirligi SK,EUR,9700000
-1019,Super Lig,Goztepe,EUR,8600000
-1020,Super Lig,Eyupspor,EUR,7920000
+1633,Bundesliga,Bayern Munich,EUR,283070000
+1634,Bundesliga,Borussia Dortmund,EUR,131030000
+1635,Bundesliga,Bayer Leverkusen,EUR,103360000
+1636,Bundesliga,Leipzig,EUR,89027000
+1637,Bundesliga,Stuttgart,EUR,66520000
+1638,Bundesliga,Freiburg,EUR,59558000
+1639,Bundesliga,Hoffenheim,EUR,54679000
+1640,Bundesliga,Monchengladbach,EUR,48470000
+1641,Bundesliga,Koln,EUR,41468000
+1642,Bundesliga,Werder Bremen,EUR,41371000
+1643,Bundesliga,Eintracht Frankfurt,EUR,40060000
+1644,Bundesliga,Mainz,EUR,36431000
+1645,Bundesliga,Augsburg,EUR,36380000
+1646,Bundesliga,Union Berlin,EUR,35942000
+1647,Bundesliga,Hamburg,EUR,30442000
+1648,Bundesliga,Schalke 04,EUR,23858000
+1649,Bundesliga,Elversberg,EUR,10507000
+1650,Bundesliga,Paderborn,EUR,9614000
+1651,Championship,West Ham,EUR,83275010
+1652,Championship,Wolverhampton,EUR,71920030
+1653,Championship,Burnley,EUR,49298725
+1654,Championship,Southampton,EUR,39216450
+1655,Championship,Sheffield United,EUR,33299175
+1656,Championship,Birmingham,EUR,27149850
+1657,Championship,Norwich,EUR,26247949
+1658,Championship,Stoke City,EUR,22044750
+1659,Championship,Cardiff,EUR,20884500
+1660,Championship,Derby County,EUR,20884500
+1661,Championship,Wrexham,EUR,20644715
+1662,Championship,Middlesbrough,EUR,19221475
+1663,Championship,Blackburn,EUR,18564000
+1664,Championship,Preston,EUR,16823625
+1665,Championship,Bristol,EUR,16204825
+1666,Championship,Swansea,EUR,16204825
+1667,Championship,West Bromwich,EUR,15586025
+1668,Championship,Watford,EUR,15276625
+1669,Championship,QPR,EUR,14822045
+1670,Championship,Millwall,EUR,13505310
+1671,Championship,Portsmouth,EUR,11989250
+1672,Championship,Charlton,EUR,11006905
+1673,Championship,Lincoln,EUR,10318490
+1674,Championship,Bolton,EUR,9746100
+1675,Eredivisie,PSV,EUR,40220000
+1676,Eredivisie,Ajax,EUR,31500000
+1677,Eredivisie,Feyenoord,EUR,20810000
+1678,Eredivisie,AZ Alkmaar,EUR,13910000
+1679,Eredivisie,Utrecht,EUR,8810000
+1680,Eredivisie,Twente,EUR,8320000
+1681,Eredivisie,NEC Nijmegen,EUR,7260000
+1682,Eredivisie,Fortuna Sittard,EUR,6880000
+1683,Eredivisie,Heerenveen,EUR,4490000
+1684,Eredivisie,PEC Zwolle,EUR,4330000
+1685,Eredivisie,Groningen,EUR,3410000
+1686,Eredivisie,Sparta Rotterdam,EUR,3210000
+1687,Eredivisie,Willem II,EUR,2700000
+1688,Eredivisie,Go Ahead Eagles,EUR,1900000
+1689,Eredivisie,Excelsior,EUR,1860000
+1690,Eredivisie,Cambuur Leeuwarden,EUR,1140000
+1691,Eredivisie,ADO Den Haag,EUR,990000
+1692,Eredivisie,Telstar,EUR,760000
+1693,La Liga,Real Madrid,EUR,426900000
+1694,La Liga,Barcelona,EUR,285320000
+1695,La Liga,Atletico Madrid,EUR,185040000
+1696,La Liga,Athletic Club,EUR,101260000
+1697,La Liga,Real Betis,EUR,76590000
+1698,La Liga,Real Sociedad,EUR,70560000
+1699,La Liga,Villarreal,EUR,62740000
+1700,La Liga,Valencia,EUR,55990000
+1701,La Liga,Sevilla,EUR,42363000
+1702,La Liga,Rayo Vallecano,EUR,40662000
+1703,La Liga,Espanyol,EUR,39075000
+1704,La Liga,Celta Vigo,EUR,36263000
+1705,La Liga,Getafe,EUR,35030000
+1706,La Liga,Osasuna,EUR,33060000
+1707,La Liga,Alaves,EUR,27045000
+1708,La Liga,Elche,EUR,20082000
+1709,La Liga,Levante,EUR,17789000
+1710,La Liga,Deportivo,EUR,14002000
+1711,La Liga,Malaga,EUR,10805000
+1712,La Liga,Racing Santander,EUR,9138000
+1713,Ligue 1,PSG,EUR,247210000
+1714,Ligue 1,Marseille,EUR,68458000
+1715,Ligue 1,Lyon,EUR,60906000
+1716,Ligue 1,Rennes,EUR,56591000
+1717,Ligue 1,Monaco,EUR,52730000
+1718,Ligue 1,Nice,EUR,46525000
+1719,Ligue 1,Lille,EUR,41340000
+1720,Ligue 1,Lens,EUR,35668000
+1721,Ligue 1,Paris FC,EUR,34995000
+1722,Ligue 1,Strasbourg,EUR,25590000
+1723,Ligue 1,Brest,EUR,24639000
+1724,Ligue 1,Lorient,EUR,21565000
+1725,Ligue 1,Toulouse,EUR,19190000
+1726,Ligue 1,Auxerre,EUR,18463000
+1727,Ligue 1,Angers,EUR,17238000
+1728,Ligue 1,Troyes,EUR,10454000
+1729,Ligue 1,Le Havre,EUR,9155000
+1730,Ligue 1,Le Mans,EUR,4328000
+1731,MLS,Inter Miami,EUR,49029078
+1732,MLS,LA Galaxy,EUR,27895693
+1733,MLS,LA FC,EUR,25833295
+1734,MLS,FC Cincinnati,EUR,20880453
+1735,MLS,Nashville SC,EUR,20641818
+1736,MLS,Vancouver Whitecaps,EUR,20081733
+1737,MLS,NYC FC,EUR,17789119
+1738,MLS,Atlanta United,EUR,17617611
+1739,MLS,Toronto FC,EUR,17614884
+1740,MLS,NY Red Bulls,EUR,16982106
+1741,MLS,Seattle Sounders,EUR,16956810
+1742,MLS,NE Revolution,EUR,16497631
+1743,MLS,Charlotte FC,EUR,16247456
+1744,MLS,Chicago Fire,EUR,15761941
+1745,MLS,Austin,EUR,15103493
+1746,MLS,Portland Timbers,EUR,13864241
+1747,MLS,Houston Dynamo,EUR,12465002
+1748,MLS,FC Dallas,EUR,12257487
+1749,MLS,Minnesota United,EUR,11956021
+1750,MLS,San Jose Earthquakes,EUR,11890173
+1751,MLS,San Diego FC,EUR,11716074
+1752,MLS,Real Salt Lake,EUR,11676324
+1753,MLS,Columbus Crew,EUR,11158352
+1754,MLS,Orlando City,EUR,10698757
+1755,MLS,St. Louis City,EUR,10603197
+1756,MLS,DC United,EUR,10508101
+1757,MLS,Colorado Rapids,EUR,9486646
+1758,MLS,Philadelphia Union,EUR,9335089
+1759,MLS,CF Montreal,EUR,8548561
+1760,MLS,Sporting KC,EUR,6003355
+1761,Premier League,Manchester City,EUR,274669850
+1762,Premier League,Liverpool,EUR,254574320
+1763,Premier League,Arsenal,EUR,226852080
+1764,Premier League,Manchester United,EUR,224926065
+1765,Premier League,Tottenham,EUR,207027275
+1766,Premier League,Chelsea,EUR,149533020
+1767,Premier League,Aston Villa,EUR,147111965
+1768,Premier League,Newcastle,EUR,100168250
+1769,Premier League,Crystal Palace,EUR,98721805
+1770,Premier League,Nottingham Forest,EUR,95140500
+1771,Premier League,Bournemouth,EUR,92688505
+1772,Premier League,Everton,EUR,85757945
+1773,Premier League,Fulham,EUR,84698250
+1774,Premier League,Leeds,EUR,79554475
+1775,Premier League,Brighton,EUR,75145525
+1776,Premier League,Sunderland,EUR,74488050
+1777,Premier League,Brentford,EUR,72322250
+1778,Premier League,Ipswich Town,EUR,29006250
+1779,Premier League,Hull City,EUR,23622690
+1780,Premier League,Coventry,EUR,19492200
+1781,Primeira Liga,Benfica,EUR,60820000
+1782,Primeira Liga,Porto,EUR,44890000
+1783,Primeira Liga,Sporting Lisbon,EUR,25380000
+1784,Primeira Liga,Braga,EUR,12010000
+1785,Primeira Liga,Rio Ave,EUR,7760000
+1786,Primeira Liga,Estoril,EUR,7700000
+1787,Primeira Liga,Arouca,EUR,6560000
+1788,Primeira Liga,Casa Pia,EUR,6210000
+1789,Primeira Liga,Vitoria SC,EUR,6210000
+1790,Primeira Liga,Nacional,EUR,5830000
+1791,Primeira Liga,Gil Vicente,EUR,5510000
+1792,Primeira Liga,Famalicao,EUR,5130000
+1793,Primeira Liga,Moreirense,EUR,4390000
+1794,Primeira Liga,Estrela Amadora,EUR,4380000
+1795,Primeira Liga,Santa Clara,EUR,3310000
+1796,Primeira Liga,Alverca,EUR,3020000
+1797,Primeira Liga,Marítimo,EUR,1210000
+1798,Primeira Liga,Academico Viseu,EUR,560000
+1799,Serie A,Juventus,EUR,181540000
+1800,Serie A,Inter Milan,EUR,169949000
+1801,Serie A,AC Milan,EUR,134529000
+1802,Serie A,Napoli,EUR,132260000
+1803,Serie A,Roma,EUR,124493000
+1804,Serie A,Como,EUR,92410000
+1805,Serie A,Atalanta,EUR,91599000
+1806,Serie A,Lazio,EUR,91063000
+1807,Serie A,Fiorentina,EUR,75098000
+1808,Serie A,Torino,EUR,61650000
+1809,Serie A,Bologna,EUR,54711000
+1810,Serie A,Sassuolo,EUR,49251000
+1811,Serie A,Venezia,EUR,44143000
+1812,Serie A,Genoa,EUR,41774000
+1813,Serie A,Cagliari,EUR,36165000
+1814,Serie A,Udinese,EUR,35094000
+1815,Serie A,Monza,EUR,32725000
+1816,Serie A,Parma,EUR,32599000
+1817,Serie A,Frosinone,EUR,28642000
+1818,Serie A,Lecce,EUR,22928000
+1819,Super Lig,Fenerbahce,EUR,135070000
+1820,Super Lig,Galatasaray,EUR,134660000
+1821,Super Lig,Besiktas,EUR,69170000
+1822,Super Lig,Trabzonspor,EUR,63660000
+1823,Super Lig,Basaksehir,EUR,18720000
+1824,Super Lig,Caykur Rizespor,EUR,12310000
+1825,Super Lig,Konyaspor,EUR,11090000
+1826,Super Lig,Alanyaspor,EUR,10060000
+1827,Super Lig,Samsunspor,EUR,9120000
+1828,Super Lig,Gaziantep BB,EUR,9080000
+1829,Super Lig,Goztepe,EUR,8640000
+1830,Super Lig,Kasimpasa,EUR,8160000
+1831,Super Lig,Genclerbirligi SK,EUR,8050000
+1832,Super Lig,Kocaelispor,EUR,6660000
+1833,Super Lig,Eyupspor,EUR,2600000
+1834,Super Lig,Corum,EUR,2560000
+1835,Super Lig,Erzurumspor,EUR,1070000
+1836,Super Lig,Amedspor,EUR,940000
